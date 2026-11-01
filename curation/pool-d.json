@@ -1,0 +1,4547 @@
+[
+ {
+  "game": "Chrono Trigger",
+  "target": "2300 A.D. Ruined Domes",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ChronoTrigger-2300AD-ArrisDome.png",
+  "view": "top",
+  "dims": [
+   1216,
+   2512
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Chrono_Trigger/Walkthrough",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Chrono Trigger",
+  "target": "65,000,000 B.C. Tyrano Lair",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ChronoTrigger-65000000BC-TyranoLair.png",
+  "view": "top",
+  "dims": [
+   1280,
+   3552
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Chrono_Trigger/Walkthrough/Chapter_19",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VI",
+  "target": "Magitek Research Facility",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/FinalFantasyVI-WorldOfBalance-MagitekFactory.png",
+  "view": "top",
+  "dims": [
+   1568,
+   2216
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_VI/Chapter_10:_The_Floating_Island_to_the_World_of_Ruin",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Donkey Kong Country 2",
+  "target": "Bramble Scramble",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/DonkeyKongCountry2-Diddy'sKong-Quest-KrazyKremland-BrambleScramble.png",
+  "view": "other",
+  "dims": [
+   3913,
+   2545
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest/Walkthrough",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario RPG",
+  "target": "Booster's Tower",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperMarioRPG-LegendOfTheSevenStars-MoleMountains-BoosterTower.png",
+  "view": "side",
+  "dims": [
+   1776,
+   2576
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_RPG:_Legend_of_the_Seven_Stars",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II",
+  "target": "Rover Mansion",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/CastlevaniaII-Simon'sQuest-RoverMansion.png",
+  "view": "side",
+  "dims": [
+   2048,
+   675
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Castlevania_II",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Cut Man's Scaffolding",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaMan-CutMan.png",
+  "view": "side",
+  "dims": [
+   3360,
+   2192
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man/Gameplay",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man 5",
+  "target": "Gravity Man's Inversion Facility",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManV-GravityMan.png",
+  "view": "side",
+  "dims": [
+   3616,
+   1008
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_5",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man 6",
+  "target": "Tomahawk Man's Canyon",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManVI-TomahawkMan.png",
+  "view": "side",
+  "dims": [
+   4128,
+   1008
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_6",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby's Dream Land 3",
+  "target": "Grass Land Meadows & Cloudy Park",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Kirby'sDreamLand3-Level4-CloudyPark-Stage1.png",
+  "view": "side",
+  "dims": [
+   2960,
+   2344
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kirby%27s_Dream_Land_3/Gameplay",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania III: Dracula's Curse",
+  "target": "Forest of Madness & Sunken City",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/CastlevaniaIII-Dracula'sCurse-Level3-ForestOfDarkness.png",
+  "view": "side",
+  "dims": [
+   3584,
+   992
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Castlevania_III:_Dracula%27s_Curse/Gameplay",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy",
+  "target": "Coneria Castle, Marsh Caves & Flying Fortress",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/FinalFantasy-ConeriaCastle.png",
+  "view": "top",
+  "dims": [
+   1127,
+   640
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy II",
+  "target": "Pandemonium Hell Citadels & Cyclone Dungeons",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/FinalFantasyII(J)-Pandemonium.png",
+  "view": "top",
+  "dims": [
+   2798,
+   1119
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_II/Gameplay",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy III",
+  "target": "Crystal Towers, Floating Continents & Dark World",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/FinalFantasyIII(J)-Overworld-DarkWorld.png",
+  "view": "top",
+  "dims": [
+   2224,
+   1680
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_III",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby Super Star",
+  "target": "Halberd Warship Decks & Dyna Blade Peaks",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Kirby-SuperStar-DynaBlade-Stage1.png",
+  "view": "side",
+  "dims": [
+   3514,
+   1348
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kirby_Super_Star",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy IV",
+  "target": "Baron Castle, Underworld Magma & Lunar Subterrane",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/FinalFantasyIV(J)-BaronCastle.png",
+  "view": "top",
+  "dims": [
+   2640,
+   1184
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_IV",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy V",
+  "target": "Ancient Library Bookstacks & Interdimensional Rift",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/FinalFantasyV(J)-AncientLibrary.png",
+  "view": "top",
+  "dims": [
+   1296,
+   1120
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_V",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Chrono Trigger",
+  "target": "65M BC Jungles, 600 AD Middle Ages & 2300 AD Domes",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ChronoTrigger-600AD(MiddleAges).png",
+  "view": "top",
+  "dims": [
+   1536,
+   1152
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Chrono_Trigger",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Contra: Hard Corps",
+  "target": "City Highway Chases & Alien Core Laboratories",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Contra-HardCorps-Stage6A-AlienSpace.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Contra:_Hard_Corps",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda: A Link to the Past",
+  "target": "Light Hyrule & Dark Pyramid Realms",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/LegendOfZelda-ALinkToThePast-LightWorld-HyruleCastle.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1024
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past/Dark_World",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Bros.",
+  "target": "Green Sewer Pipes, Brick Platform Ledges & Freezing Icicles",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/MarioBros-Phases.png",
+  "view": "other",
+  "dims": [
+   768,
+   900
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mario_Bros./Walkthrough",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel02a.png",
+  "view": "side",
+  "dims": [
+   2048,
+   816
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel03a.png",
+  "view": "side",
+  "dims": [
+   3584,
+   624
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 5",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel05a.png",
+  "view": "side",
+  "dims": [
+   2304,
+   816
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 6",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel06a.png",
+  "view": "side",
+  "dims": [
+   3072,
+   624
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 1 \u2014 Eagle (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level1Q1BG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1056
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 2 \u2014 Moon (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level2Q1BG.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 3 \u2014 Manji (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level3Q1BG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1056
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 4 \u2014 Snake (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level4Q1BG.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 5 \u2014 Lizard (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level5Q1BG.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 6 \u2014 Dragon (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level6Q1BG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 7 \u2014 Demon (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level7Q1BG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 8 \u2014 Lion (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level8Q1BG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend of Zelda",
+  "target": "Level 9 \u2014 Death Mountain (First Quest)",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Zelda/Level9Q1BG.png",
+  "view": "top",
+  "dims": [
+   2048,
+   1408
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Zelda/ZeldaBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 1-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap1-2BG.png",
+  "view": "side",
+  "dims": [
+   3072,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 2-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap2-1BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 3-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap3-1BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 4-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap4-2BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 5-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap5-2BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Cut Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapCutManBG.png",
+  "view": "side",
+  "dims": [
+   3328,
+   2160
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Fire Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapFireManBG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Guts Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapGutsManBG.png",
+  "view": "side",
+  "dims": [
+   3840,
+   1200
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Metroid",
+  "target": "Norfair Volcanic Caverns",
+  "platform": "NES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/e/e2/Metroid_NES_map.png",
+  "view": "side",
+  "dims": [
+   500,
+   457
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Metroid/Gameplay",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man 2",
+  "target": "Bubble Man's Underwater Lair",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManII-BubbleMan.png",
+  "view": "side",
+  "dims": [
+   4640,
+   1232
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_2/Walkthrough",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Kirby's Adventure",
+  "target": "Rainbow Resort",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Kirby'sAdventure-Level7-RainbowResort.png",
+  "view": "top",
+  "dims": [
+   504,
+   362
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kirby%27s_Adventure/Walkthrough",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario World",
+  "target": "Forest of Illusion",
+  "platform": "SNES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/f/f7/Supermarioworldmap.jpg",
+  "view": "side",
+  "dims": [
+   542,
+   429
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_World/Walkthrough",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Contra III",
+  "target": "Neo City Streets",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ContraIII-AlienWars-Stage3-NeoKobeSteelFactory.png",
+  "view": "side",
+  "dims": [
+   4608,
+   2272
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Contra_III:_The_Alien_Wars/Gameplay",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Kart",
+  "target": "Rainbow Road",
+  "platform": "SNES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/4/49/SuperMarioKartMapSpecialCup5.png/800px-SuperMarioKartMapSpecialCup5.png",
+  "view": "other",
+  "dims": [
+   800,
+   800
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_Kart/Rainbow_Road",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man 7",
+  "target": "Junk Man's Scrapyard & Shade Man's Castle",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MegaManVII-JunkMan.png",
+  "view": "side",
+  "dims": [
+   4864,
+   2015
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_7",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man 6",
+  "target": "Plant Man Jungles & Blizzard Man Glaciers",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManVI-PlantMan.png",
+  "view": "side",
+  "dims": [
+   5152,
+   752
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_6",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Kart",
+  "target": "Donut Plains, Choco Mountain & Rainbow Road",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/5/5c/SuperMarioKartMapBattleCourse4.png/800px-SuperMarioKartMapBattleCourse4.png",
+  "view": "other",
+  "dims": [
+   800,
+   800
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_Kart/Battle_Course",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Kirby's Dream Land 3",
+  "target": "Crayon Storybook Meadows & Sand Dunes",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Kirby'sDreamLand3-Level3-SandCanyon-Stage1.png",
+  "view": "side",
+  "dims": [
+   4288,
+   1784
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kirby%27s_Dream_Land_3/Gameplay",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man 7",
+  "target": "Scrapyard Conveyors & Shade Man Haunted Keeps",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MegaManVII-ShadeMan.png",
+  "view": "side",
+  "dims": [
+   4864,
+   2015
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_7",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel01a.png",
+  "view": "side",
+  "dims": [
+   3584,
+   432
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Castlevania",
+  "target": "Level 4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Castlevania/CastlevaniaMapLevel04a.png",
+  "view": "side",
+  "dims": [
+   4032,
+   432
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Castlevania/CastlevaniaBGonly.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 1-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap1-1BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 2-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap2-2BG.png",
+  "view": "side",
+  "dims": [
+   3072,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 4-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap4-1BG.png",
+  "view": "side",
+  "dims": [
+   3840,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 5-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap5-1BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 7-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap7-1BG.png",
+  "view": "side",
+  "dims": [
+   3328,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 8-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap8-2BG.png",
+  "view": "side",
+  "dims": [
+   3840,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man",
+  "target": "Bomb Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapBombManBG.png",
+  "view": "side",
+  "dims": [
+   4352,
+   1200
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man",
+  "target": "Elec Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapElecManBG.png",
+  "view": "side",
+  "dims": [
+   1024,
+   5040
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man",
+  "target": "Ice Man",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/MegaMan/MegaManMapIceManBG.png",
+  "view": "side",
+  "dims": [
+   5120,
+   1200
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/MegaMan/MegaManBG.html",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Metroid",
+  "target": "Maridia Submerged Depths",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperMetroid-Maridia.png",
+  "view": "side",
+  "dims": [
+   8560,
+   5168
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Metroid/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic the Hedgehog",
+  "target": "Green Hill Zone",
+  "platform": "Genesis",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/b/bc/StH_map_Green_Hill_Act_1_Part_3.png/800px-StH_map_Green_Hill_Act_1_Part_3.png",
+  "view": "side",
+  "dims": [
+   800,
+   263
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_the_Hedgehog_(16-bit)/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic the Hedgehog 2",
+  "target": "Chemical Plant Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog2-ChemicalPlantZone-1.png",
+  "view": "side",
+  "dims": [
+   10496,
+   2048
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_the_Hedgehog_2/Chemical_Plant_Zone",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic the Hedgehog 2",
+  "target": "Casino Night Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog2-CasinoNightZone-1.png",
+  "view": "side",
+  "dims": [
+   10880,
+   2048
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_the_Hedgehog_2/Casino_Night_Zone",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic 3 & Knuckles",
+  "target": "Lava Reef Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-LavaReefZone-Act1.png",
+  "view": "side",
+  "dims": [
+   11776,
+   3072
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_the_Hedgehog_3_%26_Knuckles/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Mega Man 4",
+  "target": "Pharaoh Man's Sunken Tomb",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManIV-PharaohMan.png",
+  "view": "side",
+  "dims": [
+   6176,
+   1472
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_4",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Flying Battery Zone",
+  "platform": "Sega Genesis & Master System",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-FlyingBatteryZone-Act1.png",
+  "view": "side",
+  "dims": [
+   12288,
+   3072
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_%26_Knuckles/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Super Mario All",
+  "target": "Stars - Enhanced 16-Bit Mushroom Kingdoms",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperMarioAll-Stars-SuperMarioBros3-MushroomHouse.png",
+  "view": "side",
+  "dims": [
+   288,
+   432
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_All-Stars_%2B_Super_Mario_World",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Mega Man & Bass",
+  "target": "Cold Cryo-Vaults & Burner Man Swamps",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Rockman&Forte(J)-ColdMan.png",
+  "view": "side",
+  "dims": [
+   5376,
+   1503
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_%26_Bass",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Mega Man 3",
+  "target": "Gemini Man Crystals & Snake Man Columns",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/MegaManIII-GeminiMan.png",
+  "view": "side",
+  "dims": [
+   5920,
+   768
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_3/Doc_Man_in_Gemini_stage",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Final Fantasy Mystic Quest",
+  "target": "Focus Tower Nexus & Sand Temples",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/FinalFantasy-MysticQuest-FocusTower&DoomCastle.png",
+  "view": "top",
+  "dims": [
+   932,
+   5571
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fantasy_Mystic_Quest/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Castlevania: Bloodlines",
+  "target": "Ruined Castle Dracula & Sunken Atlantis",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Castlevania-Bloodlines-Stage1-RuinsOfTheCastleDraculaRomania.png",
+  "view": "side",
+  "dims": [
+   8728,
+   1696
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Castlevania:_Bloodlines/Stage_1",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Super Mario World 2: Yoshi's Island",
+  "target": "Pastel Hills, Flower Gardens & Castles",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperMarioWorld2-Yoshi'sIsland-World6-Extra6-Castles-MasterpieceSet.png",
+  "view": "side",
+  "dims": [
+   8463,
+   2051
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_World_2:_Yoshi%27s_Island",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Super Metroid",
+  "target": "Crateria Rain, Brinstar Jungles & Maridia Depths",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperMetroid-Crateria.png",
+  "view": "side",
+  "dims": [
+   13056,
+   4864
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Metroid/Gameplay",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 8-4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap8-4BG.png",
+  "view": "side",
+  "dims": [
+   5120,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "DuckTales",
+  "target": "The Moon Base",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DuckTales-Moon.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1384
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/DuckTales/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "EarthBound Beginnings",
+  "target": "Magicant",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Mother(J)-Magicant.png",
+  "view": "top",
+  "dims": [
+   2652,
+   1876
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/EarthBound_Beginnings/Ellay_Area",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior",
+  "target": "Charlock Castle",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonWarrior-CharlockCastle.png",
+  "view": "top",
+  "dims": [
+   1581,
+   1145
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dragon_Warrior/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rygar",
+  "target": "Lapis Valley",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Rygar-Lapis.png",
+  "view": "side",
+  "dims": [
+   2304,
+   960
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Rygar_(NES)/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Floating Tower of Babylon",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-FloatingTower.png",
+  "view": "top",
+  "dims": [
+   1570,
+   1750
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Crystalis/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "EarthBound",
+  "target": "Moonside Neon Grid",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/EarthBound-Moonside.png",
+  "view": "top",
+  "dims": [
+   1030,
+   1411
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/EarthBound/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Beyond Oasis",
+  "target": "Water Temple Aqueducts",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/BeyondOasis-WaterShrine.png",
+  "view": "top",
+  "dims": [
+   964,
+   3033
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Beyond_Oasis/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dig Dug",
+  "target": "Arcade Cavern Stratum",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/DigDug(J)-Rounds.png",
+  "view": "other",
+  "dims": [
+   2788,
+   2628
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dig_Dug/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Double Dragon II",
+  "target": "Helipads & Gear Works",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DoubleDragonII-TheRevenge-Maps.png",
+  "view": "side",
+  "dims": [
+   1947,
+   2418
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Double_Dragon_II:_The_Revenge",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Breath of Fire II",
+  "target": "TownShip Floating Citadel",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/BreathOfFireII-Township.png",
+  "view": "top",
+  "dims": [
+   2195,
+   2995
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Breath_of_Fire_II/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Super Star Wars",
+  "target": "Sandcrawler Hull",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperStarWars-Tatooine-OutsideSandcrawler.png",
+  "view": "side",
+  "dims": [
+   1672,
+   1059
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Star_Wars",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Metro City Subway",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round2-SubwayPark.png",
+  "view": "side",
+  "dims": [
+   2587,
+   783
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Final_Fight/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "The Battle of Olympus",
+  "target": "Mount Olympus & Tartarus",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/BattleOfOlympus-Tartarus.png",
+  "view": "side",
+  "dims": [
+   3364,
+   2125
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Battle_of_Olympus/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Frozen Mountain Peaks & Styx Citadel",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-CaveOfStyx.png",
+  "view": "top",
+  "dims": [
+   1520,
+   4132
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Crystalis/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Little Nemo: The Dream Master",
+  "target": "Mushroom Forest & House of Toys",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/LittleNemo-TheDreamMaster-Dream1-MushroomForest.png",
+  "view": "side",
+  "dims": [
+   3330,
+   933
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Little_Nemo:_The_Dream_Master",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Star Ocean",
+  "target": "Roak Primitive Forests & High-Tech Labs",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/StarOcean(J)-TimeSpaceLab.png",
+  "view": "top",
+  "dims": [
+   3080,
+   3593
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Star_Ocean:_The_Last_Hope/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lufia & the Fortress of Doom",
+  "target": "Floating Island Doom Fortress",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-FortressOfDoomRuins.png",
+  "view": "top",
+  "dims": [
+   752,
+   3024
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Lufia_%26_the_Fortress_of_Doom",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force",
+  "target": "Bustoke Mountain Passes & Prompt Fortress",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter3-SecretWeaponOfRunefaust-Bustoke.png",
+  "view": "top",
+  "dims": [
+   2616,
+   984
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shining_Force",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Marvel Super Heroes",
+  "target": "Thanos' Cosmic Shrine & Asteroids",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/MarvelSuperHeroes-Thanos.png",
+  "view": "side",
+  "dims": [
+   1504,
+   480
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Marvel_Super_Heroes/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dungeons & Dragons: Tower of Doom",
+  "target": "Cursed Dragon Crypts",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Dungeons&Dragons-TowerOfDoom-Stage6-DragonCave.png",
+  "view": "side",
+  "dims": [
+   2651,
+   1250
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dungeons_%26_Dragons:_Tower_of_Doom/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Magic Sword",
+  "target": "50-Floor Tower of Drokmar",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MagicSword-Floors41-50.png",
+  "view": "side",
+  "dims": [
+   2662,
+   1945
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Magic_Sword",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Metal Gear",
+  "target": "Building 1 Warehouses & Outer Heaven Silos",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/MetalGear-Building1.png",
+  "view": "side",
+  "dims": [
+   3172,
+   2438
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Metal_Gear",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "Amazon Jungles, Transylvania & Moon Crags",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DuckTales-Transylvania.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1403
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/DuckTales/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales 2",
+  "target": "Niagara Falls, Bermuda Shipwrecks & Pyramids",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DuckTales2-Niagara.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1384
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/DuckTales_2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Chip 'n Dale Rescue Rangers 2",
+  "target": "Sewer Flumes & Clockwork Towers",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Chip'NDale-RescueRangers2-Level6-ClockTower.png",
+  "view": "side",
+  "dims": [
+   2337,
+   1904
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Chip_%27n_Dale_Rescue_Rangers_2/Future_World",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Darkwing Duck",
+  "target": "Bridge Suspensions & Rooftop Water Towers",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DarkwingDuck-Tower.png",
+  "view": "side",
+  "dims": [
+   2570,
+   2624
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Darkwing_Duck/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Gargoyle's Quest II",
+  "target": "Ghoul Realm Citadels & Molten Chasms",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Gargoyle'sQuestII-DemonDarkness-GhoulRealm.png",
+  "view": "side",
+  "dims": [
+   2000,
+   1904
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Gargoyle%27s_Quest_II",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior",
+  "target": "Alefgard Plains & Charlock Castle Crypts",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonWarrior-Alefgard.png",
+  "view": "top",
+  "dims": [
+   2304,
+   2048
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dragon_Warrior/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Tower of Rubiss & Underworld Alefgard",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonWarriorIII-WorldOfDarkness-Alefgard-TowerWestOfKol.png",
+  "view": "top",
+  "dims": [
+   1237,
+   2139
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dragon_Warrior_III",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Wind Valley, Mt. Sabre & Floating Babylon Spire",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-WindValley.png",
+  "view": "top",
+  "dims": [
+   1648,
+   1714
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Crystalis/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Faxanadu",
+  "target": "Trunk Towns, Branch Valleys & Mist Mist Castles",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Faxanadu-TowerOfTrunk.png",
+  "view": "side",
+  "dims": [
+   1792,
+   600
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Faxanadu/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rygar (NES)",
+  "target": "Gran Mountain Chasms & Floating Sky Temples",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Rygar-GranMountain.png",
+  "view": "side",
+  "dims": [
+   3328,
+   960
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Rygar/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Secret of Mana",
+  "target": "Potos Falls, Gaia's Navel & Floating Mana Citadels",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SecretOfMana-PotosFalls.png",
+  "view": "top",
+  "dims": [
+   2564,
+   1314
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Secret_of_Mana",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Trials of Mana",
+  "target": "Gemstone Forests, Ice Labyrinths & Dragon Holes",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SeikenDensetsu3(J)-LabyrinthOfIceWalls.png",
+  "view": "side",
+  "dims": [
+   1648,
+   1920
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Trials_of_Mana",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Soul Blazer",
+  "target": "GreenWood Forests & St. Elles Submerged Palaces",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SoulBlazer-WoodsOfGreenwood.png",
+  "view": "top",
+  "dims": [
+   1540,
+   1505
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Soul_Blazer/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Illusion of Gaia",
+  "target": "Desert Nazca Lines & Sky-High Great Wall",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/IllusionOfGaia-Nazca.png",
+  "view": "top",
+  "dims": [
+   1026,
+   1026
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Illusion_of_Gaia/Gameplay",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Tales of Phantasia",
+  "target": "Spirit Forest Clearings & Dark Space Towers",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/TalesOfPhantasia(J)-SpiritForest.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1056
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tales_of_Phantasia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy in Monster World",
+  "target": "Monster Village & Molten Volcano Vents",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/WonderBoyInMonsterWorld-MonsterWorld.png",
+  "view": "side",
+  "dims": [
+   2664,
+   1962
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Wonder_Boy_in_Monster_World",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Dezo Crevasses, Control Towers & Bio-Systems",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Motavia-ControlTower.png",
+  "view": "top",
+  "dims": [
+   1632,
+   1648
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Phantasy_Star_II",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star IV: The End of the Millennium",
+  "target": "Motavia Sand Dunes & Rykros Crystals",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Rykros.png",
+  "view": "top",
+  "dims": [
+   1600,
+   1600
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Phantasy_Star_IV:_The_End_of_the_Millennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Grans Island Overworld & Devil's Tail Bastions",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-Devil'sHead.png",
+  "view": "top",
+  "dims": [
+   752,
+   2160
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shining_Force_II",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Dig Dug II",
+  "target": "Sinking Island Cliffs, Perimeter Fault Lines & Coral Seas",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/DigDugII-Rounds.png",
+  "view": "other",
+  "dims": [
+   2979,
+   1641
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dig_Dug_II/Walkthrough",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "Transylvania",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/DuckTails/DuckTalesMap2BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/DuckTails/DuckTalesBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "African Mines",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/DuckTails/DuckTalesMap3BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1440
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/DuckTails/DuckTalesBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "The Himalayas",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/DuckTails/DuckTalesMap4BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/DuckTails/DuckTalesBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "The Moon",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/DuckTails/DuckTalesMap5BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1440
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/DuckTails/DuckTalesBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "DuckTales",
+  "target": "The Amazon",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/DuckTails/DuckTalesMap1BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/DuckTails/DuckTalesBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 2-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage2-1BG.png",
+  "view": "side",
+  "dims": [
+   2560,
+   784
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 4-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage4-1BG.png",
+  "view": "side",
+  "dims": [
+   2816,
+   560
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 4-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage4-3BG.png",
+  "view": "side",
+  "dims": [
+   2560,
+   784
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 5-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage5-2BG.png",
+  "view": "side",
+  "dims": [
+   1024,
+   768
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 5-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage5-3BG.png",
+  "view": "side",
+  "dims": [
+   1024,
+   1296
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 6-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage6-2BG.png",
+  "view": "side",
+  "dims": [
+   2304,
+   976
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 6-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage6-3BG.png",
+  "view": "side",
+  "dims": [
+   2048,
+   784
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Village of Leaf",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap01VillageOfLeafBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Wind Valley",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap02WindValleyBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Cave of Zebu",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap03CaveOfZebuBG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   960
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Sealed Cave",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap05SealedCaveBG.png",
+  "view": "top",
+  "dims": [
+   2224,
+   2008
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Cordel Plain",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap06CordelPlainBG.png",
+  "view": "top",
+  "dims": [
+   2048,
+   2160
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Forest Maze",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap08ForestMazeBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1200
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Tower in the Sky",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap99TowerInTheSkyBG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 1-1",
+  "platform": "NES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/c/c8/SMB1_Map_1-3_p1.png",
+  "view": "other",
+  "dims": [
+   658,
+   112
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Mario_Bros./Walkthrough",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Mega Man X",
+  "target": "Central Highway",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MegaManX-Highway.png",
+  "view": "side",
+  "dims": [
+   7696,
+   496
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_X/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Mega Man",
+  "target": "Cut Man Scaffolding & Guts Man Mine",
+  "platform": "NES / Famicom",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/4/4a/Mega_Man_1_Cut_Man_map4.png",
+  "view": "side",
+  "dims": [
+   768,
+   120
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Mega Man 2",
+  "target": "Heat Man Magma Blocks & Air Man Clouds",
+  "platform": "NES / Famicom",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/6/6a/Mega_Man_2_map_Heat_Man_E.png",
+  "view": "side",
+  "dims": [
+   768,
+   120
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Man_2/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Contra",
+  "target": "Archipelago Jungles & Organic Alien Nests",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Contra-Stage1-Jungle.png",
+  "view": "side",
+  "dims": [
+   3840,
+   240
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Contra/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Kirby's Adventure",
+  "target": "Vegetable Valley & Fountain of Dreams",
+  "platform": "NES / Famicom",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/d/d5/Kirby%27s_Adv_Lv1-4-4_map.png/800px-Kirby%27s_Adv_Lv1-4-4_map.png",
+  "view": "top",
+  "dims": [
+   800,
+   106
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kirby%27s_Adventure/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Donkey Kong Country",
+  "target": "Jungle Canopies, Mine Carts & Snow Barrels",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/DonkeyKongCountry-KongoJungle.png",
+  "view": "other",
+  "dims": [
+   512,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong_Country/Gameplay",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+  "target": "Pirate Galleons & Brambles",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/DonkeyKongCountry2-Diddy'sKong-Quest-GangplankGalleon-PiratePanic.png",
+  "view": "other",
+  "dims": [
+   8900,
+   497
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 1-4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap1-4BG.png",
+  "view": "side",
+  "dims": [
+   3035,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 2-4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap2-4BG.png",
+  "view": "side",
+  "dims": [
+   3035,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 3-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap3-2BG.png",
+  "view": "side",
+  "dims": [
+   4059,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 6-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap6-1BG.png",
+  "view": "side",
+  "dims": [
+   3840,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 2-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap2-3BG.png",
+  "view": "side",
+  "dims": [
+   4315,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 4-4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap4-4BG.png",
+  "view": "side",
+  "dims": [
+   3547,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 7-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap7-3BG.png",
+  "view": "side",
+  "dims": [
+   4352,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 8-3",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap8-3BG.png",
+  "view": "side",
+  "dims": [
+   4352,
+   240
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Blaster Master",
+  "target": "Area 1 Underworld",
+  "platform": "NES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/d/d2/Blaster_Master_map_Area_1-A.png/800px-Blaster_Master_map_Area_1-A.png",
+  "view": "side",
+  "dims": [
+   800,
+   439
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Blaster_Master/Area_1",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Secret of Mana",
+  "target": "The Mana Fortress",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SecretOfMana-ManaFortress.png",
+  "view": "top",
+  "dims": [
+   4420,
+   2552
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Secret_of_Mana/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Star Fox",
+  "target": "Orbital Asteroid Belt",
+  "platform": "SNES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/e/e5/SF1_Map.png/800px-SF1_Map.png",
+  "view": "other",
+  "dims": [
+   800,
+   626
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Star_Fox/Gameplay",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Turtle Village",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxe-Level2-TurtleVillage.png",
+  "view": "side",
+  "dims": [
+   1378,
+   383
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Golden_Axe/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Ecco the Dolphin",
+  "target": "Open Ocean & Sunken Temples",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EccoTheDolphin-OpenOcean.png",
+  "view": "side",
+  "dims": [
+   512,
+   694
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ecco_the_Dolphin/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shatterhand",
+  "target": "Industrial Smelting Plant",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Shatterhand-AreaD-FiltrationPlant.png",
+  "view": "side",
+  "dims": [
+   4367,
+   753
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shatterhand/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Earthworm Jim 2",
+  "target": "Lorenzen's Soil Caverns",
+  "platform": "Sega Genesis & Master System",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim2-Lorenzen'sSoil.png",
+  "view": "side",
+  "dims": [
+   959,
+   4458
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Earthworm_Jim_2",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Darkwing Duck",
+  "target": "St. Canard Bridges & Rooftops",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DarkwingDuck-Bridge.png",
+  "view": "side",
+  "dims": [
+   4362,
+   704
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Darkwing_Duck/Gameplay",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "ActRaiser 2",
+  "target": "Althena Palace & Volcanic Underworld",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ActRaiser2-Stage5-Act1-Palace.png",
+  "view": "side",
+  "dims": [
+   4476,
+   1591
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/ActRaiser_2",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Super Punch-Out!! (Arcade)",
+  "target": "World Title Championship Ring Corners",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperPunch-Out!!-Rings.png",
+  "view": "side",
+  "dims": [
+   867,
+   433
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Punch-Out!!/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Breath of Fire",
+  "target": "Dragon Ruins, Forest Villages & Scather Shrines",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/BreathOfFire-DragonPalace1.png",
+  "view": "top",
+  "dims": [
+   551,
+   400
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Breath_of_Fire/Gameplay",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Terranigma",
+  "target": "Inverted Crystalline Cores & Reborn Continents",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Terranigma-ShipToTheNewContinent.png",
+  "view": "top",
+  "dims": [
+   912,
+   382
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Terranigma",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Crusader of Centy",
+  "target": "Soleil Town Glades & Tower of Babel",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CrusaderOfCenty-TowerOfBabel.png",
+  "view": "top",
+  "dims": [
+   512,
+   4480
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Crusader_of_Centy/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Knights of the Round",
+  "target": "Saxon Village Sieges, Forest Encampments & Castles",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/KnightsOfTheRound-Stage3-BattleAtTheCastleFort.png",
+  "view": "side",
+  "dims": [
+   3967,
+   453
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Knights_of_the_Round",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Punch-Out!! (Arcade)",
+  "target": "Dual-Screen Boxing Arena Canvas & Ring Lights",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/Punch-Out!!-BoxingRings.png",
+  "view": "side",
+  "dims": [
+   1030,
+   466
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Punch-Out!!/Walkthrough",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 2-2",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage2-2BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   400
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Super Ghouls 'n Ghosts",
+  "target": "Sea of Despair",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperGhouls'NGhosts-Stage2-GraveyardOfShips&SeaOfDespair.png",
+  "view": "side",
+  "dims": [
+   5728,
+   752
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Ghouls_%27n_Ghosts/Stage_1",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "ActRaiser",
+  "target": "Bloodpool Marshlands",
+  "platform": "SNES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/0/05/ActraiserSmallMapBloodpoolAct2.png/800px-ActraiserSmallMapBloodpoolAct2.png",
+  "view": "side",
+  "dims": [
+   800,
+   250
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/ActRaiser/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Terranigma",
+  "target": "Underworld Crystalline Core",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Terranigma-Underworld-Mu.png",
+  "view": "top",
+  "dims": [
+   256,
+   510
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Terranigma/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Demon's Crest",
+  "target": "Cemetery of the Undead",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Demon'sCrest-Murkland-Cemetery.png",
+  "view": "side",
+  "dims": [
+   2048,
+   276
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Demon%27s_Crest/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "F-Zero",
+  "target": "Mute City Anti-Gravity Track",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/F-Zero-KnightLeague-MuteCityI.png",
+  "view": "other",
+  "dims": [
+   6880,
+   3488
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/F-Zero/Gameplay",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Gunstar Heroes",
+  "target": "Flying Battleship Megasys",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GunstarHeroes-FlyingBattleship.png",
+  "view": "side",
+  "dims": [
+   2286,
+   6771
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Gunstar_Heroes/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Pac-Man",
+  "target": "The Neon Labyrinth",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Pac-Man-Mazes.png",
+  "view": "top",
+  "dims": [
+   680,
+   260
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Pac-Man%27s_Revenge/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Frogger",
+  "target": "Highway & Waterway",
+  "platform": "More Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Frogger-Maps.png",
+  "view": "other",
+  "dims": [
+   915,
+   384
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Frogger",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Earthworm Jim",
+  "target": "New Junk City",
+  "platform": "Sega Genesis & Master System",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim-NewJunkCity.png",
+  "view": "side",
+  "dims": [
+   5550,
+   936
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Earthworm_Jim",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Paperboy",
+  "target": "Isometric Suburban Neighborhood",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/Paperboy-Street.png",
+  "view": "side",
+  "dims": [
+   5875,
+   5866
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Paperboy",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Elevator Action",
+  "target": "30-Story High-Rise Shafts",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/ElevatorAction-Building1.png",
+  "view": "other",
+  "dims": [
+   265,
+   1688
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Elevator_Action/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Tales of Phantasia",
+  "target": "Dhaos' Dark Space Citadel",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/TalesOfPhantasia(J)-Dhaos'Castle(Past).png",
+  "view": "top",
+  "dims": [
+   1376,
+   5536
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tales_of_Phantasia",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Motavia Biosystems & Dezoris Crevasses",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Motavia-BiosystemsLab.png",
+  "view": "top",
+  "dims": [
+   1568,
+   5296
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Phantasy_Star_II",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Golden Axe II",
+  "target": "Ancient Ruined Colosseums & Dragon Caves",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeII-Level4-Dragon'sThroat.png",
+  "view": "side",
+  "dims": [
+   2112,
+   344
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Golden_Axe_II/Gameplay",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Vampire Savior",
+  "target": "Fetus of God Organic Cathedral",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/VampireSavior-LordOfVampire-FetusOfGod.png",
+  "view": "side",
+  "dims": [
+   960,
+   240
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Vampire_Savior/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Dragon Warrior IV",
+  "target": "Hidden Endor Valley & World Tree Yggdrasil",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonWarriorIV-Chapter2-PrincessAlena'sAdventure-ShrineNorthwestOfEndor.png",
+  "view": "top",
+  "dims": [
+   272,
+   467
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dragon_Warrior_IV/Gameplay",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "EarthBound",
+  "target": "Onett Suburbs, Fourside Skyscrapers & Moonside Grids",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/EarthBound-Onett.png",
+  "view": "top",
+  "dims": [
+   5894,
+   3330
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/EarthBound",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Lunar: Eternal Blue",
+  "target": "Taben's Peak, Blue Spire & The Dark God's Citadel",
+  "platform": "Sega CD / Mega-CD / 32X",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-Taben'sPeak.png",
+  "view": "top",
+  "dims": [
+   1120,
+   8880
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Lunar:_Eternal_Blue",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Xevious",
+  "target": "Nazca Surface Lines, Primeval River Valleys & Flying Andor Genesis",
+  "platform": "Arcade",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/3/36/Xevious_world_map.png",
+  "view": "top",
+  "dims": [
+   256,
+   512
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Xevious/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Ms. Pac-Man",
+  "target": "Pastel Pink, Blue & Orange Multi-Exit Maze Layouts",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/MsPac-Man-Mazes.png",
+  "view": "top",
+  "dims": [
+   1140,
+   253
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ms._Pac-Man/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Ice Climber",
+  "target": "32 Mountain Peak Vertical Shafts, Moving Clouds & Polar Ice",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/IceClimber-Maps.png",
+  "view": "side",
+  "dims": [
+   8254,
+   878
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ice_Climber/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Joust",
+  "target": "Volcanic Lava Pits, Rock Ledges & Pterodactyl Roosts",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/Joust&Joust(J)-Waves.png",
+  "view": "other",
+  "dims": [
+   1674,
+   1306
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Joust/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Tempest",
+  "target": "3D Geometric Vector Tubes, Web Chasms & Spikes",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Tempest-Levels.png",
+  "view": "other",
+  "dims": [
+   1923,
+   2565
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tempest/Walkthrough",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "A Boy and His Blob",
+  "target": "Blobolonia",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/BoyAndHisBlob-TroubleOnBlobolonia-Earth(NightWorld).png",
+  "view": "side",
+  "dims": [
+   1984,
+   1872
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/A_Boy_and_His_Blob:_Trouble_on_Blobolonia/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "A Link to the Past",
+  "target": "Dark World Pyramid",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/LegendOfZelda-ALinkToThePast-DarkWorld-PyramidOfPower.png",
+  "view": "side",
+  "dims": [
+   1024,
+   1024
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Comix Zone",
+  "target": "Mutant Drainage Sewers",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ComixZone-Episode1-NightOfTheMutants.png",
+  "view": "side",
+  "dims": [
+   2048,
+   976
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Comix_Zone/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Legacy of the Wizard",
+  "target": "Underworld Labyrinth",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/LegacyOfTheWizard-Dungeon.png",
+  "view": "side",
+  "dims": [
+   4160,
+   3376
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Legacy_of_the_Wizard/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Willow",
+  "target": "Nockmaar Castle & Lake",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Willow-NockmaarCastle.png",
+  "view": "top",
+  "dims": [
+   2304,
+   1200
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Willow/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Secret of Evermore",
+  "target": "Antiqua Colosseum",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SecretOfEvermore-Nobilia-Colosseum.png",
+  "view": "side",
+  "dims": [
+   1424,
+   976
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Secret_of_Evermore",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Uniracers",
+  "target": "Mode 7 Neon Rollercoaster Tracks",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Uniracers-Hunter-Neon.png",
+  "view": "side",
+  "dims": [
+   3486,
+   1102
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Uniracers",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Tetris Attack",
+  "target": "Bowser's Sky Fortress",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/TetrisAttack-World.png",
+  "view": "other",
+  "dims": [
+   2279,
+   1222
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tetris_Attack/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Plok",
+  "target": "Cotton Island & Flea Caverns",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Plok!-CottonIsland-Beach.png",
+  "view": "side",
+  "dims": [
+   2448,
+   1776
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Plok",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Shadow Dancer",
+  "target": "Burning Statue of Liberty",
+  "platform": "Sega Genesis & Master System",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShadowDancer-Rd3-StatueOfLiberty.png",
+  "view": "side",
+  "dims": [
+   994,
+   3312
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shadow_Dancer:_The_Secret_of_Shinobi/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Robin Hood: Prince of Thieves",
+  "target": "Sherwood Forest Glades",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/RobinHood-PrinceOfThieves-SherwoodForest.png",
+  "view": "side",
+  "dims": [
+   1272,
+   1222
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Robin_Hood:_Prince_of_Thieves/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Rad Racer",
+  "target": "Coastal Sunset Highways & City Skylines",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/RadRacer-Courses.png",
+  "view": "other",
+  "dims": [
+   870,
+   2628
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Rad_Racer/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Willow",
+  "target": "Tir Asleen Castle Dungeons",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Willow-TirAsleenCastle.png",
+  "view": "top",
+  "dims": [
+   2304,
+   2640
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Willow/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Magical Quest Starring Mickey Mouse",
+  "target": "Treetop Vine Village",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MagicalQuest-StarringMickeyMouse-Stage1-Treetops-Area1.png",
+  "view": "side",
+  "dims": [
+   3840,
+   734
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Magical_Quest_Starring_Mickey_Mouse",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Skyblazer",
+  "target": "Mythological Temple Ruins & Sand Seas",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Skyblazer-World.jpg",
+  "view": "side",
+  "dims": [
+   962,
+   1017
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Skyblazer",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Batman Returns",
+  "target": "Gotham Plaza Ice Shows & Rooftops",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/BatmanReturns-Scene1-AmbushInGothamPlaza.png",
+  "view": "side",
+  "dims": [
+   2338,
+   929
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Batman_Returns/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Flashback: The Quest for Identity",
+  "target": "New Washington Cyber-City",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Flashback-QuestForIdentity-Level3-CyberTower.png",
+  "view": "side",
+  "dims": [
+   1814,
+   1783
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Flashback:_The_Quest_for_Identity/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Rock N' Roll Racing",
+  "target": "Chem-VI Mud Tracks & Inferno Circuits",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/RockN'RollRacing-ChemVI-DivisionsB&A-Track1.png",
+  "view": "other",
+  "dims": [
+   3104,
+   952
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Rock_N%27_Roll_Racing",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Super Off Road",
+  "target": "Enclosed Dirt Arena Jumps & Mud Pits",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperOffRoad-RacingTracks.png",
+  "view": "other",
+  "dims": [
+   1027,
+   771
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Off_Road:_The_Baja/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Jungle Strike",
+  "target": "Washington D.C. Monuments & Amazon Outposts",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/JungleStrike-Washington,DC.png",
+  "view": "side",
+  "dims": [
+   4095,
+   4095
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Jungle_Strike/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Urban Strike",
+  "target": "Hawaii Lava Flows & New York High-Rises",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/UrbanStrike-Campaign1-Hawaii.png",
+  "view": "side",
+  "dims": [
+   3583,
+   2559
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Urban_Strike/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Mega Twins (Chiki Chiki Boys)",
+  "target": "Underwater Seas & Cloud Realms",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/MegaTwins-Round3-Sea-Poseiden.png",
+  "view": "side",
+  "dims": [
+   3164,
+   624
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mega_Twins",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Alien Storm",
+  "target": "Suburb Streets, Laboratories & Alien Bile Inwards",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlienStorm-Mission2-ExpelTheAliens.png",
+  "view": "side",
+  "dims": [
+   3616,
+   1116
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Alien_Storm/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Bonanza Bros.",
+  "target": "Art Galleries, Banks & Mint Vault Shafts",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/BonanzaBros-Stage11-ArtMuseum.png",
+  "view": "side",
+  "dims": [
+   1848,
+   584
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Bonanza_Bros.",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "OutRunners",
+  "target": "Worldwide Branching Transcontinental Highways",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/OutRunners-CourseMap(In-GameMap).png",
+  "view": "other",
+  "dims": [
+   1232,
+   1093
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/OutRunners",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Snake's Revenge",
+  "target": "Jungle Bases, Freight Trains & Fortress Fortress",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Snake'sRevenge-Jungle.png",
+  "view": "side",
+  "dims": [
+   1386,
+   1825
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Snake%27s_Revenge/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Little Mermaid",
+  "target": "Sunken Galleons & Ursula's Cavern",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/LittleMermaid-Stage2-SunkenShip.png",
+  "view": "side",
+  "dims": [
+   3343,
+   703
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Little_Mermaid:_Ariel%27s_Majestic_Journey",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Maniac Mansion",
+  "target": "Edison Family Basements & Meteor Laboratories",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/ManiacMansion-EdisonMansion.png",
+  "view": "side",
+  "dims": [
+   1696,
+   1120
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Maniac_Mansion",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Kick Master",
+  "target": "Haunted Woods, Witches' Caverns & Spire Citadels",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/KickMaster-Sector8-Belzed'sHauntedTower.png",
+  "view": "side",
+  "dims": [
+   768,
+   3600
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kick_Master",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Ogre Battle: The March of the Black Queen",
+  "target": "Pine Woodlands & Valleys",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/OgreBattle-MarchOfTheBlackQueen-ValleyOfKastro.png",
+  "view": "top",
+  "dims": [
+   1028,
+   516
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ogre_Battle:_The_March_of_the_Black_Queen/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Flashback: The Quest for Identity",
+  "target": "New Washington Cyber-City & Jungles",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Flashback-QuestForIdentity-Level1-TitanJungle.png",
+  "view": "side",
+  "dims": [
+   1541,
+   1114
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Flashback:_The_Quest_for_Identity/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Suburban Hedge Mazes, Castles & Supermarkets",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level7-DrTongue'sCastleOfTerror.png",
+  "view": "side",
+  "dims": [
+   1152,
+   1152
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Zombies_Ate_My_Neighbors",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Captain Commando (SNES)",
+  "target": "Metro City Aquariums, Ninja Compounds & Labs",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/CaptainCommando-Stage3-NinjaHouse.png",
+  "view": "side",
+  "dims": [
+   1790,
+   750
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Captain_Commando",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Metal Warriors",
+  "target": "Derelict Space Battlecruisers & Planetary Defense Silos",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MetalWarriors-HeadToHead-SpaceStation.png",
+  "view": "side",
+  "dims": [
+   1088,
+   669
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Metal_Warriors/Walkthrough",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Tower of Druaga",
+  "target": "60-Floor Mazes, Stone Pillars, Chests & Portals",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/TowerOfDruaga-Floors51-60.png",
+  "view": "side",
+  "dims": [
+   2140,
+   1027
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Tower_of_Druaga/Gameplay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Darius Gaiden",
+  "target": "Silver Hawk Cosmic Oceans & Giant Mechanical Crustacean Cores",
+  "platform": "Arcade (Taito / Irem)",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/DariusGaiden-Zones.png",
+  "view": "side",
+  "dims": [
+   908,
+   713
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Darius_Gaiden",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Gradius",
+  "target": "Moai Head Graveyard",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/Gradius-Stage3-Moai.png",
+  "view": "side",
+  "dims": [
+   3888,
+   280
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Gradius/Walkthrough",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Mortal Kombat II",
+  "target": "Living Forest & Pit II",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/MortalKombatII-LivingForest.png",
+  "view": "side",
+  "dims": [
+   700,
+   216
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mortal_Kombat_II/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Golden Axe III",
+  "target": "Cursed Forest Glades & Whirlpool Falls",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeIII(E)-Stage6B-CursedCity.png",
+  "view": "side",
+  "dims": [
+   3992,
+   272
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Golden_Axe_III/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Teenage Mutant Ninja Turtles (1989 Arcade)",
+  "target": "NYC Streets, Sewers & Technodrome",
+  "platform": "More Arcade",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/e/e2/TMNT_NES_map_1AB.png",
+  "view": "side",
+  "dims": [
+   507,
+   95
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Teenage_Mutant_Ninja_Turtles/Area_1",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Altered Beast",
+  "target": "Greco-Roman Underworld Tombs & Rotting Wastelands",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/AlteredBeast-Stage2-UnderworldCave.png",
+  "view": "side",
+  "dims": [
+   2560,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Altered_Beast/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Ghosts 'n Goblins (NES)",
+  "target": "Zombie Graveyards & Demon Palaces",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Ghosts'NGoblins-Stage1-Graveyard&DarkForest.png",
+  "view": "side",
+  "dims": [
+   3587,
+   240
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ghosts_%27n_Goblins/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "ActRaiser",
+  "target": "Fillmore Plains, Bloodpool Swamps & Deathheim Keeps",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/thumb/9/93/ActraiserSmallMapFillmoreAct1.png/800px-ActraiserSmallMapFillmoreAct1.png",
+  "view": "side",
+  "dims": [
+   800,
+   156
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/ActRaiser/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Star Wars Arcade (32X)",
+  "target": "Asteroid Fields & Death Star Trench Runs",
+  "platform": "Sega CD / Mega-CD / 32X",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarWars-DeathStar-Trench.png",
+  "view": "other",
+  "dims": [
+   512,
+   8192
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Star_Wars",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+  "target": "Prehistoric & Neon Eras",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/TeenageMutantNinjaTurtlesIV-TurtlesInTime-Scene5-PrehistoricTurtlesaurus.png",
+  "view": "side",
+  "dims": [
+   2430,
+   222
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Teenage_Mutant_Ninja_Turtles_IV:_Turtles_in_Time",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Fatal Fury: King of Fighters",
+  "target": "Southtown Street Corners, Pao Pao Cafe & Rooftops",
+  "platform": "Arcade (Neo Geo / SNK)",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/FatalFury-KingOfFighters-PaoPaoCafe.png",
+  "view": "side",
+  "dims": [
+   512,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Fatal_Fury:_King_of_Fighters",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Art of Fighting",
+  "target": "Downtown Slums, Kabuki Grills & Airfield Runways",
+  "platform": "Arcade (Neo Geo / SNK)",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ArtOfFighting-Scene5-Downtown.png",
+  "view": "side",
+  "dims": [
+   493,
+   181
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Art_of_Fighting/Gameplay",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Samurai Shodown",
+  "target": "Edo Japan Shorelines, Gale Shrines & Onigami Isle",
+  "platform": "Arcade (Neo Geo / SNK)",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SamuraiShodown-OnigamiIsle,Japan(Animated).gif",
+  "view": "side",
+  "dims": [
+   352,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Samurai_Shodown",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Ninja Gaiden",
+  "target": "Stage 1-1",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenMapStage1-1BG.png",
+  "view": "side",
+  "dims": [
+   3584,
+   208
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/NinjaGaiden/NinjaGaidenBG.html",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Shadowgate",
+  "target": "Castle Crypt",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Shadowgate-CastleShadowgate.png",
+  "view": "side",
+  "dims": [
+   1256,
+   4448
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shadowgate/Gameplay",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "The Guardian Legend",
+  "target": "Labyrinth & Void",
+  "platform": "NES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/8/8e/The_Guardian_Legend_NES_area_0_map.png",
+  "view": "side",
+  "dims": [
+   708,
+   446
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Guardian_Legend/Area_0",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Ogre Battle",
+  "target": "Pogrom Forest Valley",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/OgreBattle-MarchOfTheBlackQueen-PogromForest.png",
+  "view": "top",
+  "dims": [
+   772,
+   516
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ogre_Battle:_The_March_of_the_Black_Queen/Gameplay",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Kid Chameleon",
+  "target": "Blue Lake Woods & Hills",
+  "platform": "Sega Genesis & Master System",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/KidChameleon-BlueLakeWoodsI.png",
+  "view": "side",
+  "dims": [
+   3200,
+   480
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kid_Chameleon",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Journey to Silius",
+  "target": "Automated Underground Hangar Corridors",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/JourneyToSilius-Stage2-UndergroundConcourse.png",
+  "view": "side",
+  "dims": [
+   4880,
+   992
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Journey_to_Silius",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "TaleSpin",
+  "target": "Sky Islands & Floating Cargo Docks",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/TaleSpin-Stage3-InTheStormySky.png",
+  "view": "side",
+  "dims": [
+   4096,
+   464
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/TaleSpin",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Tiny Toon Adventures: Buster Busts Loose",
+  "target": "Acme University & Spooky Mansion",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/TinyToonAdventures-BusterBustsLoose!-Stage1-BigTroubleAtAcmeLooniversity.png",
+  "view": "top",
+  "dims": [
+   5132,
+   2378
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tiny_Toon_Adventures:_Buster_Busts_Loose!/Walkthrough",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Gain Ground",
+  "target": "Primeval, Middle Ages, Pre-Modern & Future Zones",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/GainGround-Rounds.png",
+  "view": "side",
+  "dims": [
+   4261,
+   1993
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Gain_Ground/Gameplay",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "StarTropics",
+  "target": "Coral Reef Atolls & Submerged Alien Craft",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarTropics-Chapter7-AlienSpaceship-AlienSpaceship.png",
+  "view": "top",
+  "dims": [
+   4618,
+   2118
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/StarTropics",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Uninvited",
+  "target": "Victorian Estate Hallways & Haunted Crypt Yards",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/Uninvited-Mansion.png",
+  "view": "side",
+  "dims": [
+   3080,
+   4676
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Uninvited/Gameplay",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Knuckles' Chaotix",
+  "target": "Isolated Island, Botanic Base & Marina Madness",
+  "platform": "Sega CD / Mega-CD / 32X",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Knuckles'Chaotix-BotanicBase-Act1.png",
+  "view": "side",
+  "dims": [
+   4360,
+   2312
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Knuckles%27_Chaotix/Walkthrough",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Popeye",
+  "target": "Three-Tier Docks, Swee'Pea Platforms & Ship Rigging",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Popeye-Maps.png",
+  "view": "other",
+  "dims": [
+   1547,
+   432
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Popeye/Walkthrough",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Spelunker",
+  "target": "Deep Limestone Cavern Shafts, Mine Rails & Steam Vents",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Spelunker-Map.png",
+  "view": "side",
+  "dims": [
+   768,
+   4212
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Spelunker/Walkthrough",
+  "iconic": 3,
+  "detail": 4
+ },
+ {
+  "game": "Adventure",
+  "target": "Castles & Mazes",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/Adventure-Variation1.png",
+  "view": "top",
+  "dims": [
+   1600,
+   1352
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/AdventureQuest/Gameplay",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Ristar",
+  "target": "Planet Flora",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ristar-Round1-PlanetFlora-Area1-LightPlain.png",
+  "view": "side",
+  "dims": [
+   6512,
+   1056
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ristar",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Donkey Kong",
+  "target": "25m Construction Site",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/DonkeyKong-Levels.png",
+  "view": "other",
+  "dims": [
+   908,
+   256
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong/Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Journey to Silius",
+  "target": "Derelict Space Colony",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/JourneyToSilius-Stage1-DesertedSpaceColony.png",
+  "view": "side",
+  "dims": [
+   4368,
+   432
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Journey_to_Silius",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Ice Hockey",
+  "target": "Symmetrical Indoor Ice Rink",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/IceHockey-Rink.png",
+  "view": "other",
+  "dims": [
+   820,
+   274
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Ice_Hockey",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Bucky O'Hare",
+  "target": "Green Planet Canopies & Magma Core",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/BuckyO'Hare-Level1-GreenPlanet.png",
+  "view": "side",
+  "dims": [
+   8048,
+   7528
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Bucky_O%27Hare",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Super Bonk",
+  "target": "Prehistoric Volcanoes & Dinosaur Insides",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SuperBonk-InsideTheCanner.png",
+  "view": "side",
+  "dims": [
+   258,
+   514
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Bonk",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Stunt Race FX",
+  "target": "Mode 7 Low-Poly Stunt Stadiums",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/StuntRaceFX-RacingTrax(In-GameMaps).png",
+  "view": "other",
+  "dims": [
+   960,
+   344
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Stunt_Race_FX",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Bucky O'Hare (Arcade)",
+  "target": "Toad Motherships & Asteroid Mining Caverns",
+  "platform": "More Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/BuckyO'Hare-Stage7-ToadStar.png",
+  "view": "side",
+  "dims": [
+   10096,
+   1312
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Bucky_O%27Hare",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Bionic Commando (NES)",
+  "target": "Enemy Radar Bunkers & Imperial Citadels",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/BionicCommando-MeetWithEnemy-Cliffs.png",
+  "view": "side",
+  "dims": [
+   256,
+   720
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Bionic_Commando/Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Wario's Woods",
+  "target": "Hollow Tree Stump Arenas & Gem Ledges",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Wario'sWoods-RoundGame(In-GameMap).png",
+  "view": "other",
+  "dims": [
+   514,
+   258
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Wario%27s_Woods/Gameplay",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Robocop Versus The Terminator",
+  "target": "Detroit Slums, Toxic Sewers & Skynet Hives",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RoboCopVersusTheTerminator-Level02-StreetsOfDetroit.png",
+  "view": "side",
+  "dims": [
+   6144,
+   800
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Robocop_Versus_The_Terminator",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Popful Mail",
+  "target": "Tree Village Canopies, Volcanic Mines & Ice Peaks",
+  "platform": "Sega CD / Mega-CD / 32X",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/PopfulMail(J)-IceNSnow.png",
+  "view": "side",
+  "dims": [
+   8163,
+   2050
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Popful_Mail",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Uniracers",
+  "target": "Mode 7 Geometric Ramps, Twisting Loops & Stunt Half-Pipes",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Uniracers-Hunter-TwoLoops.png",
+  "view": "side",
+  "dims": [
+   6751,
+   1822
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Uniracers",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Donkey Kong Jr.",
+  "target": "Arboreal Jungle Vine Ropes, Chains & Island Keeps",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/DonkeyKongJr-Maps.png",
+  "view": "other",
+  "dims": [
+   1029,
+   242
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong_Jr./Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Donkey Kong 3",
+  "target": "Greenhouse Plant Stages, Insect Hives & Garden Pipes",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/DonkeyKong3-Rounds.png",
+  "view": "other",
+  "dims": [
+   1144,
+   306
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Donkey_Kong_3/Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Pitfall II: Lost Caverns",
+  "target": "Vertical Subterranean Labyrinths & Rivers",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/PitfallII-LostCaverns-LostCaverns.png",
+  "view": "side",
+  "dims": [
+   2520,
+   1456
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Pitfall_II:_Lost_Caverns/Gameplay",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Millipede",
+  "target": "Poisonous Mushroom Beds, Cacti Fields & Spider Incursions",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/Millipede-Map.png",
+  "view": "other",
+  "dims": [
+   600,
+   1000
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Millipede/Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Toobin'",
+  "target": "Winding River Rapids, Waterfall Plunges & Riverside Canals",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/Toobin'(Unlicensed)-Class3-CanalsOfMars.png",
+  "view": "side",
+  "dims": [
+   256,
+   3052
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Toobin%27/Walkthrough",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Rampart",
+  "target": "Coastal Medieval Masonry Fortresses, Wall Grids & Harbors",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/Rampart-Battlefields.png",
+  "view": "side",
+  "dims": [
+   2788,
+   1080
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Rampart/Gameplay",
+  "iconic": 3,
+  "detail": 3
+ },
+ {
+  "game": "Zen: Intergalactic Ninja",
+  "target": "Acid Rain Smelters & Oil Rigs",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zen-IntergalacticNinja-OffShoreOilRigStage.png",
+  "view": "side",
+  "dims": [
+   1016,
+   2097
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Zen:_Intergalactic_Ninja/Walkthrough",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Paladin's Quest",
+  "target": "Vibrant Alien Landscapes & Towers",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Paladin'sQuest-TowerOfGabnid.png",
+  "view": "top",
+  "dims": [
+   1024,
+   952
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Paladin%27s_Quest",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "7th Saga",
+  "target": "Melenam Subterranean Machine Ruins",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/7thSaga-Melenam(Present)-Floor1.png",
+  "view": "top",
+  "dims": [
+   1488,
+   1888
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_7th_Saga/Gameplay",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "The Ooze",
+  "target": "Toxic Drainage Pipes & Genetic Research Drains",
+  "platform": "Sega Genesis / Master System / Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ooze-ToxicDump-Part1.png",
+  "view": "side",
+  "dims": [
+   1664,
+   1200
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/The_Ooze",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Live A Live",
+  "target": "Prehistoric Caves, Bakumatsu Castles & Sci-Fi Freighters",
+  "platform": "SNES / Super Famicom",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/LiveALive(J)-SciFiScenario.png",
+  "view": "top",
+  "dims": [
+   1612,
+   1495
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Live_A_Live",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "Ancient Mythological Labyrinth Keeps & Temple Altars",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Gods-LevelThree-Labyrinth(Unmarked)(A).png",
+  "view": "side",
+  "dims": [
+   4096,
+   1040
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Gods/Gameplay",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Super Pac-Man",
+  "target": "Key Vault Corridors, Giant Doors & Super Pellet Paths",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/SuperPac-Man-Stages.png",
+  "view": "top",
+  "dims": [
+   911,
+   1007
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Super_Pac-Man/Walkthrough",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "10-Yard Fight",
+  "target": "Marked American Football Turf, Endzones & Pylon Sidelines",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/10-YardFight-Fields.png",
+  "view": "other",
+  "dims": [
+   2106,
+   2864
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/10-Yard_Fight",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "OutRun",
+  "target": "Coconut Beach",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/OutRun-CourseMap(In-GameMap).png",
+  "view": "other",
+  "dims": [
+   320,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/OutRun/Routes",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "Kick Master",
+  "target": "Witches' Haunted Forest",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/KickMaster-Sector1-Witches'Forest.png",
+  "view": "side",
+  "dims": [
+   3840,
+   240
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kick_Master",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "Adventure Island III",
+  "target": "Desert Dunes & Dinosaur Skeletal Caves",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/AdventureIslandIII-Area2-3-IceCave.png",
+  "view": "top",
+  "dims": [
+   3072,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Adventure_Island_III/Walkthrough",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "Dragon Spirit: The New Legend",
+  "target": "Volcanic Skies & Primeval Jungles",
+  "platform": "NES / Famicom",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonSpirit-NewLegend-Area3-Jungle.png",
+  "view": "top",
+  "dims": [
+   322,
+   5364
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dragon_Spirit:_The_New_Legend",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "Dr. Robotnik's Mean Bean Machine",
+  "target": "Chemical Chambers & Dungeon Dungeons",
+  "platform": "Sega Genesis / Mega Drive",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/DrRobotnik'sMeanBeanMachine-Dungeon.png",
+  "view": "other",
+  "dims": [
+   320,
+   224
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Dr._Robotnik%27s_Mean_Bean_Machine/Walkthrough",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "In the Hunt (Kaitei Daisensou)",
+  "target": "Sunken Dystopian Metropolises & Underwater Seabeds",
+  "platform": "Arcade (Psikyo / Toaplan / Raizing / Video System)",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/InTheHunt-Stage2-SunkenTown.png",
+  "view": "side",
+  "dims": [
+   4480,
+   352
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/In_the_Hunt",
+  "iconic": 3,
+  "detail": 2
+ },
+ {
+  "game": "Whomp 'Em",
+  "target": "Water Shrines & Ice Sacred Grounds",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Whomp'Em-WaterTest.png",
+  "view": "side",
+  "dims": [
+   4600,
+   1199
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Whomp_%27Em/Walkthrough",
+  "iconic": 2,
+  "detail": 4
+ },
+ {
+  "game": "Mach Rider",
+  "target": "Post-Apocalyptic Barren Highways, Oil Drums & Road Blocks",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/MachRider-Courses.png",
+  "view": "side",
+  "dims": [
+   1108,
+   4202
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Mach_Rider",
+  "iconic": 2,
+  "detail": 4
+ },
+ {
+  "game": "Night Striker",
+  "target": "Cyberpunk Neo Tokyo Neon Skylines, Tunnels & Overpasses",
+  "platform": "Arcade (Taito / Irem)",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/NightStriker-Scenes(In-GameMap).png",
+  "view": "other",
+  "dims": [
+   574,
+   592
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Night_Striker",
+  "iconic": 2,
+  "detail": 4
+ },
+ {
+  "game": "Brain Lord",
+  "target": "Tower of Light",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/BrainLord-TowerOfLight.png",
+  "view": "side",
+  "dims": [
+   1920,
+   7200
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Brain_Lord/Gameplay",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Keystone Kapers",
+  "target": "Multi-Floor Department Store",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/KeystoneKapers-Map.png",
+  "view": "other",
+  "dims": [
+   8312,
+   1080
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Keystone_Kapers/Walkthrough",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Tiger",
+  "target": "Heli - Suburb Munitions Depots",
+  "platform": "NES",
+  "image_url": "https://cdn.wikimg.net/en/strategywiki/images/0/02/Tiger-Heli_Map_2-4.png",
+  "view": "side",
+  "dims": [
+   240,
+   500
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Tiger-Heli",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Destiny of an Emperor",
+  "target": "Ancient Chinese Steppes & Walled Cities",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DestinyOfAnEmperor-AncientChina.png",
+  "view": "top",
+  "dims": [
+   5376,
+   4800
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Destiny_of_an_Emperor",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "I, Robot",
+  "target": "Flat-Shaded 3D Polygon Pyramids & Big Brother Eyes",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/I,Robot-Levels.png",
+  "view": "other",
+  "dims": [
+   1027,
+   1636
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/I,_Robot/Walkthrough",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Cyberball 2072",
+  "target": "Futuristic Steel Arena Fields & Robotic Gridiron Turf",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/NES/Cyberball-Field.png",
+  "view": "other",
+  "dims": [
+   256,
+   480
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Cyberball_2072",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Kangaroo",
+  "target": "Multi-Tiered Treetops",
+  "platform": "More Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/Kangaroo-Stages.png",
+  "view": "other",
+  "dims": [
+   514,
+   231
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Kangaroo",
+  "iconic": 2,
+  "detail": 2
+ },
+ {
+  "game": "Urban Champion",
+  "target": "City Sidewalk Shop Fronts, Manholes & Police Patrols",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/NES/UrbanChampion-Street.png",
+  "view": "other",
+  "dims": [
+   1602,
+   234
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Urban_Champion",
+  "iconic": 2,
+  "detail": 2
+ },
+ {
+  "game": "Return of the Jedi (Atari 1984)",
+  "target": "Isometric Endor Forest & Death Star Core",
+  "platform": "Atari 2600 / 5200 / 7800",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/SuperStarWars-ReturnOfTheJedi-DanceHall.png",
+  "view": "side",
+  "dims": [
+   3293,
+   158
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Return_of_the_Jedi/Walkthrough",
+  "iconic": 2,
+  "detail": 2
+ }
+]
