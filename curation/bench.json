@@ -1,0 +1,1502 @@
+[
+ {
+  "game": "Dragon Warrior III",
+  "target": "Cave Southeast Of Samanao",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/DragonWarriorIII-MainWorld-CaveSoutheastOfSamanao.png",
+  "view": "top",
+  "dims": [
+   1702,
+   1441
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Flying Battery Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-FlyingBatteryZone-Act1.png",
+  "view": "side",
+  "dims": [
+   12288,
+   3072
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Sonic_%26_Knuckles/Walkthrough",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Grans Island Overworld & Devil's Tail Bastions",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-Devil'sHead.png",
+  "view": "top",
+  "dims": [
+   752,
+   2160
+  ],
+  "source": "existing",
+  "source_page": "https://strategywiki.org/wiki/Shining_Force_II",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania III: Dracula's Curse",
+  "target": "Level 5b - Part 2: The Hall Of The Skull Knight King (Unmarked)",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/CastlevaniaIII-Dracula'sCurse-Level5b-Part2-HallOfTheSkullKnightKing(Unmarked).png",
+  "view": "side",
+  "dims": [
+   1840,
+   256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#CastlevaniaIIIDraculasCurse",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Super Mario Bros.",
+  "target": "World 8-4",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap8-4BG.png",
+  "view": "side",
+  "dims": [
+   5120,
+   480
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothersBG.html",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Crystalis",
+  "target": "Evil Spirit Island",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-EvilSpiritIsland.png",
+  "view": "top",
+  "dims": [
+   2088,
+   2706
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#Crystalis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "StarTropics",
+  "target": "Island Tunnel",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarTropics-Chapter1-Prelude-IslandTunnel.png",
+  "view": "top",
+  "dims": [
+   1034,
+   2694
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#StarTropics",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Willow",
+  "target": "Tir Asleen Castle",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Willow-TirAsleenCastle.png",
+  "view": "top",
+  "dims": [
+   2304,
+   2640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#Willow",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "StarTropics",
+  "target": "Hermit Tunnel",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarTropics-Chapter3-StormAndCalm-HermitTunnel.png",
+  "view": "top",
+  "dims": [
+   2570,
+   1542
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#StarTropics",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Cave",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter8-Cave.png",
+  "view": "top",
+  "dims": [
+   2560,
+   1526
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "StarTropics",
+  "target": "Lost Ruins",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarTropics-Chapter6-Reunion-LostRuins.png",
+  "view": "top",
+  "dims": [
+   2058,
+   2502
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#StarTropics",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Yum-Yum's Cave",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter2-YumYum'sCave.png",
+  "view": "top",
+  "dims": [
+   2304,
+   2484
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Windmill Cave",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-WindmillCave.png",
+  "view": "top",
+  "dims": [
+   2464,
+   2114
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#Crystalis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "StarTropics",
+  "target": "Islands",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/StarTropics-Chapter3-StormAndCalm-Islands.png",
+  "view": "top",
+  "dims": [
+   2372,
+   1700
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#StarTropics",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Abandoned Mine (2)",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter5-AbandonedMine(2).png",
+  "view": "top",
+  "dims": [
+   1280,
+   2292
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Waterfall Valley",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Crystalis-WaterfallValley.png",
+  "view": "top",
+  "dims": [
+   1648,
+   2194
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#Crystalis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Pyramid",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter3-Pyramid.png",
+  "view": "top",
+  "dims": [
+   2048,
+   1908
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Mansion",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter7-Mansion.png",
+  "view": "top",
+  "dims": [
+   2048,
+   1908
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Valleymaze",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Motavia-Valleymaze.png",
+  "view": "top",
+  "dims": [
+   1374,
+   2753
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zoda's Revenge: StarTropics II",
+  "target": "Sewers (2)",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Zoda'sRevenge-StarTropicsII-Chapter4-Sewers(2).png",
+  "view": "top",
+  "dims": [
+   1280,
+   1892
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ZodasRevengeStarTropicsII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania",
+  "target": "Dracula's Castle (\"Castlevania: Symphony Of The Night\"-Style Map)",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/Castlevania-Dracula'sCastle(Castlevania-SymphonyOfTheNight-StyleMap).png",
+  "view": "side",
+  "dims": [
+   1819,
+   266
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#Castlevania",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Unmarked)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-SalyanDesert-Overworld(Unmarked).png",
+  "view": "top",
+  "dims": [
+   2304,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Metal Gear",
+  "target": "Jungle",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MetalGear-Jungle.png",
+  "view": "top",
+  "dims": [
+   714,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#MetalGear",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Myst Valley",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Dezolis-MystValley.png",
+  "view": "top",
+  "dims": [
+   1713,
+   2044
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Metal Gear",
+  "target": "Building 2",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/MetalGear-Building2.png",
+  "view": "top",
+  "dims": [
+   1892,
+   2782
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#MetalGear",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Silence Temple",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Rykros-SilenceTemple.png",
+  "view": "top",
+  "dims": [
+   2076,
+   1220
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Village of Leaf",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap01VillageOfLeafBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   720
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "World",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-World.png",
+  "view": "top",
+  "dims": [
+   2320,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Wind Valley",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap02WindValleyBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Anger Tower",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Rykros-AngerTower.png",
+  "view": "top",
+  "dims": [
+   2576,
+   924
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Cave of Zebu",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap03CaveOfZebuBG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   960
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Sealed Cave",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap05SealedCaveBG.png",
+  "view": "top",
+  "dims": [
+   2224,
+   2008
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Cordel Plain",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap06CordelPlainBG.png",
+  "view": "top",
+  "dims": [
+   2048,
+   2160
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Forest Maze",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap08ForestMazeBG.png",
+  "view": "top",
+  "dims": [
+   1280,
+   1200
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "Deepdale & Area",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-Deepdale&Area.png",
+  "view": "top",
+  "dims": [
+   2912,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crystalis",
+  "target": "Tower in the Sky",
+  "platform": "NES",
+  "image_url": "https://nesmaps.com/maps/Crystalis/CrystalisMap99TowerInTheSkyBG.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1680
+  ],
+  "source": "nesmaps",
+  "source_page": "https://nesmaps.com/maps/Crystalis/CrystalisMapSelectionBG.html",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Iala Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Palma-IalaCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Naharu Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-NaharuCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Teenage Mutant Ninja Turtles",
+  "target": "Area 6",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/TeenageMutantNinjaTurtles-Area6.png",
+  "view": "other",
+  "dims": [
+   2640,
+   1634
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#TeenageMutantNinjaTurtles",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Casba Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-CasbaCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Tajima's Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-Tajima'sCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Teenage Mutant Ninja Turtles",
+  "target": "Area 1",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/TeenageMutantNinjaTurtles-Area1.png",
+  "view": "other",
+  "dims": [
+   2452,
+   861
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#TeenageMutantNinjaTurtles",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Corana Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Dezoris-CoranaTower.png",
+  "view": "top",
+  "dims": [
+   1393,
+   1573
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "Borrow & Area",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-Borrow&Area.png",
+  "view": "top",
+  "dims": [
+   2704,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Blaster Master / Chou-Wakusei Senki: Meta Fight (J)",
+  "target": "Area 8",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/BlasterMaster-Area8.png",
+  "view": "other",
+  "dims": [
+   2304,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#ChouWakuseiSenkiMetaFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Hills",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Hills.png",
+  "view": "top",
+  "dims": [
+   1960,
+   1072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Teenage Mutant Ninja Turtles",
+  "target": "Area 2",
+  "platform": "NES",
+  "image_url": "https://vgmaps.com/Atlas/NES/TeenageMutantNinjaTurtles-Area2.png",
+  "view": "other",
+  "dims": [
+   2296,
+   1083
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NES/index.htm#TeenageMutantNinjaTurtles",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 7: Dr. Tongue's Castle Of Terror",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level7-DrTongue'sCastleOfTerror.png",
+  "view": "top",
+  "dims": [
+   1152,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Minea",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Minea.png",
+  "view": "top",
+  "dims": [
+   1488,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Fields",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Fields.png",
+  "view": "top",
+  "dims": [
+   1304,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Strength",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfStrength.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 21: The Day The Earth Ran Away",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level21-DayTheEarthRanAway.png",
+  "view": "top",
+  "dims": [
+   576,
+   3008
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Courage",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfCourage.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Truth",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfTruth.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Wisdom",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfWisdom.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Contra III: The Alien Wars",
+  "target": "Stage 5: Nesting In The Sands",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ContraIII-AlienWars-Stage5-NestingInTheSands.png",
+  "view": "other",
+  "dims": [
+   2304,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ContraIIIAlienWars",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 18: Squidmen Of The Deep",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level18-SquidmenOfTheDeep.png",
+  "view": "top",
+  "dims": [
+   833,
+   2240
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 35: Boardwalk Of Terrors",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level35-BoardwalkOfTerrors.png",
+  "view": "top",
+  "dims": [
+   2240,
+   832
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 47: Gridiron Terror",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level47-GridironTerror.png",
+  "view": "top",
+  "dims": [
+   2176,
+   832
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 40: Pyramid Of Fear Two",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level40-PyramidOfFearTwo.png",
+  "view": "top",
+  "dims": [
+   960,
+   1920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 12: Mars Needs Cheerleaders",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level12-MarsNeedsCheerleaders.png",
+  "view": "top",
+  "dims": [
+   1792,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bubble Bobble II",
+  "target": "First Fork Road",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/BubbleBobbleII-FirstForkRoad.png",
+  "view": "other",
+  "dims": [
+   1926,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BubbleBobbleII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 19: Nightmare On Terror Street",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level19-NightmareOnTerrorStreet.png",
+  "view": "top",
+  "dims": [
+   1792,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 43: Super Fund Cleanup Site",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level43-SuperFundCleanupSite.png",
+  "view": "top",
+  "dims": [
+   1792,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cadillacs And Dinosaurs",
+  "target": "Episode 1: City In The Sea",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/CadillacsAndDinosaurs-Episode1-CityInTheSea.png",
+  "view": "top",
+  "dims": [
+   3747,
+   830
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#CadillacsAndDinosaurs",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage1.png",
+  "view": "other",
+  "dims": [
+   4596,
+   737
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage3.png",
+  "view": "other",
+  "dims": [
+   3397,
+   1278
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 32: Giant Ant Farm",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level32-GiantAntFarm.png",
+  "view": "top",
+  "dims": [
+   1728,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 41: Martians Go Home!",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level41-MartiansGoHome!.png",
+  "view": "top",
+  "dims": [
+   1728,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 4",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage4.png",
+  "view": "other",
+  "dims": [
+   3178,
+   1119
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Zombies Ate My Neighbors",
+  "target": "Level 10: No Assembly Required",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ZombiesAteMyNeighbors-Level10-NoAssemblyRequired.png",
+  "view": "top",
+  "dims": [
+   1664,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ZombiesAteMyNeighbors",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage5.png",
+  "view": "other",
+  "dims": [
+   4265,
+   1184
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 6 & End",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage6&End.png",
+  "view": "other",
+  "dims": [
+   5361,
+   959
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Darius Gaiden",
+  "target": "Zones",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/DariusGaiden-Zones.png",
+  "view": "other",
+  "dims": [
+   908,
+   713
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#DariusGaiden",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Round 1: Slum",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round1-Slum.png",
+  "view": "other",
+  "dims": [
+   1296,
+   757
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#FinalFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Round 4: Industrial Area",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round4-IndustrialArea.png",
+  "view": "other",
+  "dims": [
+   3674,
+   3056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#FinalFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Contra III: The Alien Wars",
+  "target": "Stage 2: Tearing Up The Turnpike",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/ContraIII-AlienWars-Stage2-TearingUpTheTurnpike.png",
+  "view": "other",
+  "dims": [
+   1280,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#ContraIIIAlienWars",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage3.png",
+  "view": "other",
+  "dims": [
+   3600,
+   930
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage5.png",
+  "view": "other",
+  "dims": [
+   768,
+   1168
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 6",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage6.png",
+  "view": "other",
+  "dims": [
+   512,
+   1200
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage1.png",
+  "view": "other",
+  "dims": [
+   1280,
+   2272
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 2",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage2.png",
+  "view": "other",
+  "dims": [
+   1536,
+   1760
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lufia & The Fortress Of Doom",
+  "target": "Herat Castle",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-HeratCastle.png",
+  "view": "top",
+  "dims": [
+   832,
+   3184
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#LufiaTheFortressOfDoom",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage3.png",
+  "view": "other",
+  "dims": [
+   1536,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Illusion Of Gaia",
+  "target": "Diamond Mine (Unmarked)",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/IllusionOfGaia-DiamondMine(Unmarked).png",
+  "view": "top",
+  "dims": [
+   1796,
+   3154
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#IllusionOfGaia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 4",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage4.png",
+  "view": "other",
+  "dims": [
+   1792,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage5.png",
+  "view": "other",
+  "dims": [
+   1280,
+   1248
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lufia & The Fortress Of Doom",
+  "target": "Odel Castle",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-OdelCastle.png",
+  "view": "top",
+  "dims": [
+   1088,
+   3088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#LufiaTheFortressOfDoom",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 10: Bubble Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World10-BubbleIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   2496
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 1: Insect Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World1-InsectIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   1277
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Soul Blazer",
+  "target": "Laboratory Basement (Unmarked)",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/SoulBlazer-LaboratoryBasement(Unmarked).png",
+  "view": "top",
+  "dims": [
+   3078,
+   1537
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#SoulBlazer",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 2: Combat Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World2-CombatIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   1465
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 3: Monster Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World3-MonsterIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   2261
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 4: Toy Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World4-ToyIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2302
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 5: Doh's Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World5-Doh'sIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   1995
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Breath Of Fire II",
+  "target": "Witch Tower",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/BreathOfFireII-WitchTower.png",
+  "view": "top",
+  "dims": [
+   724,
+   2989
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#BreathOfFireII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 6: Robot Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World6-RobotIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   1677
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Illusion Of Gaia",
+  "target": "Seaside Palace",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/IllusionOfGaia-SeasidePalace.png",
+  "view": "top",
+  "dims": [
+   1540,
+   2979
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#IllusionOfGaia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lufia & The Fortress Of Doom",
+  "target": "Sheran Castle",
+  "platform": "SNES",
+  "image_url": "https://vgmaps.com/Atlas/SuperNES/Lufia&TheFortressOfDoom-SheranCastle.png",
+  "view": "top",
+  "dims": [
+   896,
+   2976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/SuperNES/index.htm#LufiaTheFortressOfDoom",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 7: Dragon Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World7-DragonIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2460
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ }
+]

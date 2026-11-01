@@ -1,0 +1,6002 @@
+[
+ {
+  "game": "Sonic The Hedgehog Spinball",
+  "target": "Stage 2: Lava Powerhouse",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogSpinball-Stage2-LavaPowerhouse.png",
+  "view": "side",
+  "dims": [
+   1904,
+   2080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogSpinball",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Act 3",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/SonicTheHedgehog2-UnderGroundZone-Act3.png",
+  "view": "side",
+  "dims": [
+   4160,
+   944
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Town Of Ryuma",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-TownOfRyuma.png",
+  "view": "other",
+  "dims": [
+   3003,
+   1300
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Act 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/SonicTheHedgehog2-UnderGroundZone-Act1.png",
+  "view": "side",
+  "dims": [
+   5488,
+   688
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Act 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/SonicTheHedgehog2-UnderGroundZone-Act2.png",
+  "view": "side",
+  "dims": [
+   5488,
+   688
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 2 (C)",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-ScrapBrainZone-Act2(C).png",
+  "view": "side",
+  "dims": [
+   2040,
+   1824
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog Spinball",
+  "target": "Stage 4: The Showdown",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogSpinball-Stage4-Showdown.png",
+  "view": "side",
+  "dims": [
+   1792,
+   2007
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogSpinball",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog Spinball",
+  "target": "Stage 1: Toxic Caves",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogSpinball-Stage1-ToxicCaves.png",
+  "view": "side",
+  "dims": [
+   1648,
+   2080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogSpinball",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-SpringStadiumZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1935,
+   1641
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Contra: Hard Corps",
+  "target": "Stage 3: Junkyard",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Contra-HardCorps-Stage3-Junkyard.png",
+  "view": "side",
+  "dims": [
+   4096,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ContraHardCorps",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-BridgeZone-Act2.png",
+  "view": "side",
+  "dims": [
+   4096,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 1",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-LabyrinthZone-Act1.png",
+  "view": "side",
+  "dims": [
+   2040,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Monster World IV (J)",
+  "target": "Tower Of Silence",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MonsterWorldIV(J)-TowerOfSilence.png",
+  "view": "side",
+  "dims": [
+   2078,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MonsterWorldIV",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "Jungle Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-JungleTower.png",
+  "view": "side",
+  "dims": [
+   2544,
+   1216
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alien Soldier (E)",
+  "target": "Stages 14-17",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlienSoldier(E)-DoorGuards-Stages14-17.png",
+  "view": "side",
+  "dims": [
+   1646,
+   1877
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlienSoldier",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-PanicPuppetZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1671,
+   1848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Death Egg Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog2-DeathEggZone.png",
+  "view": "side",
+  "dims": [
+   3936,
+   781
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 3",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-ScrapBrainZone-Act3.png",
+  "view": "side",
+  "dims": [
+   2040,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Kalva Harbor",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-Intro-KalvaHarbor.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2295
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog Spinball",
+  "target": "Stage 3: The Machine",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogSpinball-Stage3-Machine.png",
+  "view": "side",
+  "dims": [
+   1468,
+   2001
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogSpinball",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Town Of Kazalt",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-TownOfKazalt.png",
+  "view": "other",
+  "dims": [
+   2350,
+   1247
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-GreenHillZone-Act2.png",
+  "view": "side",
+  "dims": [
+   2792,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Pao",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter4-GreatFortressOfBalbazak-Pao.png",
+  "view": "top",
+  "dims": [
+   2880,
+   984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Massan Cave",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-MassanCave.png",
+  "view": "other",
+  "dims": [
+   1393,
+   1943
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Control Tower",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Motavia-ControlTower.png",
+  "view": "top",
+  "dims": [
+   1632,
+   1648
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Contra: Hard Corps",
+  "target": "Stage 6D: The Rocket",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Contra-HardCorps-Stage6D-Rocket.png",
+  "view": "side",
+  "dims": [
+   701,
+   3808
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ContraHardCorps",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Uranbatol",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter4-GreatFortressOfBalbazak-Uranbatol.png",
+  "view": "top",
+  "dims": [
+   1248,
+   2088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Ancient Tower",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-AncientTower.png",
+  "view": "top",
+  "dims": [
+   1320,
+   1896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Village Of Destel",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-VillageOfDestel.png",
+  "view": "other",
+  "dims": [
+   1960,
+   1256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 1 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage1(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 2 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage2(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 3 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage3(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 4 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage4(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 5 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage5(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 6 (SonED 2 Dump)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage6(SonED2Dump).png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Bad Future",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-CollisionChaos-Zone3-BadFuture.png",
+  "view": "side",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Good Future",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-CollisionChaos-Zone3-GoodFuture.png",
+  "view": "side",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Granseal Tower",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-GransealTower.png",
+  "view": "top",
+  "dims": [
+   1192,
+   1976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Special Stage 5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog-SpecialStage5.png",
+  "view": "other",
+  "dims": [
+   1784,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Granseal Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-GransealCastle.png",
+  "view": "top",
+  "dims": [
+   968,
+   2344
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 3",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-GreenHillZone-Act3.png",
+  "view": "side",
+  "dims": [
+   2696,
+   792
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Runefaust",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter8-RiseOfTheAncientCastle-Runefaust.png",
+  "view": "top",
+  "dims": [
+   1944,
+   1080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-VolcanoValleyZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1716,
+   1196
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-DiamondDustZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1576,
+   1282
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog",
+  "target": "Act 2 (B)",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/SonicTheHedgehog-ScrapBrainZone-Act2(B).png",
+  "view": "side",
+  "dims": [
+   1016,
+   1984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicTheHedgehog",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Wood Zone (Beta)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog2(Beta)-WoodZone.png",
+  "view": "side",
+  "dims": [
+   2175,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Village Of Massan",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-VillageOfMassan.png",
+  "view": "other",
+  "dims": [
+   1379,
+   1410
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-RustyRuinZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1712,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Pao Revisited",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter4-GreatFortressOfBalbazak-PaoRevisited.png",
+  "view": "top",
+  "dims": [
+   1728,
+   984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Tower Of The Ancients",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter7-LostCivilization-TowerOfTheAncients.png",
+  "view": "top",
+  "dims": [
+   1104,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Town Of Verla",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-TownOfVerla.png",
+  "view": "other",
+  "dims": [
+   1740,
+   966
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Village Of Gumi",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-VillageOfGumi.png",
+  "view": "other",
+  "dims": [
+   1349,
+   1195
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-GeneGadgetZone-Act3.png",
+  "view": "side",
+  "dims": [
+   1232,
+   1234
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "Pirate Ship",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-PirateShip.png",
+  "view": "side",
+  "dims": [
+   2944,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Jypta Ruins",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-Intro-JyptaRuins.png",
+  "view": "other",
+  "dims": [
+   1133,
+   1305
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Magic Tunnel",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-MagicTunnel.png",
+  "view": "top",
+  "dims": [
+   1008,
+   1408
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "The Doomsday Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-DoomsdayZone.png",
+  "view": "side",
+  "dims": [
+   2560,
+   546
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Castle Of The Ancient",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter8-RiseOfTheAncientCastle-CastleOfTheAncient.png",
+  "view": "top",
+  "dims": [
+   792,
+   1752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Boss",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-DeathEggZone-Boss.png",
+  "view": "side",
+  "dims": [
+   2560,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Ship",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter5-GatewayToTheHiddenShrine-Ship.png",
+  "view": "top",
+  "dims": [
+   696,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Elven Town",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-ElvenTown.png",
+  "view": "top",
+  "dims": [
+   1168,
+   1048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "1",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-MEKADragonCastle-1.png",
+  "view": "side",
+  "dims": [
+   2384,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Streets Of Rage II",
+  "target": "Stage 5",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/StreetsOfRageII-Stage5.png",
+  "view": "side",
+  "dims": [
+   1778,
+   663
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#StreetsOfRageII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-JapaneseCastle-2.png",
+  "view": "side",
+  "dims": [
+   1296,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Streets Of Rage 2",
+  "target": "Stage 8",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/StreetsOfRage2-Stage8.png",
+  "view": "side",
+  "dims": [
+   1136,
+   960
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#StreetsOfRage2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Runefaust Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter8-RiseOfTheAncientCastle-RunefaustCastle.png",
+  "view": "top",
+  "dims": [
+   624,
+   1728
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "1",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-Pyramid-1.png",
+  "view": "side",
+  "dims": [
+   1512,
+   632
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alien Soldier (E)",
+  "target": "Stage 09",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlienSoldier(E)-HuntForXi-Tiger-Stage09.png",
+  "view": "side",
+  "dims": [
+   2416,
+   379
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlienSoldier",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Boss",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SkySanctuaryZone-Boss.png",
+  "view": "side",
+  "dims": [
+   1152,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage1.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage2.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage3.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 4",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage4.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage5.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 6",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage6.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 7",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage7.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Stage 8",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-SpecialStages-SpecialStage8.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act1.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act2.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act3.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 4",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act4.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act5.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 6",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act6.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 7",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act7.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic The Hedgehog 3",
+  "target": "Act 8",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog3-SpecialStage-Act8.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog3",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Dwarven Town",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-DwarvenTown.png",
+  "view": "top",
+  "dims": [
+   752,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "Village (Interiors)",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-Village(Interiors).png",
+  "view": "side",
+  "dims": [
+   1080,
+   688
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-MEKADragonCastle-2.png",
+  "view": "side",
+  "dims": [
+   2104,
+   352
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Shrine To Magic Tunnel",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-ShrineToMagicTunnel.png",
+  "view": "top",
+  "dims": [
+   752,
+   952
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Chapter 4: Great Fortress Of Balbazak",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter4-GreatFortressOfBalbazak.png",
+  "view": "top",
+  "dims": [
+   1152,
+   600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alien Soldier (E)",
+  "target": "Stage 20",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlienSoldier(E)-ThyBodyBroken-Stage20.png",
+  "view": "side",
+  "dims": [
+   816,
+   823
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlienSoldier",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Pangoat Valley",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-PangoatValley.png",
+  "view": "top",
+  "dims": [
+   608,
+   992
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Demon Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter6-DescendantOfTheSacredDragons-DemonCastle.png",
+  "view": "top",
+  "dims": [
+   672,
+   888
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Cavern To Creed's",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-CavernToCreed's.png",
+  "view": "top",
+  "dims": [
+   752,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Cavern To The North",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-CavernToTheNorth.png",
+  "view": "top",
+  "dims": [
+   752,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Chapter 8: Rise Of The Ancient Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter8-RiseOfTheAncientCastle.png",
+  "view": "top",
+  "dims": [
+   1056,
+   504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Esper Mansion",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Dezoris-EsperMansion.png",
+  "view": "top",
+  "dims": [
+   576,
+   912
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "South Shrine",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-SouthShrine.png",
+  "view": "top",
+  "dims": [
+   712,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Taros Shrine",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-TarosShrine.png",
+  "view": "top",
+  "dims": [
+   608,
+   848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Cavern Of Darkness",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-CavernOfDarkness.png",
+  "view": "top",
+  "dims": [
+   632,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Alterone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter1-RunefaustInvasion-Alterone.png",
+  "view": "top",
+  "dims": [
+   1872,
+   1968
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 4",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book2-Chapter4.jpg",
+  "view": "top",
+  "dims": [
+   4023,
+   902
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Landstalker: The Treasures Of King Nole",
+  "target": "Crypt",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Landstalker-TreasuresOfKingNole-Crypt.png",
+  "view": "other",
+  "dims": [
+   2263,
+   1525
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LandstalkerTreasuresOfKingNole",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 4",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book1-Chapter4.jpg",
+  "view": "top",
+  "dims": [
+   3566,
+   910
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Rindo",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter2-SpiritOfTheHolySpring-Rindo.png",
+  "view": "top",
+  "dims": [
+   2328,
+   1392
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Rocket Knight Adventures",
+  "target": "Big Barone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RocketKnightAdventures-BigBarone.png",
+  "view": "side",
+  "dims": [
+   3744,
+   850
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RocketKnightAdventures",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force II",
+  "target": "Granseal",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceII-Granseal.png",
+  "view": "top",
+  "dims": [
+   2840,
+   1072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force: The Legacy Of Great Intention",
+  "target": "Anri",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForce-LegacyOfGreatIntention-Chapter2-SpiritOfTheHolySpring-Anri.png",
+  "view": "top",
+  "dims": [
+   936,
+   3072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceLegacyOfGreatIntention",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Red Dam",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Motavia-RedDam.png",
+  "view": "top",
+  "dims": [
+   1568,
+   1680
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic & Knuckles",
+  "target": "Glowing Spheres",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic&Knuckles-Bonus-GlowingSpheres.png",
+  "view": "side",
+  "dims": [
+   640,
+   4096
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicKnuckles",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic 3D Blast",
+  "target": "The Final Fight",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Sonic3DBlast-FinalFight.png",
+  "view": "side",
+  "dims": [
+   1650,
+   1300
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Sonic3DBlast",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dynamite Headdy",
+  "target": "Scene 4-1: Terminate Her Too",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/DynamiteHeaddy-Scene4-1-TerminateHerToo.png",
+  "view": "side",
+  "dims": [
+   2272,
+   920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#DynamiteHeaddy",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Undersea Waterway",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Motavia-UnderseaWaterway.png",
+  "view": "top",
+  "dims": [
+   2112,
+   848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dynamite Headdy",
+  "target": "Scene 8-3: Fun Forgiven",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/DynamiteHeaddy-Scene8-3-FunForgiven.png",
+  "view": "side",
+  "dims": [
+   2048,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#DynamiteHeaddy",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dynamite Headdy",
+  "target": "Scene 4-2: Mad Mechs",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/DynamiteHeaddy-Scene4-2-MadMechs.png",
+  "view": "side",
+  "dims": [
+   2016,
+   510
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#DynamiteHeaddy",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star II",
+  "target": "Gaila",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarII-Gaila.png",
+  "view": "top",
+  "dims": [
+   1088,
+   848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dynamite Headdy",
+  "target": "Scene 4-3: Mad Mechs 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/DynamiteHeaddy-Scene4-3-MadMechs2.png",
+  "view": "side",
+  "dims": [
+   1376,
+   510
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#DynamiteHeaddy",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Book 4",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book4.jpg",
+  "view": "top",
+  "dims": [
+   758,
+   902
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Gunstar Heroes",
+  "target": "Black's Strange Fortress",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GunstarHeroes-Black'sStrangeFortress.png",
+  "view": "side",
+  "dims": [
+   4004,
+   1528
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GunstarHeroes",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Special Stage 6",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-SpecialStage6.png",
+  "view": "other",
+  "dims": [
+   2560,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Special Stage 8",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-SpecialStage8.png",
+  "view": "other",
+  "dims": [
+   2560,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Special Stage 5",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-SpecialStage5.png",
+  "view": "other",
+  "dims": [
+   2304,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Streets Of Rage 2",
+  "target": "Stage 7",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/StreetsOfRage2-Stage7.png",
+  "view": "side",
+  "dims": [
+   3120,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#StreetsOfRage2",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Contra: Hard Corps",
+  "target": "Stage 6A: Alien Space",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Contra-HardCorps-Stage6A-AlienSpace.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ContraHardCorps",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Contra: Hard Corps",
+  "target": "Stage 6B: Big Battle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Contra-HardCorps-Stage6B-BigBattle.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ContraHardCorps",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Bad Future",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-QuartzQuadrant-Zone3-BadFuture.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Good Future",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-QuartzQuadrant-Zone3-GoodFuture.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Sonic The Hedgehog CD (Sega CD)",
+  "target": "Bad Future",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehogCD-MetallicMadness-Zone3-BadFuture.png",
+  "view": "side",
+  "dims": [
+   4096,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehogCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Wonder Boy III: The Dragon's Trap",
+  "target": "Desert Castle",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyIII-Dragon'sTrap-DesertCastle.png",
+  "view": "side",
+  "dims": [
+   472,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyIIIDragonsTrap",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Alien Soldier (E)",
+  "target": "Stage 13",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlienSoldier(E)-DoorGuards-Stage13.png",
+  "view": "side",
+  "dims": [
+   1430,
+   186
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlienSoldier",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 1",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book1-Chapter1.jpg",
+  "view": "top",
+  "dims": [
+   5384,
+   910
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 1",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book2-Chapter1.jpg",
+  "view": "top",
+  "dims": [
+   5413,
+   905
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 2",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book1-Chapter2.jpg",
+  "view": "top",
+  "dims": [
+   5270,
+   909
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Chapter 2",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book2-Chapter2.jpg",
+  "view": "top",
+  "dims": [
+   5229,
+   898
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Gunstar Heroes",
+  "target": "The Final Assault",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GunstarHeroes-FinalAssault.png",
+  "view": "side",
+  "dims": [
+   5629,
+   798
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GunstarHeroes",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Shining Force CD (Sega CD)",
+  "target": "Book 3",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningForceCD-Book3.jpg",
+  "view": "top",
+  "dims": [
+   4752,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningForceCD",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Earthworm Jim 2",
+  "target": "Jim's Now A Blind Cave Salamander",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim2-Jim'sNowABlindCaveSalamander.png",
+  "view": "side",
+  "dims": [
+   2254,
+   1723
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EarthwormJim2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "20F-25F",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-TowerOfTheDoomed-20F-25F.png",
+  "view": "top",
+  "dims": [
+   2096,
+   1816
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Valleymaze",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Motavia-Valleymaze.png",
+  "view": "top",
+  "dims": [
+   1374,
+   2753
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crusader Of Centy",
+  "target": "Soleil Town (P)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CrusaderOfCenty-SoleilTown(P).png",
+  "view": "side",
+  "dims": [
+   2448,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CrusaderOfCenty",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Frost Caverns",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Dezoris-FrostCaverns.png",
+  "view": "top",
+  "dims": [
+   1483,
+   2492
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World",
+  "target": "10 - Pyramid",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/WonderBoyInMonsterWorld-10-Pyramid.png",
+  "view": "side",
+  "dims": [
+   2064,
+   1768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World",
+  "target": "10 - Pyramid (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/WonderBoyInMonsterWorld-10-Pyramid(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2064,
+   1768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World",
+  "target": "06 - Jungle Temple (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/WonderBoyInMonsterWorld-06-JungleTemple(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2576,
+   1416
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castle Of Illusion: Starring Mickey Mouse",
+  "target": "A & B",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CastleOfIllusion-StarringMickeyMouse-Level5-Castle-A&B.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CastleOfIllusionStarringMickeyMouse",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castle Of Illusion: Starring Mickey Mouse",
+  "target": "A & B (No Background)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CastleOfIllusion-StarringMickeyMouse-Level5-Castle-A&B(NoBackground).png",
+  "view": "side",
+  "dims": [
+   2048,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CastleOfIllusionStarringMickeyMouse",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Unmarked)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-SalyanDesert-Overworld(Unmarked).png",
+  "view": "top",
+  "dims": [
+   2304,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Unmarked) (Animated)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-SalyanDesert-Overworld(Unmarked)(Animated).gif",
+  "view": "top",
+  "dims": [
+   2304,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Unmarked)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-KatarinaZoneWest-Overworld(Unmarked).png",
+  "view": "top",
+  "dims": [
+   1792,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Unmarked) (Animated)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-KatarinaZoneWest-Overworld(Unmarked)(Animated).gif",
+  "view": "top",
+  "dims": [
+   1792,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Postgame) (Unmarked)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-KatarinaZoneWest-Overworld(Postgame)(Unmarked).png",
+  "view": "top",
+  "dims": [
+   1792,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld (Postgame) (Unmarked) (Animated)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-KatarinaZoneWest-Overworld(Postgame)(Unmarked)(Animated).gif",
+  "view": "top",
+  "dims": [
+   1792,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World",
+  "target": "06 - Jungle Temple",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/WonderBoyInMonsterWorld-06-JungleTemple.png",
+  "view": "side",
+  "dims": [
+   2576,
+   1400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Myst Valley",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Dezolis-MystValley.png",
+  "view": "top",
+  "dims": [
+   1713,
+   2044
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Eternal Blue (Sega CD)",
+  "target": "Overworld",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Lunar-EternalBlue-MadoriaPlains-Overworld.png",
+  "view": "top",
+  "dims": [
+   1344,
+   2576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#LunarEternalBlue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Cave Of Wonders",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Aladdin-CaveOfWonders.png",
+  "view": "side",
+  "dims": [
+   3500,
+   986
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Jafar's Palace",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Aladdin-Jafar'sPalace.png",
+  "view": "side",
+  "dims": [
+   3154,
+   1094
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Sultan's Palace",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Aladdin-Sultan'sPalace.png",
+  "view": "side",
+  "dims": [
+   3154,
+   1074
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Lost Island Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Palma-LostIslandTower.png",
+  "view": "top",
+  "dims": [
+   1483,
+   2225
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Beyond Oasis",
+  "target": "Waterfall Shrine",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/BeyondOasis-WaterfallShrine.png",
+  "view": "side",
+  "dims": [
+   1048,
+   3145
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BeyondOasis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "08 - Maugham Desert",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-08-MaughamDesert.png",
+  "view": "side",
+  "dims": [
+   2400,
+   1352
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco: The Tides Of Time (Genesis & Sega CD)",
+  "target": "Secret Cave (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ecco-TidesOfTime-SecretCave(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2048,
+   1546
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTidesOfTime",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Beyond Oasis",
+  "target": "Agito's Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/BeyondOasis-Agito'sCastle.png",
+  "view": "side",
+  "dims": [
+   1505,
+   2095
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BeyondOasis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco: The Tides Of Time (Genesis & Sega CD)",
+  "target": "Secret Cave",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ecco-TidesOfTime-SecretCave.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTidesOfTime",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Lassic's Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Palma-Lassic'sTower.png",
+  "view": "top",
+  "dims": [
+   1393,
+   2225
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Beyond Oasis",
+  "target": "Mountainside Fortress",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/BeyondOasis-MountainsideFortress.png",
+  "view": "side",
+  "dims": [
+   1881,
+   1644
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BeyondOasis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castle Of Illusion: Starring Mickey Mouse",
+  "target": "B",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CastleOfIllusion-StarringMickeyMouse-Level3-Storm-B.png",
+  "view": "side",
+  "dims": [
+   4176,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CastleOfIllusionStarringMickeyMouse",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castle Of Illusion: Starring Mickey Mouse",
+  "target": "B (No Background)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CastleOfIllusion-StarringMickeyMouse-Level3-Storm-B(NoBackground).png",
+  "view": "side",
+  "dims": [
+   4176,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CastleOfIllusionStarringMickeyMouse",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "09 - Pyramid",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-09-Pyramid.png",
+  "view": "side",
+  "dims": [
+   2080,
+   1432
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Beyond Oasis",
+  "target": "Water Shrine",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/BeyondOasis-WaterShrine.png",
+  "view": "side",
+  "dims": [
+   964,
+   3033
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BeyondOasis",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "06 - Jungle Temple",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-06-JungleTemple.png",
+  "view": "side",
+  "dims": [
+   2336,
+   1168
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crusader Of Centy",
+  "target": "Dahlia Valley",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CrusaderOfCenty-DahliaValley.png",
+  "view": "side",
+  "dims": [
+   1024,
+   2560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CrusaderOfCenty",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 06",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon06.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Town",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-Town.png",
+  "view": "top",
+  "dims": [
+   1834,
+   1428
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Sultan's Dungeon",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Aladdin-Sultan'sDungeon.png",
+  "view": "side",
+  "dims": [
+   2270,
+   1127
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Silence Temple",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Rykros-SilenceTemple.png",
+  "view": "top",
+  "dims": [
+   2076,
+   1220
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "World",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-World.png",
+  "view": "top",
+  "dims": [
+   2320,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star (IV): The End Of The Millennium",
+  "target": "Anger Tower",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PhantasyStarIV-EndOfTheMillennium-Rykros-AngerTower.png",
+  "view": "top",
+  "dims": [
+   2576,
+   924
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PhantasyStarIVEndOfTheMillennium",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco: The Tides Of Time (Genesis & Sega CD)",
+  "target": "Gateway (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ecco-TidesOfTime-Gateway(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2048,
+   1162
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTidesOfTime",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco: The Tides Of Time (Genesis & Sega CD)",
+  "target": "Gateway",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ecco-TidesOfTime-Gateway.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTidesOfTime",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castle Of Illusion: Starring Mickey Mouse",
+  "target": "Witch Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/CastleOfIllusion-StarringMickeyMouse-WitchTower.png",
+  "view": "side",
+  "dims": [
+   3134,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#CastleOfIllusionStarringMickeyMouse",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 07",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon07.png",
+  "view": "side",
+  "dims": [
+   1792,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 10",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon10.png",
+  "view": "side",
+  "dims": [
+   1792,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "Deepdale & Area",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-Deepdale&Area.png",
+  "view": "top",
+  "dims": [
+   2912,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "11 - Ice World",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-11-IceWorld.png",
+  "view": "side",
+  "dims": [
+   4176,
+   536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Kid Chameleon",
+  "target": "Hills Have Eyes",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/KidChameleon-HillsHaveEyes.png",
+  "view": "side",
+  "dims": [
+   1920,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#KidChameleon",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Kid Chameleon",
+  "target": "Towers Of Blood",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/KidChameleon-TowersOfBlood.png",
+  "view": "side",
+  "dims": [
+   960,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#KidChameleon",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Kid Chameleon",
+  "target": "Tunnels Beneath The Woods",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/KidChameleon-TunnelsBeneathTheWoods.png",
+  "view": "side",
+  "dims": [
+   1920,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#KidChameleon",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Kid Chameleon",
+  "target": "Wind Castles I",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/KidChameleon-WindCastlesI.png",
+  "view": "side",
+  "dims": [
+   1920,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#KidChameleon",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Coastal Cavern",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-CoastalCavern.png",
+  "view": "top",
+  "dims": [
+   674,
+   3270
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Iala Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Palma-IalaCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Naharu Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-NaharuCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Casba Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-CasbaCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Tajima's Cave",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Motavia-Tajima'sCave.png",
+  "view": "top",
+  "dims": [
+   1483,
+   1483
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "World (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-World(Unmarked).png",
+  "view": "top",
+  "dims": [
+   2080,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star",
+  "target": "Corana Tower",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/PhantasyStar-Dezoris-CoranaTower.png",
+  "view": "top",
+  "dims": [
+   1393,
+   1573
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#PhantasyStar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco The Dolphin (Genesis & Sega CD)",
+  "target": "Sonar",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EccoTheDolphin-CityOfForever-Sonar.png",
+  "view": "side",
+  "dims": [
+   2038,
+   1065
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTheDolphin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco The Dolphin (Genesis & Sega CD)",
+  "target": "Sonar",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EccoTheDolphin-CityOfForever2-Sonar.png",
+  "view": "side",
+  "dims": [
+   2038,
+   1065
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTheDolphin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sword Of Vermilion",
+  "target": "Borrow & Area",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SwordOfVermilion-Borrow&Area.png",
+  "view": "top",
+  "dims": [
+   2704,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SwordOfVermilion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Hills",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Hills.png",
+  "view": "top",
+  "dims": [
+   1960,
+   1072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco The Dolphin (Genesis & Sega CD)",
+  "target": "Sonar",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EccoTheDolphin-IslandZone-Sonar.png",
+  "view": "side",
+  "dims": [
+   2551,
+   809
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTheDolphin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Miracle World",
+  "target": "Stage 16",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInMiracleWorld-Stage16.png",
+  "view": "side",
+  "dims": [
+   1784,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInMiracleWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "QuackShot: Starring Donald Duck",
+  "target": "Part 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/QuackShot-StarringDonaldDuck-Island-Part3.png",
+  "view": "side",
+  "dims": [
+   2038,
+   984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#QuackShotStarringDonaldDuck",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Comix Zone",
+  "target": "Episode 2: Welcome To The Temple",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ComixZone-Episode2-WelcomeToTheTemple.png",
+  "view": "side",
+  "dims": [
+   2048,
+   976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ComixZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Comix Zone",
+  "target": "Episode 3: Curse Of The Dead Ships",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ComixZone-Episode3-CurseOfTheDeadShips.png",
+  "view": "side",
+  "dims": [
+   2048,
+   976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ComixZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ecco The Dolphin (Genesis & Sega CD)",
+  "target": "Sonar",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EccoTheDolphin-IceZone-Sonar.png",
+  "view": "side",
+  "dims": [
+   2551,
+   783
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EccoTheDolphin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Overworld",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-Overworld.png",
+  "view": "side",
+  "dims": [
+   1440,
+   1296
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Fantasy Zone",
+  "target": "Stages",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/FantasyZone-Stages.png",
+  "view": "side",
+  "dims": [
+   1274,
+   1422
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#FantasyZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Earthworm Jim",
+  "target": "Chicken Fly",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim-Level5-ChickenFly.png",
+  "view": "side",
+  "dims": [
+   733,
+   2424
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EarthwormJim",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Shinobi World",
+  "target": "Area 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInShinobiWorld-Round3-Area2.png",
+  "view": "side",
+  "dims": [
+   3072,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInShinobiWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 08",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon08.png",
+  "view": "side",
+  "dims": [
+   1792,
+   960
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Act 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Ristar-Round1-PlanetFlora(Neer)-Act1.png",
+  "view": "side",
+  "dims": [
+   2768,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Act 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Ristar-Round1-PlanetFlora(Neer)-Act2.png",
+  "view": "side",
+  "dims": [
+   2768,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Sultan's Palace",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Aladdin-Sultan'sPalace.png",
+  "view": "side",
+  "dims": [
+   2577,
+   643
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe III (E)",
+  "target": "Stage 5B: A Voyage To Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeIII(E)-Stage5B-VoyageToCastle.png",
+  "view": "side",
+  "dims": [
+   3400,
+   474
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeIII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd: High Tech World",
+  "target": "Castle",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKidd-HighTechWorld-Castle.png",
+  "view": "side",
+  "dims": [
+   1784,
+   864
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddHighTechWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd: High Tech World",
+  "target": "Rooms",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKidd-HighTechWorld-Castle-Rooms.png",
+  "view": "side",
+  "dims": [
+   1784,
+   864
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddHighTechWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Minea",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Minea.png",
+  "view": "top",
+  "dims": [
+   1488,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Aladdin",
+  "target": "Cave Of Wonders",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Aladdin-CaveOfWonders.png",
+  "view": "side",
+  "dims": [
+   2289,
+   643
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Aladdin",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "QuackShot: Starring Donald Duck",
+  "target": "Part 2 (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/QuackShot-StarringDonaldDuck-VikingShip-Part2(Unmarked).png",
+  "view": "side",
+  "dims": [
+   3070,
+   478
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#QuackShotStarringDonaldDuck",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Miracle World",
+  "target": "Stage 01",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInMiracleWorld-Stage01.png",
+  "view": "side",
+  "dims": [
+   761,
+   1920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInMiracleWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "03 - Purapril Sewers",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-03-PuraprilSewers.png",
+  "view": "side",
+  "dims": [
+   2640,
+   552
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 02",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon02.png",
+  "view": "side",
+  "dims": [
+   1280,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 09",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon09.png",
+  "view": "side",
+  "dims": [
+   1280,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-MetroCity-Area2.png",
+  "view": "side",
+  "dims": [
+   2432,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe III (E)",
+  "target": "Stage 4B: Bloody Street",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeIII(E)-Stage4B-BloodyStreet.png",
+  "view": "side",
+  "dims": [
+   3114,
+   448
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeIII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Fields",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Fields.png",
+  "view": "top",
+  "dims": [
+   1304,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Area 2 - Bonus",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ristar-Round4-PlanetSonata-Area2-Bonus.png",
+  "view": "side",
+  "dims": [
+   1792,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Stargazing Tower",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-StargazingTower.png",
+  "view": "top",
+  "dims": [
+   450,
+   2965
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 01",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon01.png",
+  "view": "side",
+  "dims": [
+   1024,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe Warrior",
+  "target": "Dungeon 03",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxeWarrior-Dungeon03.png",
+  "view": "side",
+  "dims": [
+   2048,
+   640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxeWarrior",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe III (E)",
+  "target": "Stage 5A: Death Mountain",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeIII(E)-Stage5A-DeathMountain.png",
+  "view": "side",
+  "dims": [
+   2570,
+   504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeIII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Strength",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfStrength.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Courage",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfCourage.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Truth",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfTruth.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shining In The Darkness",
+  "target": "Lv b1: Cave Of Wisdom",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShiningInTheDarkness-Lvb1-CaveOfWisdom.png",
+  "view": "top",
+  "dims": [
+   896,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShiningInTheDarkness",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe III (E)",
+  "target": "Stage 3A: Dim Jungle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeIII(E)-Stage3A-DimJungle.png",
+  "view": "side",
+  "dims": [
+   2794,
+   448
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeIII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Shinobi World",
+  "target": "Area 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInShinobiWorld-Round2-Area2.png",
+  "view": "side",
+  "dims": [
+   2064,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInShinobiWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Shinobi World",
+  "target": "Area 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInShinobiWorld-Round1-Area2.png",
+  "view": "side",
+  "dims": [
+   1536,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInShinobiWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Miracle World",
+  "target": "Stage 05",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInMiracleWorld-Stage05.png",
+  "view": "side",
+  "dims": [
+   3057,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInMiracleWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Pulseman (J)",
+  "target": "Bonus Stages",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Pulseman(J)-BonusStages.png",
+  "view": "side",
+  "dims": [
+   2144,
+   528
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Pulseman",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Area 2 - Bonus",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ristar-Round5-PlanetFreon-Area2-Bonus.png",
+  "view": "side",
+  "dims": [
+   2048,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Ien (Docked At Shell Island)",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-Ien(DockedAtShellIsland).png",
+  "view": "top",
+  "dims": [
+   1024,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Miracle World",
+  "target": "Stage 11",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInMiracleWorld-Stage11.png",
+  "view": "side",
+  "dims": [
+   1272,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInMiracleWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In The Enchanted Castle",
+  "target": "Tropicstown",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlexKiddInTheEnchantedCastle-Tropicstown.png",
+  "view": "side",
+  "dims": [
+   2048,
+   448
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlexKiddInTheEnchantedCastle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Area 1 - Bonus",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ristar-Round5-PlanetFreon-Area1-Bonus.png",
+  "view": "side",
+  "dims": [
+   1184,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd: High Tech World",
+  "target": "Village",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKidd-HighTechWorld-Village.png",
+  "view": "side",
+  "dims": [
+   2040,
+   430
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddHighTechWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Shell Island",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-ShellIsland.png",
+  "view": "top",
+  "dims": [
+   982,
+   884
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-MetroCity-Area1.png",
+  "view": "side",
+  "dims": [
+   1440,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Death Adder's Castle",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-DeathAdder'sCastle.png",
+  "view": "side",
+  "dims": [
+   959,
+   864
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Professor Dadis' Cave",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-ProfessorDadis'Cave.png",
+  "view": "top",
+  "dims": [
+   450,
+   1768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ristar",
+  "target": "Area 2 - Bonus",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ristar-Round6-PlanetAutomation-Area2-Bonus.png",
+  "view": "side",
+  "dims": [
+   1024,
+   769
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Ristar",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Earthworm Jim",
+  "target": "Area 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim-Darkness-Area1.png",
+  "view": "side",
+  "dims": [
+   1439,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EarthwormJim",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe II",
+  "target": "Level 6: Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeII-Level6-Castle.png",
+  "view": "side",
+  "dims": [
+   1920,
+   401
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe II",
+  "target": "Level 4: Dragon's Throat",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeII-Level4-Dragon'sThroat.png",
+  "view": "side",
+  "dims": [
+   2112,
+   344
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Thunder Force III",
+  "target": "Stage 6: Kerberos",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ThunderForceIII-Stage6-Kerberos.png",
+  "view": "side",
+  "dims": [
+   1391,
+   504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ThunderForceIII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In The Enchanted Castle",
+  "target": "Rookietown",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlexKiddInTheEnchantedCastle-Rookietown.png",
+  "view": "side",
+  "dims": [
+   1536,
+   448
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlexKiddInTheEnchantedCastle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "Ien (Ruins)",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-Ien(Ruins).png",
+  "view": "top",
+  "dims": [
+   1024,
+   672
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Earthworm Jim",
+  "target": "Area 5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim-Darkness-Area5.png",
+  "view": "side",
+  "dims": [
+   1410,
+   475
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EarthwormJim",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi 2: The Silent Fury",
+  "target": "Area 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi2-SilentFury-Castle-Area1.png",
+  "view": "side",
+  "dims": [
+   640,
+   1026
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi2SilentFury",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Firewood City",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-FirewoodCity.png",
+  "view": "side",
+  "dims": [
+   844,
+   764
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Gayn Mountain",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-GaynMountain.png",
+  "view": "side",
+  "dims": [
+   1119,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe II",
+  "target": "Level 2: Ruins",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeII-Level2-Ruins.png",
+  "view": "side",
+  "dims": [
+   1908,
+   337
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lunar: Sanposuru Gakuen (J)",
+  "target": "MAN'S Dungeon",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Lunar-SanposuruGakuen(J)-MAN'SDungeon.png",
+  "view": "top",
+  "dims": [
+   354,
+   1802
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#LunarSanposuruGakuen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Earthworm Jim",
+  "target": "Area 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/EarthwormJim-Darkness-Area2.png",
+  "view": "side",
+  "dims": [
+   1072,
+   582
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#EarthwormJim",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "North Valley",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-NorthValley.png",
+  "view": "side",
+  "dims": [
+   812,
+   758
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 4: Fiend's Path",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxe-Level4-Fiend'sPath.png",
+  "view": "side",
+  "dims": [
+   1601,
+   368
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Desert Pyramid",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-DesertPyramid.png",
+  "view": "side",
+  "dims": [
+   1279,
+   458
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In Miracle World",
+  "target": "Stage 03",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInMiracleWorld-Stage03.png",
+  "view": "side",
+  "dims": [
+   1521,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInMiracleWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Sonic's Edusoft (E)",
+  "target": "World",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Sonic'sEdusoft(E)-World.png",
+  "view": "side",
+  "dims": [
+   952,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SonicsEdusoft",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 2: Turtle Village",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxe-Level2-TurtleVillage.png",
+  "view": "side",
+  "dims": [
+   1378,
+   383
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 3: The Mainland Coast",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxe-Level3-MainlandCoast.png",
+  "view": "side",
+  "dims": [
+   1601,
+   329
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In The Enchanted Castle",
+  "target": "Rock Mountain 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlexKiddInTheEnchantedCastle-RockMountain2.png",
+  "view": "side",
+  "dims": [
+   320,
+   1636
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlexKiddInTheEnchantedCastle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Golden Axe II",
+  "target": "Level 5: Castle Gates",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxeII-Level5-CastleGates.png",
+  "view": "side",
+  "dims": [
+   1569,
+   305
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxeII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Turtle Village",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-TurtleVillage.png",
+  "view": "side",
+  "dims": [
+   638,
+   738
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ax Battler: A Legend Of Golden Axe",
+  "target": "Cursed Cave",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/AxBattler-LegendOfGoldenAxe-CursedCave.png",
+  "view": "side",
+  "dims": [
+   639,
+   720
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#AxBattlerLegendOfGoldenAxe",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi 2: The Silent Fury",
+  "target": "Area 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi2-SilentFury-Castle-Area2.png",
+  "view": "side",
+  "dims": [
+   640,
+   712
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi2SilentFury",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi 2: The Silent Fury",
+  "target": "Area 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi2-SilentFury-Canyon-Area2.png",
+  "view": "side",
+  "dims": [
+   640,
+   710
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi2SilentFury",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Bloodlines",
+  "target": "Stage 3 - Leaning Tower Of Pisa, Italy",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Castlevania-Bloodlines-Stage3-LeaningTowerOfPisaItaly.png",
+  "view": "side",
+  "dims": [
+   4888,
+   4744
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CastlevaniaBloodlines",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Monster World IV (J)",
+  "target": "Sky Castle",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MonsterWorldIV(J)-SkyCastle.png",
+  "view": "side",
+  "dims": [
+   5112,
+   3485
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MonsterWorldIV",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Monster World IV (J)",
+  "target": "2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MonsterWorldIV(J)-IcePyramid-2.png",
+  "view": "side",
+  "dims": [
+   4336,
+   3317
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MonsterWorldIV",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Monster World IV (J)",
+  "target": "1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MonsterWorldIV(J)-IcePyramid-1.png",
+  "view": "side",
+  "dims": [
+   4558,
+   2840
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MonsterWorldIV",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Sonic The Hedgehog 2",
+  "target": "Sky Chase Zone",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SonicTheHedgehog2-SkyChaseZone.png",
+  "view": "side",
+  "dims": [
+   5504,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SonicTheHedgehog2",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Streets Of Rage II",
+  "target": "Stage 6",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/StreetsOfRageII-Stage6.png",
+  "view": "side",
+  "dims": [
+   248,
+   706
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#StreetsOfRageII",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Crusader Of Centy",
+  "target": "Burn Daisy",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CrusaderOfCenty-BurnDaisy.png",
+  "view": "side",
+  "dims": [
+   1536,
+   2560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CrusaderOfCenty",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Crusader Of Centy",
+  "target": "Burn Daisy (P)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/CrusaderOfCenty-BurnDaisy(P).png",
+  "view": "side",
+  "dims": [
+   1536,
+   2560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#CrusaderOfCenty",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "The Revenge Of Shinobi",
+  "target": "Round 8-2 (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RevengeOfShinobi-Round8-2(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2558,
+   1512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RevengeOfShinobi",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi III: Return Of The Ninja Master",
+  "target": "Round 6-2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShinobiIII-ReturnOfTheNinjaMaster-Round6-2.png",
+  "view": "side",
+  "dims": [
+   2600,
+   1484
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShinobiIIIReturnOfTheNinjaMaster",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 9",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round9.png",
+  "view": "side",
+  "dims": [
+   2779,
+   1263
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shadow Dancer",
+  "target": "Rd 3: Statue Of Liberty",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShadowDancer-Rd3-StatueOfLiberty.png",
+  "view": "side",
+  "dims": [
+   994,
+   3312
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShadowDancer",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman",
+  "target": "Day 12: Nightscape",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman-Day12-Nightscape.png",
+  "view": "side",
+  "dims": [
+   640,
+   5080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 7",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round7.png",
+  "view": "side",
+  "dims": [
+   3842,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round2.png",
+  "view": "side",
+  "dims": [
+   2970,
+   766
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "05 - Lilypad",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-05-Lilypad.png",
+  "view": "side",
+  "dims": [
+   4144,
+   536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 8",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round8.png",
+  "view": "side",
+  "dims": [
+   3282,
+   650
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman 2",
+  "target": "Scene 21: Bad Eggs",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman2-Scene21-BadEggs.png",
+  "view": "side",
+  "dims": [
+   1024,
+   2008
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman 2",
+  "target": "Scene 9: Dirty Job",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman2-Scene9-DirtyJob.png",
+  "view": "side",
+  "dims": [
+   2048,
+   984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman 2",
+  "target": "Scene 11: I Can Dig It",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman2-Scene11-ICanDigIt.png",
+  "view": "side",
+  "dims": [
+   2048,
+   984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 4",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round4.png",
+  "view": "side",
+  "dims": [
+   2162,
+   878
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "04 - Purapril",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-04-Purapril.png",
+  "view": "side",
+  "dims": [
+   2080,
+   904
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster World (E)",
+  "target": "13 - Final Battles",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterWorld(E)-13-FinalBattles.png",
+  "view": "side",
+  "dims": [
+   1840,
+   992
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi III: Return Of The Ninja Master",
+  "target": "Round 5-4",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShinobiIII-ReturnOfTheNinjaMaster-Round5-4.png",
+  "view": "side",
+  "dims": [
+   3072,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShinobiIIIReturnOfTheNinjaMaster",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi III: Return Of The Ninja Master",
+  "target": "Round 5-5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShinobiIII-ReturnOfTheNinjaMaster-Round5-5.png",
+  "view": "side",
+  "dims": [
+   512,
+   3072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShinobiIIIReturnOfTheNinjaMaster",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 5",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round5.png",
+  "view": "side",
+  "dims": [
+   2298,
+   672
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alex Kidd In The Enchanted Castle",
+  "target": "To The Sky",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/AlexKiddInTheEnchantedCastle-ToTheSky.png",
+  "view": "side",
+  "dims": [
+   3241,
+   468
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#AlexKiddInTheEnchantedCastle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Alisaland",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-Alisaland.png",
+  "view": "top",
+  "dims": [
+   1312,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi III: Return Of The Ninja Master",
+  "target": "Round 2-2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShinobiIII-ReturnOfTheNinjaMaster-Round2-2.png",
+  "view": "side",
+  "dims": [
+   2560,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShinobiIIIReturnOfTheNinjaMaster",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 2 (Unmarked)",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round2(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2970,
+   416
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman 2",
+  "target": "Scene 1: Geronimo",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman2-Scene1-Geronimo.png",
+  "view": "side",
+  "dims": [
+   512,
+   2232
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Wonder Boy In Monster Land",
+  "target": "Round 5 (Unmarked)",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/WonderBoyInMonsterLand-Round5(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2298,
+   496
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#WonderBoyInMonsterLand",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Zepik",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Zepik.png",
+  "view": "top",
+  "dims": [
+   1096,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Wanderers From Ys",
+  "target": "Sarina",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ys-WanderersFromYs-Sarina.png",
+  "view": "top",
+  "dims": [
+   2228,
+   294
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#YsWanderersFromYs",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi",
+  "target": "Section 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Shinobi-Mission3-Section2.png",
+  "view": "side",
+  "dims": [
+   760,
+   760
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Vectorman",
+  "target": "Day 16: Twist And Shout",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Vectorman-Day16-TwistAndShout.png",
+  "view": "side",
+  "dims": [
+   548,
+   1050
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Vectorman",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinobi",
+  "target": "Section 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Shinobi-Mission2-Section2.png",
+  "view": "side",
+  "dims": [
+   760,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Fantasy Zone (Genesis Mini 2)",
+  "target": "Dolmicca",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/FantasyZone-Dolimicca.png",
+  "view": "side",
+  "dims": [
+   2048,
+   260
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#FantasyZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Fantasy Zone (Genesis Mini 2)",
+  "target": "Pocarius",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/FantasyZone-Pocarius.png",
+  "view": "side",
+  "dims": [
+   2048,
+   258
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#FantasyZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Fantasy Zone (Genesis Mini 2)",
+  "target": "Plaleaf",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/FantasyZone-Plaleaf.png",
+  "view": "side",
+  "dims": [
+   2048,
+   256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#FantasyZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Fantasy Zone (Genesis Mini 2)",
+  "target": "La Dune",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/FantasyZone-LaDune.png",
+  "view": "side",
+  "dims": [
+   2048,
+   256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#FantasyZone",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghouls 'N Ghosts",
+  "target": "Stage 5: The Castle Of Evil Demons",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Ghouls'NGhosts-Stage5-CastleOfEvilDemons.png",
+  "view": "side",
+  "dims": [
+   3647,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GhoulsNGhosts",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Temple",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Temple.png",
+  "view": "top",
+  "dims": [
+   1456,
+   4080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "B1-4F",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-TowerOfTheDoomed-B1-4F.png",
+  "view": "top",
+  "dims": [
+   2096,
+   2728
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished Omen",
+  "target": "Mine",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Ys-AncientYsVanishedOmen-Mine.png",
+  "view": "top",
+  "dims": [
+   1584,
+   2800
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#YsAncientYsVanishedOmen",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-Valley-Area1.png",
+  "view": "side",
+  "dims": [
+   1104,
+   400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Forest Maze",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-ForestMaze.png",
+  "view": "top",
+  "dims": [
+   656,
+   640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-Valley-Area2.png",
+  "view": "side",
+  "dims": [
+   960,
+   432
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shinobi 2: The Silent Fury",
+  "target": "Area 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi2-SilentFury-Building-Area1.png",
+  "view": "side",
+  "dims": [
+   482,
+   856
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi2SilentFury",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 5: Eagle's Head",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/GoldenAxe-Level5-Eagle'sHead.png",
+  "view": "side",
+  "dims": [
+   1185,
+   344
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Tarrytown",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-Tarrytown.png",
+  "view": "top",
+  "dims": [
+   656,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 4",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxe-Level4.png",
+  "view": "side",
+  "dims": [
+   1024,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 5",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxe-Level5.png",
+  "view": "side",
+  "dims": [
+   1024,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 3",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxe-Level3.png",
+  "view": "side",
+  "dims": [
+   1024,
+   376
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Tedo Village",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-TedoVillage.png",
+  "view": "top",
+  "dims": [
+   624,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "North-East Cave #2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-North-EastCave2.png",
+  "view": "top",
+  "dims": [
+   624,
+   592
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 2",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-Highway-Area2.png",
+  "view": "side",
+  "dims": [
+   496,
+   720
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Desert Cave",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-DesertCave.png",
+  "view": "top",
+  "dims": [
+   608,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Forest Cave",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-ForestCave.png",
+  "view": "top",
+  "dims": [
+   608,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Phantasy Star Gaiden (J)",
+  "target": "Daedalus Mines",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/PhantasyStarGaiden(J)-DaedalusMines.png",
+  "view": "top",
+  "dims": [
+   608,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#PhantasyStarGaiden",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Shinobi",
+  "target": "Area 1",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Shinobi-Woodland-Area1.png",
+  "view": "side",
+  "dims": [
+   800,
+   432
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#Shinobi",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Golden Axe",
+  "target": "Level 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/GoldenAxe-Level2.png",
+  "view": "side",
+  "dims": [
+   1024,
+   336
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#GoldenAxe",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Alex Kidd In Shinobi World",
+  "target": "Area 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/AlexKiddInShinobiWorld-Round4-Area2.png",
+  "view": "side",
+  "dims": [
+   1280,
+   192
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#AlexKiddInShinobiWorld",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Thunder Force III",
+  "target": "Stage 8: Orncore",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ThunderForceIII-Stage8-Orncore.png",
+  "view": "side",
+  "dims": [
+   1280,
+   190
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ThunderForceIII",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Streets Of Rage",
+  "target": "Round 7",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/StreetsOfRage-Round7.png",
+  "view": "side",
+  "dims": [
+   248,
+   1408
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#StreetsOfRage",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Super Fantasy Zone (E)",
+  "target": "Menon",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/SuperFantasyZone(E)-Menon.png",
+  "view": "side",
+  "dims": [
+   1160,
+   216
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SuperFantasyZone",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Sonic Drift 2",
+  "target": "Racing Courses (In-Game Maps)",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/SonicDrift2-RacingCourses(In-GameMaps).png",
+  "view": "side",
+  "dims": [
+   654,
+   380
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#SonicDrift2",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Puggsy",
+  "target": "Angeltier Falls (1) (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Puggsy-AngeltierFalls(1)(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2560,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Puggsy",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Puggsy",
+  "target": "Angeltier Falls (2) (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Puggsy-AngeltierFalls(2)(Unmarked).png",
+  "view": "side",
+  "dims": [
+   4096,
+   960
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Puggsy",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Robocop Versus The Terminator",
+  "target": "Secret Level",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RoboCopVersusTheTerminator-Level04-SecretLevel.png",
+  "view": "side",
+  "dims": [
+   2560,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RoboCopVersusTheTerminator",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Tiny Toon Adventures: Buster's Hidden Treasure",
+  "target": "Level 7-2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/TinyToonAdventures-Buster'sHiddenTreasure-Level7-2.png",
+  "view": "side",
+  "dims": [
+   3828,
+   1017
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#TinyToonAdventuresBustersHiddenTreasure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Puggsy",
+  "target": "Star Fall Lake (1) (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Puggsy-StarFallLake(1)(Unmarked).png",
+  "view": "side",
+  "dims": [
+   3040,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Puggsy",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines",
+  "target": "Race 12 - Bedroom Battlefield",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/MicroMachines-Race12-BedroomBattlefield.png",
+  "view": "top",
+  "dims": [
+   2016,
+   1920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#MicroMachines",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Robocop Versus The Terminator",
+  "target": "Level 03 / Delta City Under Construction",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RoboCopVersusTheTerminator-Level03-DeltaCityUnderConstruction.png",
+  "view": "side",
+  "dims": [
+   3200,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RoboCopVersusTheTerminator",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Tiny Treehouse",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/MicroMachines2-TurboTournament-TinyTreehouse.png",
+  "view": "top",
+  "dims": [
+   1712,
+   2112
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Boogerman: A Pick And Flick Adventure",
+  "target": "Level 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Boogerman-PickAndFlickAdventure-PusPalace-Level3.png",
+  "view": "side",
+  "dims": [
+   3088,
+   1168
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BoogermanPickAndFlickAdventure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Puggsy",
+  "target": "Pyramids (1) (Unmarked)",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Puggsy-Pyramids(1)(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2304,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Puggsy",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Tiny Toon Adventures: Buster's Hidden Treasure",
+  "target": "Level 7-1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/TinyToonAdventures-Buster'sHiddenTreasure-Level7-1.png",
+  "view": "side",
+  "dims": [
+   1527,
+   2298
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#TinyToonAdventuresBustersHiddenTreasure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Roller Coaster",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MicroMachines2-TurboTournament-RollerCoaster.png",
+  "view": "top",
+  "dims": [
+   1792,
+   1920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Boogerman: A Pick And Flick Adventure",
+  "target": "Level 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Boogerman-PickAndFlickAdventure-MucousMountains-Level1.png",
+  "view": "side",
+  "dims": [
+   1440,
+   2256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BoogermanPickAndFlickAdventure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Roller Coaster",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/MicroMachines2-TurboTournament-RollerCoaster.png",
+  "view": "top",
+  "dims": [
+   1440,
+   2208
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Sand Castles",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MicroMachines2-TurboTournament-SandCastles.png",
+  "view": "top",
+  "dims": [
+   1984,
+   1600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Robocop Versus The Terminator",
+  "target": "The Toxic Farm",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RoboCopVersusTheTerminator-Level04-ToxicFarm.png",
+  "view": "side",
+  "dims": [
+   4096,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RoboCopVersusTheTerminator",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Lion King II",
+  "target": "Zone-3: Qin's Tomb",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/LionKingII(Unlicensed)-Zone-3-Qin'sTomb.png",
+  "view": "side",
+  "dims": [
+   1534,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Cob Challenge",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MicroMachines2-TurboTournament-CobChallenge.png",
+  "view": "top",
+  "dims": [
+   1760,
+   1728
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Predator 2",
+  "target": "Level 3: The Streets",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Predator2-Level3-Streets.png",
+  "view": "side",
+  "dims": [
+   1340,
+   2240
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Predator2",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Boogerman: A Pick And Flick Adventure",
+  "target": "Level 3",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Boogerman-PickAndFlickAdventure-Pits-Level3.png",
+  "view": "side",
+  "dims": [
+   1664,
+   1760
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BoogermanPickAndFlickAdventure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Crystal Warriors",
+  "target": "World",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/CrystalWarriors-World.png",
+  "view": "top",
+  "dims": [
+   2336,
+   1216
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#CrystalWarriors",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "World Three",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Gods-LevelOne-City-WorldThree.png",
+  "view": "side",
+  "dims": [
+   2752,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Gods",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "World Two",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Gods-LevelFour-Underworld-WorldTwo.png",
+  "view": "side",
+  "dims": [
+   2624,
+   1072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Gods",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Tiny Treehouse",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/MicroMachines2-TurboTournament-TinyTreehouse.png",
+  "view": "top",
+  "dims": [
+   1792,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Boogerman: A Pick And Flick Adventure",
+  "target": "Level 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Boogerman-PickAndFlickAdventure-Pits-Level1.png",
+  "view": "side",
+  "dims": [
+   2480,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#BoogermanPickAndFlickAdventure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Batman Returns",
+  "target": "Route 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/BatmanReturns-Stage4-Route2.png",
+  "view": "side",
+  "dims": [
+   3294,
+   832
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#BatmanReturns",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Micro Machines 2: Turbo Tournament",
+  "target": "Cob Challenge",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/MicroMachines2-TurboTournament-CobChallenge.png",
+  "view": "top",
+  "dims": [
+   1536,
+   1728
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#MicroMachines2TurboTournament",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Simpsons: Bart Vs. The Space Mutants",
+  "target": "Nuclear Power Plant",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Simpsons-BartVsTheSpaceMutants-NuclearPowerPlant.png",
+  "view": "side",
+  "dims": [
+   2322,
+   1100
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#SimpsonsBartVsTheSpaceMutants",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Predator 2",
+  "target": "Level 2: The Rooftops",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Predator2-Level2-Rooftops.png",
+  "view": "side",
+  "dims": [
+   2040,
+   1240
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Predator2",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Simpsons: Bart Vs. The Space Mutants",
+  "target": "Nuclear Power Plant",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Simpsons-BartVsTheSpaceMutants-NuclearPowerPlant.png",
+  "view": "side",
+  "dims": [
+   2290,
+   1100
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#SimpsonsBartVsTheSpaceMutants",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Jungle Book",
+  "target": "Area 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/JungleBook-BonusLevel-Area2.png",
+  "view": "side",
+  "dims": [
+   1764,
+   1402
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#JungleBook",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Jungle Book",
+  "target": "Area 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/JungleBook-BonusLevel-Area1.png",
+  "view": "side",
+  "dims": [
+   1604,
+   1462
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#JungleBook",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Splatterhouse 3",
+  "target": "Stage 1",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Splatterhouse3-Stage1.png",
+  "view": "side",
+  "dims": [
+   2660,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Splatterhouse3",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Splatterhouse 3",
+  "target": "Stage 4",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Splatterhouse3-Stage4.png",
+  "view": "side",
+  "dims": [
+   2660,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Splatterhouse3",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Batman Returns",
+  "target": "Route 2",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/BatmanReturns-Stage3-Route2.png",
+  "view": "side",
+  "dims": [
+   3038,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#BatmanReturns",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Predator 2",
+  "target": "Level 1: The Streets",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Predator2-Level1-Streets.png",
+  "view": "side",
+  "dims": [
+   2040,
+   1140
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Predator2",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Splatterhouse 3",
+  "target": "Stage 2",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Splatterhouse3-Stage2.png",
+  "view": "side",
+  "dims": [
+   2640,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Splatterhouse3",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Splatterhouse 3",
+  "target": "Stage 5",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Splatterhouse3-Stage5.png",
+  "view": "side",
+  "dims": [
+   2640,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Splatterhouse3",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Jungle Book",
+  "target": "Area 4",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/JungleBook-BonusLevel-Area4.png",
+  "view": "side",
+  "dims": [
+   1706,
+   1312
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#JungleBook",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "World Two",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Gods-LevelThree-Labyrinth-WorldTwo.png",
+  "view": "side",
+  "dims": [
+   2192,
+   992
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Gods",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Batman Returns",
+  "target": "Route 1",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/BatmanReturns-Stage4-Route1.png",
+  "view": "side",
+  "dims": [
+   1758,
+   1198
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#BatmanReturns",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "World One",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/Gods-LevelThree-Labyrinth-WorldOne.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#Gods",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Tiny Toon Adventures: Buster's Hidden Treasure",
+  "target": "Level 1-3-1 - WackyLand",
+  "platform": "Genesis",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/TinyToonAdventures-Buster'sHiddenTreasure-Level1-3-1-WackyLand.png",
+  "view": "side",
+  "dims": [
+   1024,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#TinyToonAdventuresBustersHiddenTreasure",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Batman Returns",
+  "target": "Route 1",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/BatmanReturns-Stage3-Route1.png",
+  "view": "side",
+  "dims": [
+   3550,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#BatmanReturns",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "The Simpsons: Bart Vs. The Space Mutants",
+  "target": "Nuclear Power Plant",
+  "platform": "Game Gear",
+  "image_url": "https://vgmaps.com/Atlas/GameGear/Simpsons-BartVsTheSpaceMutants-NuclearPowerPlant.png",
+  "view": "side",
+  "dims": [
+   2322,
+   860
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GameGear/index.htm#SimpsonsBartVsTheSpaceMutants",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Terminator 2: Judgment Day",
+  "target": "Area 5",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Terminator2-JudgmentDay-Area5.png",
+  "view": "side",
+  "dims": [
+   1527,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Terminator2JudgmentDay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Terminator 2: Judgment Day",
+  "target": "Area 3",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Terminator2-JudgmentDay-Area3.png",
+  "view": "side",
+  "dims": [
+   3056,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Terminator2JudgmentDay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Terminator 2: Judgment Day",
+  "target": "Area 4",
+  "platform": "Master System",
+  "image_url": "https://vgmaps.com/Atlas/MasterSystem/Terminator2-JudgmentDay-Area4.png",
+  "view": "side",
+  "dims": [
+   3056,
+   592
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MasterSystem/index.htm#Terminator2JudgmentDay",
+  "iconic": 3,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia (Sega CD)",
+  "target": "Level 12",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PrinceOfPersia(SegaCD)-Level12.png",
+  "view": "side",
+  "dims": [
+   2560,
+   1347
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PrinceOfPersiaSegaCD",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "The Ninja Warriors (J) (Sega CD)",
+  "target": "Banglar Mansion",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/NinjaWarriors(J)-BanglarMansion.png",
+  "view": "side",
+  "dims": [
+   3486,
+   960
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#NinjaWarriors",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia (Sega CD)",
+  "target": "Level 02",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/PrinceOfPersia(SegaCD)-Level02.png",
+  "view": "side",
+  "dims": [
+   4160,
+   771
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#PrinceOfPersiaSegaCD",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Heart Of The Alien: Out Of This World - Parts I And II (Sega CD)",
+  "target": "Area 7",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/HeartOfTheAlien-OutOfThisWorld-PartsIAndII-PartII-Area7.png",
+  "view": "side",
+  "dims": [
+   3049,
+   771
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#HeartOfTheAlienOutOfThisWorldPartsIAndII",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Heart Of The Alien: Out Of This World - Parts I And II (Sega CD)",
+  "target": "Area 4",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/HeartOfTheAlien-OutOfThisWorld-PartsIAndII-PartII-Area4.png",
+  "view": "side",
+  "dims": [
+   1524,
+   771
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#HeartOfTheAlienOutOfThisWorldPartsIAndII",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Shin Megami Tensei (J) (Sega CD)",
+  "target": "Tokyo (Flooded)",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/ShinMegamiTensei(J)-Tokyo(Flooded).png",
+  "view": "side",
+  "dims": [
+   1776,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#ShinMegamiTensei",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Robo Aleste (Sega CD)",
+  "target": "Final Stage",
+  "platform": "Sega CD",
+  "image_url": "https://vgmaps.com/Atlas/Genesis/RoboAleste-FinalStage.png",
+  "view": "side",
+  "dims": [
+   316,
+   1308
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Genesis/index.htm#RoboAleste",
+  "iconic": 2,
+  "detail": 4
+ }
+]

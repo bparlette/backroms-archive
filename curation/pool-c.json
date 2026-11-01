@@ -1,0 +1,6092 @@
+[
+ {
+  "game": "Super Contra",
+  "target": "Stage 4",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/SuperContra-Stage4.png",
+  "view": "side",
+  "dims": [
+   2735,
+   416
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#SuperContra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Vs. Super Mario Bros.",
+  "target": "3-1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/VsSuperMarioBros-World3-1.png",
+  "view": "side",
+  "dims": [
+   3536,
+   720
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#VsSuperMarioBros",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Zelda's Adventure",
+  "target": "Shrine Of Earth (Unmarked)",
+  "platform": "CD-i",
+  "image_url": "https://vgmaps.com/Atlas/CD-i/Zelda'sAdventure-ShrineOfEarth(Unmarked).png",
+  "view": "top",
+  "dims": [
+   2754,
+   2466
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/CD-i/index.htm#ZeldasAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Zelda's Adventure",
+  "target": "Shrine Of Illusion (Unmarked)",
+  "platform": "CD-i",
+  "image_url": "https://vgmaps.com/Atlas/CD-i/Zelda'sAdventure-ShrineOfIllusion(Unmarked).png",
+  "view": "top",
+  "dims": [
+   3920,
+   2481
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/CD-i/index.htm#ZeldasAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II: Belmont's Revenge",
+  "target": "Cloud Castle (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaII-Belmont'sRevenge-CloudCastle(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2240,
+   1941
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaIIBelmontsRevenge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II: Belmont's Revenge",
+  "target": "Crystal Castle (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaII-Belmont'sRevenge-CrystalCastle(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2880,
+   1783
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaIIBelmontsRevenge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II: Belmont's Revenge",
+  "target": "Plant Castle (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaII-Belmont'sRevenge-PlantCastle(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2720,
+   1020
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaIIBelmontsRevenge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II: Belmont's Revenge",
+  "target": "Rock Castle (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaII-Belmont'sRevenge-RockCastle(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2400,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaIIBelmontsRevenge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania II: Belmont's Revenge",
+  "target": "Stage 1 (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaII-Belmont'sRevenge-Dracula'sCastle-Stage1(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2720,
+   1435
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaIIBelmontsRevenge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Hidden Stage: The Dungeon",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-HiddenStage-Dungeon.png",
+  "view": "side",
+  "dims": [
+   2272,
+   672
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Stage 1: Outside The Castle",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-Stage1-OutsideTheCastle.png",
+  "view": "side",
+  "dims": [
+   4864,
+   840
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Stage 2: Inside The Castle",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-Stage2-InsideTheCastle.png",
+  "view": "side",
+  "dims": [
+   5184,
+   1072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Stage 3: The Clock Tower",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-Stage3-ClockTower.png",
+  "view": "side",
+  "dims": [
+   1472,
+   3056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Stage 4: The Top Floor Of The Castle",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-Stage4-TopFloorOfTheCastle.png",
+  "view": "side",
+  "dims": [
+   3712,
+   1160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania Legends",
+  "target": "Stage 5: The Cathedral",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/CastlevaniaLegends-Stage5-Cathedral.png",
+  "view": "side",
+  "dims": [
+   4560,
+   1096
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaLegends",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure",
+  "target": "Stage 01 (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/Castlevania-TheAdventure-Stage01(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2560,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaTheAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure",
+  "target": "Stage 03 (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/Castlevania-TheAdventure-Stage03(Unmarked).png",
+  "view": "side",
+  "dims": [
+   1697,
+   1974
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaTheAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Donkey Kong GB: Dinky Kong & Dixie Kong (J)",
+  "target": "Deep Reef Grief",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DonkeyKongGB-DinkyKong&DixieKong(J)-GreatApeLakes-DeepReefGrief.png",
+  "view": "other",
+  "dims": [
+   2928,
+   2400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DonkeyKongGBDinkyKongDixieKong",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Donkey Kong Land 2",
+  "target": "Unused Bonus Level (Collect The Stars!)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DonkeyKongLand2-UnusedBonusLevel(CollectTheStars!).png",
+  "view": "side",
+  "dims": [
+   1632,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DonkeyKongLand2",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior I & II",
+  "target": "World",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorI&II-DragonWarriorI-World.png",
+  "view": "top",
+  "dims": [
+   1984,
+   1984
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorI&amp;II",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Baharata Cave",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-BaharataCave.png",
+  "view": "top",
+  "dims": [
+   1210,
+   1133
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Castle Scenario",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-Scenario-CastleScenario.png",
+  "view": "top",
+  "dims": [
+   674,
+   602
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Najimi Tower",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-NajimiTower.png",
+  "view": "top",
+  "dims": [
+   1239,
+   2860
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Noaniels Cave",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-NoanielsCave.png",
+  "view": "top",
+  "dims": [
+   1364,
+   1351
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Norud Tunnel",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-NorudTunnel.png",
+  "view": "top",
+  "dims": [
+   1224,
+   1090
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Portoga",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-Portoga.png",
+  "view": "top",
+  "dims": [
+   880,
+   1245
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Promontory Cave",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-PromontoryCave.png",
+  "view": "top",
+  "dims": [
+   957,
+   750
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Pyramid",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-Pyramid.png",
+  "view": "top",
+  "dims": [
+   2740,
+   1706
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Romaly Gate",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-RomalyGate.png",
+  "view": "top",
+  "dims": [
+   704,
+   816
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Shampane Tower",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-ShampaneTower.png",
+  "view": "top",
+  "dims": [
+   2164,
+   1786
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Tempt Cave",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-TemptCave.png",
+  "view": "top",
+  "dims": [
+   1254,
+   1794
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Warrior Monsters",
+  "target": "Chamber Of Travelers' Gates (Completed) (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorMonsters-ChamberOfTravelers'Gates(Completed)(Unmarked).png",
+  "view": "top",
+  "dims": [
+   2032,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorMonsters",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Floatrocks (A15 & P1)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfFloatrocks(A15&P1).png",
+  "view": "top",
+  "dims": [
+   1320,
+   3445
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Marsh (O9)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfMarsh(O9).png",
+  "view": "top",
+  "dims": [
+   1157,
+   1111
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Medusa (C13)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfMedusa(C13).png",
+  "view": "top",
+  "dims": [
+   1307,
+   1271
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Mt. Rocks (B3-E4)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfMtRocks(B3-E4).png",
+  "view": "top",
+  "dims": [
+   981,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Ruins (H1)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfRuins(H1).png",
+  "view": "top",
+  "dims": [
+   981,
+   1437
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Cave Of Snowfields (N4)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CaveOfSnowfields(N4).png",
+  "view": "top",
+  "dims": [
+   1307,
+   3528
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "City Of Jadt (B9)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CityOfJadt(B9).png",
+  "view": "top",
+  "dims": [
+   987,
+   801
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "City Of Wendel (N13)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-CityOfWendel(N13).png",
+  "view": "top",
+  "dims": [
+   822,
+   892
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Dime Tower (H4)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-DimeTower(H4).png",
+  "view": "top",
+  "dims": [
+   1086,
+   2748
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Glaive Castle",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-GlaiveCastle.png",
+  "view": "top",
+  "dims": [
+   1144,
+   4062
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Glaive's Airship (G10)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-Glaive'sAirship(G10).png",
+  "view": "top",
+  "dims": [
+   2702,
+   1316
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Adventure",
+  "target": "Silver Mine (J12)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyAdventure-SilverMine(J12).png",
+  "view": "top",
+  "dims": [
+   1822,
+   1241
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyAdventure",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Ashura's Tower",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Ashura'sWorld-Ashura'sTower.png",
+  "view": "top",
+  "dims": [
+   592,
+   3632
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Cave Of Light",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Apollo'sWorld-CaveOfLight.png",
+  "view": "top",
+  "dims": [
+   768,
+   2928
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Cave Of North",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-FirstWorld-CaveOfNorth.png",
+  "view": "top",
+  "dims": [
+   1088,
+   864
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Lynn's Village",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Apollo'sWorld-Lynn'sVillage.png",
+  "view": "top",
+  "dims": [
+   1168,
+   704
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Nasty Dungeon",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-NastyWorld-NastyDungeon.png",
+  "view": "top",
+  "dims": [
+   1184,
+   5120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Overworld (FirstWorld)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-FirstWorld-Overworld.png",
+  "view": "top",
+  "dims": [
+   1248,
+   976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Overworld (Venus'World)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Venus'World-Overworld.png",
+  "view": "top",
+  "dims": [
+   1120,
+   880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Port Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Apollo'sWorld-PortTown.png",
+  "view": "top",
+  "dims": [
+   896,
+   832
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Second Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-FirstWorld-SecondTown.png",
+  "view": "top",
+  "dims": [
+   1040,
+   656
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Sewer",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Venus'World-Sewer.png",
+  "view": "top",
+  "dims": [
+   1072,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend III",
+  "target": "Overworld",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendIII-Past-Overworld.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy Legend III",
+  "target": "South Tower",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendIII-Present-SouthTower.png",
+  "view": "top",
+  "dims": [
+   832,
+   592
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Ameyoko Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfRuins-AmeyokoTown.png",
+  "view": "top",
+  "dims": [
+   736,
+   680
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Castle Of Sword",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfContinent-CastleOfSword.png",
+  "view": "top",
+  "dims": [
+   464,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Overworld (FishStatueSide World)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-FishStatueSide-World-Overworld.png",
+  "view": "top",
+  "dims": [
+   752,
+   592
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Port Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfOcean-PortTown.png",
+  "view": "top",
+  "dims": [
+   848,
+   768
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Sky Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfSky-SkyTown.png",
+  "view": "top",
+  "dims": [
+   1136,
+   784
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "South Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfContinent-SouthTown.png",
+  "view": "top",
+  "dims": [
+   656,
+   656
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Town Of Hero",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfContinent-TownOfHero.png",
+  "view": "top",
+  "dims": [
+   1088,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Undersea Town",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-WorldOfOcean-UnderseaTown.png",
+  "view": "top",
+  "dims": [
+   1008,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Aria Of Sorrow",
+  "target": "Clock Tower",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-AriaOfSorrow-ClockTower.png",
+  "view": "side",
+  "dims": [
+   2032,
+   2616
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaAriaOfSorrow",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Aria Of Sorrow",
+  "target": "Dance Hall",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-AriaOfSorrow-DanceHall.png",
+  "view": "side",
+  "dims": [
+   2920,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaAriaOfSorrow",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Aria Of Sorrow",
+  "target": "Forbidden Area",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-AriaOfSorrow-ForbiddenArea.png",
+  "view": "side",
+  "dims": [
+   3528,
+   1440
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaAriaOfSorrow",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Aria Of Sorrow",
+  "target": "Inner Quarters",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-AriaOfSorrow-InnerQuarters.png",
+  "view": "side",
+  "dims": [
+   3448,
+   2400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaAriaOfSorrow",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Abyss Stairway",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-AbyssStairway.png",
+  "view": "side",
+  "dims": [
+   1192,
+   3952
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Catacomb",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-Catacomb.png",
+  "view": "side",
+  "dims": [
+   5672,
+   4640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Ceremonial Room",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-CeremonialRoom.png",
+  "view": "side",
+  "dims": [
+   760,
+   704
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Chapel Tower",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-ChapelTower.png",
+  "view": "side",
+  "dims": [
+   4368,
+   4384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Machine Tower",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-MachineTower.png",
+  "view": "side",
+  "dims": [
+   2320,
+   3144
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Observation Tower",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-ObservationTower.png",
+  "view": "side",
+  "dims": [
+   3072,
+   3144
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Triumph Hallway",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-TriumphHallway.png",
+  "view": "side",
+  "dims": [
+   3016,
+   856
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Circle Of The Moon",
+  "target": "Underground Warehouse",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-CircleOfTheMoon-UndergroundWarehouse.png",
+  "view": "side",
+  "dims": [
+   2920,
+   3400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaCircleOfTheMoon",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Harmony Of Dissonance",
+  "target": "Castle Tower (HarmonyOfDissonance CastleA)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-HarmonyOfDissonance-CastleA-CastleTower.png",
+  "view": "side",
+  "dims": [
+   2560,
+   3776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaHarmonyOfDissonance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Harmony Of Dissonance",
+  "target": "Castle Tower (HarmonyOfDissonance CastleB)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-HarmonyOfDissonance-CastleB-CastleTower.png",
+  "view": "side",
+  "dims": [
+   2560,
+   3776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaHarmonyOfDissonance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Harmony Of Dissonance",
+  "target": "Room Of Illusion (HarmonyOfDissonance CastleA)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-HarmonyOfDissonance-CastleA-RoomOfIllusion.png",
+  "view": "side",
+  "dims": [
+   1808,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaHarmonyOfDissonance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Harmony Of Dissonance",
+  "target": "Room Of Illusion (HarmonyOfDissonance CastleB)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Castlevania-HarmonyOfDissonance-CastleB-RoomOfIllusion.png",
+  "view": "side",
+  "dims": [
+   1808,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#CastlevaniaHarmonyOfDissonance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy I & II: Dawn Of Souls",
+  "target": "Castle Palamecia",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyI&II-DawnOfSouls-FinalFantasyII-CastlePalamecia.png",
+  "view": "top",
+  "dims": [
+   939,
+   4188
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy I & II: Dawn Of Souls",
+  "target": "Deist Cavern",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyI&II-DawnOfSouls-FinalFantasyII-DeistCavern.png",
+  "view": "top",
+  "dims": [
+   737,
+   2498
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy I & II: Dawn Of Souls",
+  "target": "Fynn Castle",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyI&II-DawnOfSouls-FinalFantasyII-FynnCastle.png",
+  "view": "top",
+  "dims": [
+   1075,
+   4790
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy I & II: Dawn Of Souls",
+  "target": "Hellfire Chasm - Overworld (Variation 1)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyI&II-DawnOfSouls-FinalFantasy-HellfireChasm-Overworld(Variation1).png",
+  "view": "top",
+  "dims": [
+   1518,
+   1173
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy I & II: Dawn Of Souls",
+  "target": "Snow Cavern",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyI&II-DawnOfSouls-FinalFantasyII-SnowCavern.png",
+  "view": "top",
+  "dims": [
+   799,
+   3188
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VI Advance",
+  "target": "Darill's Tomb",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyVIAdvance-Darill'sTomb.png",
+  "view": "top",
+  "dims": [
+   1330,
+   1729
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyVIAdvance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VI Advance",
+  "target": "Phoenix Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyVIAdvance-PhoenixCave.png",
+  "view": "top",
+  "dims": [
+   2095,
+   1810
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyVIAdvance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VI Advance",
+  "target": "Umaro's Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyVIAdvance-Umaro'sCave.png",
+  "view": "top",
+  "dims": [
+   1215,
+   932
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyVIAdvance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VI Advance",
+  "target": "World Of Balance",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/FinalFantasyVIAdvance-WorldOfBalance.png",
+  "view": "top",
+  "dims": [
+   4096,
+   4095
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#FinalFantasyVIAdvance",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Altmiller Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-AltmillerCave.png",
+  "view": "top",
+  "dims": [
+   1427,
+   1297
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Bilibin Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-BilibinCave.png",
+  "view": "top",
+  "dims": [
+   1273,
+   1393
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Fuchin Temple",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-FuchinTemple.png",
+  "view": "top",
+  "dims": [
+   1109,
+   1812
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Goma Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-GomaCave.png",
+  "view": "top",
+  "dims": [
+   1210,
+   1528
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Kolima Forest",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-KolimaForest.png",
+  "view": "top",
+  "dims": [
+   1357,
+   2649
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Lamakin Desert",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LamakinDesert.png",
+  "view": "top",
+  "dims": [
+   3122,
+   2082
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Mercury Lighthouse",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-MercuryLighthouse.png",
+  "view": "top",
+  "dims": [
+   2249,
+   1700
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Mogall Forest",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-MogallForest.png",
+  "view": "top",
+  "dims": [
+   1659,
+   1992
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "Vault",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-Vault.png",
+  "view": "top",
+  "dims": [
+   1035,
+   1987
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun",
+  "target": "World",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-World.png",
+  "view": "top",
+  "dims": [
+   2192,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSun",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Alhafra & Alhafra Cave",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-Alhafra&AlhafraCave.png",
+  "view": "top",
+  "dims": [
+   3820,
+   1815
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Angara Cavern",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-AngaraCavern.png",
+  "view": "top",
+  "dims": [
+   722,
+   720
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Apo Jii Islands",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-ApoJiiIslands.png",
+  "view": "top",
+  "dims": [
+   1696,
+   1147
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Gondowan Cliffs",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-GondowanCliffs.png",
+  "view": "top",
+  "dims": [
+   1920,
+   1357
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Izumo & Izumo Ruins",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-Izumo&IzumoRuins.png",
+  "view": "top",
+  "dims": [
+   1719,
+   2203
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Kandorean Temple",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-KandoreanTemple.png",
+  "view": "top",
+  "dims": [
+   3668,
+   1973
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Kibombo Mountains",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-KibomboMountains.png",
+  "view": "top",
+  "dims": [
+   1009,
+   1860
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Mandra & Mandra Catacombs",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-Mandra&MandraCatacombs.png",
+  "view": "top",
+  "dims": [
+   3613,
+   2063
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Mercury Lighthouse",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-MercuryLighthouse.png",
+  "view": "top",
+  "dims": [
+   984,
+   945
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level1 VegetableValley)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level1-VegetableValley-Stage1.png",
+  "view": "side",
+  "dims": [
+   1296,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level2 IceCreamIsland)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level2-IceCreamIsland-Stage1.png",
+  "view": "side",
+  "dims": [
+   2128,
+   560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level3 ButterBuilding)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level3-ButterBuilding-Stage1.png",
+  "view": "side",
+  "dims": [
+   2064,
+   480
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level4 GrapeGarden)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level4-GrapeGarden-Stage1.png",
+  "view": "side",
+  "dims": [
+   2368,
+   544
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level5 YogurtYard)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level5-YogurtYard-Stage1.png",
+  "view": "side",
+  "dims": [
+   2848,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 1 (NightmareInDreamLand Level6 OrangeOcean)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level6-OrangeOcean-Stage1.png",
+  "view": "side",
+  "dims": [
+   1920,
+   560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 3 (NightmareInDreamLand Level1 VegetableValley)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level1-VegetableValley-Stage3.png",
+  "view": "side",
+  "dims": [
+   2352,
+   592
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 3 (NightmareInDreamLand Level2 IceCreamIsland)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level2-IceCreamIsland-Stage3.png",
+  "view": "side",
+  "dims": [
+   1296,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 3 (NightmareInDreamLand Level3 ButterBuilding)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level3-ButterBuilding-Stage3.png",
+  "view": "side",
+  "dims": [
+   1296,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 3 (NightmareInDreamLand Level4 GrapeGarden)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level4-GrapeGarden-Stage3.png",
+  "view": "side",
+  "dims": [
+   3136,
+   608
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 3 (NightmareInDreamLand Level5 YogurtYard)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level5-YogurtYard-Stage3.png",
+  "view": "side",
+  "dims": [
+   2864,
+   1424
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 5 (NightmareInDreamLand Level3 ButterBuilding)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level3-ButterBuilding-Stage5.png",
+  "view": "side",
+  "dims": [
+   1040,
+   704
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 5 (NightmareInDreamLand Level4 GrapeGarden)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level4-GrapeGarden-Stage5.png",
+  "view": "side",
+  "dims": [
+   2592,
+   816
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Nightmare In Dream Land",
+  "target": "Stage 5 (NightmareInDreamLand Level5 YogurtYard)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Kirby-NightmareInDreamLand-Level5-YogurtYard-Stage5.png",
+  "view": "side",
+  "dims": [
+   2896,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Beanbean Castle",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-BeanbeanCastle.png",
+  "view": "side",
+  "dims": [
+   1659,
+   1156
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Beanbean Castle - Sewers",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-BeanbeanCastle-Sewers.png",
+  "view": "side",
+  "dims": [
+   1422,
+   2204
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Beanbean Castle Town (1)",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-BeanbeanCastleTown(1).png",
+  "view": "side",
+  "dims": [
+   1073,
+   1300
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Beanbean International Airport",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-BeanbeanInternationalAirport.png",
+  "view": "side",
+  "dims": [
+   2166,
+   1126
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Gwarhar Lagoon",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-GwarharLagoon.png",
+  "view": "side",
+  "dims": [
+   2555,
+   4369
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Hoohoo Mountain",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-HoohooMountain.png",
+  "view": "side",
+  "dims": [
+   2169,
+   3004
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Hoohoo Mountain Base",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-HoohooMountainBase.png",
+  "view": "side",
+  "dims": [
+   2238,
+   1647
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Hoohoo Village",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-HoohooVillage.png",
+  "view": "side",
+  "dims": [
+   2412,
+   1609
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Little Fungitown",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-BeanbeanKingdom-LittleFungitown.png",
+  "view": "side",
+  "dims": [
+   1841,
+   2300
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario & Luigi: Superstar Saga",
+  "target": "Mario's House",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/Mario&Luigi-SuperstarSaga-MushroomKingdom-Mario'sHouse.png",
+  "view": "side",
+  "dims": [
+   940,
+   318
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioLuigiSuperstarSaga",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Cheep-Cheep Island",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-LightningCup-Cheep-CheepIsland.png",
+  "view": "side",
+  "dims": [
+   1952,
+   1952
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Cheese Land",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-FlowerCup-CheeseLand.png",
+  "view": "side",
+  "dims": [
+   1784,
+   1344
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Lakeside Park",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-SpecialCup-LakesidePark.png",
+  "view": "side",
+  "dims": [
+   1848,
+   2000
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Riverside Park",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-MushroomCup-RiversidePark.png",
+  "view": "side",
+  "dims": [
+   1856,
+   1904
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Snow Land",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-StarCup-SnowLand.png",
+  "view": "side",
+  "dims": [
+   1912,
+   2000
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mario Kart: Super Circuit",
+  "target": "Yoshi Desert",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/MarioKart-SuperCircuit-StarCup-YoshiDesert.png",
+  "view": "side",
+  "dims": [
+   1600,
+   1864
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#MarioKartSuperCircuit",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: A Link To The Past / Four Swords",
+  "target": "Dark Palace - B1F",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-ALinkToThePast&FourSwords-ALinkToThePast-DarkPalace-B1F.png",
+  "view": "top",
+  "dims": [
+   2560,
+   2560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaALinkToThePastFourSwords",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: A Link To The Past / Four Swords",
+  "target": "Palace Of The Four Sword - 1F",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-ALinkToThePast&FourSwords-ALinkToThePast-PalaceOfTheFourSword-1F.png",
+  "view": "top",
+  "dims": [
+   1024,
+   1792
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaALinkToThePastFourSwords",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: A Link To The Past / Four Swords",
+  "target": "Swamp Palace - B1F",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-ALinkToThePast&FourSwords-ALinkToThePast-SwampPalace-B1F.png",
+  "view": "top",
+  "dims": [
+   2560,
+   2560
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaALinkToThePastFourSwords",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Cave Of Flames",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-CaveOfFlames.png",
+  "view": "top",
+  "dims": [
+   1858,
+   2600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Dark Hyrule Castle",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-DarkHyruleCastle.png",
+  "view": "top",
+  "dims": [
+   3600,
+   3600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Deepwood Shrine",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-DeepwoodShrine.png",
+  "view": "top",
+  "dims": [
+   1552,
+   2800
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Fortress Of Winds",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-FortressOfWinds.png",
+  "view": "top",
+  "dims": [
+   1376,
+   2750
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Palace Of Winds",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-PalaceOfWinds.png",
+  "view": "top",
+  "dims": [
+   4000,
+   2500
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: The Minish Cap",
+  "target": "Temple Of Droplets",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/LegendOfZelda-MinishCap-TempleOfDroplets.png",
+  "view": "top",
+  "dims": [
+   2032,
+   3400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#LegendOfZeldaMinishCap",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Metal Slug 4",
+  "target": "Mission 1",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug4-Mission1.png",
+  "view": "side",
+  "dims": [
+   5504,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug4",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Planet Robobot",
+  "target": "Stage 1",
+  "platform": "Nintendo 3DS",
+  "image_url": "https://vgmaps.com/Atlas/3DS/Kirby-PlanetRobobot-ResolutionRoad-Stage1.jpg",
+  "view": "side",
+  "dims": [
+   4407,
+   3290
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/3DS/index.htm#KirbyPlanetRobobot",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Planet Robobot",
+  "target": "Stage 3",
+  "platform": "Nintendo 3DS",
+  "image_url": "https://vgmaps.com/Atlas/3DS/Kirby-PlanetRobobot-PatchedPlains-Stage3.jpg",
+  "view": "side",
+  "dims": [
+   4861,
+   3152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/3DS/index.htm#KirbyPlanetRobobot",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Planet Robobot",
+  "target": "Stage 5 (PlanetRobobot PatchedPlains)",
+  "platform": "Nintendo 3DS",
+  "image_url": "https://vgmaps.com/Atlas/3DS/Kirby-PlanetRobobot-PatchedPlains-Stage5.jpg",
+  "view": "side",
+  "dims": [
+   536,
+   1426
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/3DS/index.htm#KirbyPlanetRobobot",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Planet Robobot",
+  "target": "Stage 5 (PlanetRobobot ResolutionRoad)",
+  "platform": "Nintendo 3DS",
+  "image_url": "https://vgmaps.com/Atlas/3DS/Kirby-PlanetRobobot-ResolutionRoad-Stage5.jpg",
+  "view": "side",
+  "dims": [
+   1300,
+   940
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/3DS/index.htm#KirbyPlanetRobobot",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Donkey Kong 64",
+  "target": "Frantic Factory",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/DonkeyKong64-FranticFactory.png",
+  "view": "other",
+  "dims": [
+   2536,
+   2486
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#DonkeyKong64",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Donkey Kong 64",
+  "target": "Jungle Japes",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/DonkeyKong64-JungleJapes.png",
+  "view": "other",
+  "dims": [
+   2227,
+   2237
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#DonkeyKong64",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: Majora's Mask",
+  "target": "Termina Field (Side)",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/LegendOfZelda-Majora'sMask-TerminaField(Side).jpg",
+  "view": "top",
+  "dims": [
+   5000,
+   3000
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#LegendOfZeldaMajorasMask",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: Majora's Mask",
+  "target": "The Portal (Side)",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/LegendOfZelda-Majora'sMask-LostWoods-Portal(Side).jpg",
+  "view": "top",
+  "dims": [
+   3530,
+   1120
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#LegendOfZeldaMajorasMask",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: Ocarina Of Time",
+  "target": "Hyrule Castle (Side)",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/LegendOfZelda-OcarinaOfTime-Present-HyruleCastle(Side).jpg",
+  "view": "top",
+  "dims": [
+   3036,
+   2128
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#LegendOfZeldaOcarinaOfTime",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "The Legend Of Zelda: Ocarina Of Time",
+  "target": "Market (Side)",
+  "platform": "Nintendo 64",
+  "image_url": "https://vgmaps.com/Atlas/N64/LegendOfZelda-OcarinaOfTime-Present-Market(Side).jpg",
+  "view": "top",
+  "dims": [
+   3146,
+   1562
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/N64/index.htm#LegendOfZeldaOcarinaOfTime",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Epilogue & Boss Rush Mode & Practice Mode",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-Epilogue&BossRushMode&PracticeMode.png",
+  "view": "side",
+  "dims": [
+   4162,
+   3888
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Large Cavern",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-LargeCavern.png",
+  "view": "side",
+  "dims": [
+   2024,
+   2112
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Lighthouse",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-Lighthouse.png",
+  "view": "side",
+  "dims": [
+   1621,
+   3264
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Skeleton Cave",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-SkeletonCave.png",
+  "view": "side",
+  "dims": [
+   3969,
+   959
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Somnus Reef",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-SomnusReef.png",
+  "view": "side",
+  "dims": [
+   5234,
+   2218
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Order Of Ecclesia",
+  "target": "Training Hall",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-OrderOfEcclesia-TrainingHall.png",
+  "view": "side",
+  "dims": [
+   2321,
+   2513
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaOrderOfEcclesia",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Portrait Of Ruin",
+  "target": "Forgotten City (Simple)",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Castlevania-PortraitOfRuin-ForgottenCity(Simple).png",
+  "view": "side",
+  "dims": [
+   828,
+   651
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#CastlevaniaPortraitOfRuin",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Quest Heroes: Rocket Slime",
+  "target": "Forewood Forest",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/DragonQuestHeroes-RocketSlime-ForewoodForest.png",
+  "view": "top",
+  "dims": [
+   4192,
+   3256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#DragonQuestHeroesRocketSlime",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Quest Heroes: Rocket Slime",
+  "target": "The Tomb Of Tootinschleiman",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/DragonQuestHeroes-RocketSlime-TombOfTootinschleiman.png",
+  "view": "top",
+  "dims": [
+   3472,
+   4064
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#DragonQuestHeroesRocketSlime",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Squeak Squad",
+  "target": "Stage 1",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Kirby-SqueakSquad-PrismPlains-Stage1.png",
+  "view": "side",
+  "dims": [
+   2105,
+   1614
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#KirbySqueakSquad",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Squeak Squad",
+  "target": "Stage 3",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Kirby-SqueakSquad-PrismPlains-Stage3.png",
+  "view": "side",
+  "dims": [
+   1903,
+   1402
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#KirbySqueakSquad",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Kirby: Squeak Squad",
+  "target": "Stage EX",
+  "platform": "Nintendo DS",
+  "image_url": "https://vgmaps.com/Atlas/DS/Kirby-SqueakSquad-PrismPlains-StageEX.png",
+  "view": "side",
+  "dims": [
+   528,
+   688
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/DS/index.htm#KirbySqueakSquad",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Dr. Wiley",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaMan-DrWiley.png",
+  "view": "side",
+  "dims": [
+   3200,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Dyna Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaMan-DynaMan.png",
+  "view": "side",
+  "dims": [
+   3200,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Sonic Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaMan-SonicMan.png",
+  "view": "side",
+  "dims": [
+   3200,
+   1216
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man",
+  "target": "Volt Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaMan-VoltMan.png",
+  "view": "side",
+  "dims": [
+   3840,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Bit Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-BitMan.png",
+  "view": "side",
+  "dims": [
+   3008,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Blade Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-BladeMan.png",
+  "view": "side",
+  "dims": [
+   5040,
+   1248
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Oil Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-OilMan.png",
+  "view": "side",
+  "dims": [
+   3136,
+   1584
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Shark Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-SharkMan.png",
+  "view": "side",
+  "dims": [
+   5120,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Torch Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-TorchMan.png",
+  "view": "side",
+  "dims": [
+   4800,
+   1376
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man III",
+  "target": "Wave Man",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManIII-WaveMan.png",
+  "view": "side",
+  "dims": [
+   3760,
+   1664
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic Mania",
+  "target": "Act X",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/SonicMania-BlueSphere-ActX.png",
+  "view": "other",
+  "dims": [
+   896,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#SonicMania",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Sonic Mania",
+  "target": "Egg Reverie Zone",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/SonicMania-EggReverieZone.png",
+  "view": "other",
+  "dims": [
+   3072,
+   1312
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#SonicMania",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Street Fighter X Mega Man",
+  "target": "Blanka",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/StreetFighterXMegaMan-Blanka.png",
+  "view": "side",
+  "dims": [
+   3616,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#StreetFighterXMegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Street Fighter X Mega Man",
+  "target": "Ryu",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/StreetFighterXMegaMan-Ryu.png",
+  "view": "side",
+  "dims": [
+   3360,
+   928
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#StreetFighterXMegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Street Fighter X Mega Man",
+  "target": "Urien",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/StreetFighterXMegaMan-Urien.png",
+  "view": "side",
+  "dims": [
+   3616,
+   928
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#StreetFighterXMegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Street Fighter X Mega Man",
+  "target": "Vega",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/StreetFighterXMegaMan-Vega.png",
+  "view": "side",
+  "dims": [
+   2848,
+   1376
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#StreetFighterXMegaMan",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Ancient Shrine",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-AncientShrine.png",
+  "view": "top",
+  "dims": [
+   2046,
+   4232
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Cliffs Of Madness",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-CliffsOfMadness.png",
+  "view": "top",
+  "dims": [
+   2079,
+   1056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Coal Mine Area",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-CoalMineArea.png",
+  "view": "top",
+  "dims": [
+   1686,
+   2415
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Coastal Cave",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-CoastalCave.png",
+  "view": "top",
+  "dims": [
+   3185,
+   3043
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Dark Swamp",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-DarkSwamp.png",
+  "view": "top",
+  "dims": [
+   1247,
+   959
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Inside Coal Mine",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-InsideCoalMine.png",
+  "view": "top",
+  "dims": [
+   4292,
+   1941
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Klark Ship",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-KlarkShip.png",
+  "view": "top",
+  "dims": [
+   1107,
+   929
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Magyscar Area",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-MagyscarArea.png",
+  "view": "top",
+  "dims": [
+   1355,
+   1495
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Sanctuary",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-Sanctuary.png",
+  "view": "top",
+  "dims": [
+   3078,
+   1347
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Alundra",
+  "target": "Sanctuary Area",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Alundra-SanctuaryArea.png",
+  "view": "top",
+  "dims": [
+   1917,
+   959
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#Alundra",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Symphony Of The Night",
+  "target": "Cave",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Castlevania-SymphonyOfTheNight-InvertedCastle-Cave.png",
+  "view": "side",
+  "dims": [
+   2848,
+   3072
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#CastlevaniaSymphonyOfTheNight",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Symphony Of The Night",
+  "target": "Clock Tower",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Castlevania-SymphonyOfTheNight-Dracula'sCastle-ClockTower.png",
+  "view": "side",
+  "dims": [
+   5152,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#CastlevaniaSymphonyOfTheNight",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Symphony Of The Night",
+  "target": "Reverse Keep",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/Castlevania-SymphonyOfTheNight-InvertedCastle-ReverseKeep.png",
+  "view": "side",
+  "dims": [
+   2848,
+   2304
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#CastlevaniaSymphonyOfTheNight",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Aeris's House",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-Aeris'sHouse.png",
+  "view": "top",
+  "dims": [
+   912,
+   896
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Cargo Ship",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-CargoShip.png",
+  "view": "top",
+  "dims": [
+   1120,
+   976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Church In The Slums",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-ChurchInTheSlums.png",
+  "view": "top",
+  "dims": [
+   1184,
+   736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Corel Prison",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-CorelPrison.png",
+  "view": "top",
+  "dims": [
+   1632,
+   1952
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Corneo Hall",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-CorneoHall.png",
+  "view": "top",
+  "dims": [
+   1840,
+   1744
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Junon Airport",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-JunonAirport.png",
+  "view": "top",
+  "dims": [
+   1328,
+   1088
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Mythril Mine",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-MythrilMine.png",
+  "view": "top",
+  "dims": [
+   1664,
+   1008
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "No. 1 Reactor",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-No1Reactor.png",
+  "view": "top",
+  "dims": [
+   3024,
+   1664
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "No. 5 Reactor",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-No5Reactor.png",
+  "view": "top",
+  "dims": [
+   1728,
+   1672
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Sector 5 Slum",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-Sector5Slum.png",
+  "view": "top",
+  "dims": [
+   2400,
+   1408
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Sector 7 Plate Support",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-Sector7PlateSupport.png",
+  "view": "top",
+  "dims": [
+   544,
+   2192
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Sector 7 Slums",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-Sector7Slums.png",
+  "view": "top",
+  "dims": [
+   2208,
+   1600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VII",
+  "target": "Wall Market",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVII-WallMarket.png",
+  "view": "top",
+  "dims": [
+   1328,
+   1744
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "target": "Balamb Garden (Beginning)",
+  "platform": "PlayStation",
+  "image_url": "https://vgmaps.com/Atlas/PSX/FinalFantasyVIII-BalambGarden(Beginning).png",
+  "view": "top",
+  "dims": [
+   2873,
+   2542
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSX/index.htm#FinalFantasyVIII",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Quest: Hand Of The Heavenly Bride (J)",
+  "target": "Demon World",
+  "platform": "PlayStation 2",
+  "image_url": "https://vgmaps.com/Atlas/PS2/DragonQuestV-HandOfTheHeavenlyBride(J)-DemonWorld.png",
+  "view": "top",
+  "dims": [
+   1394,
+   1552
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PS2/index.htm#DragonQuestVHandOfTheHeavenlyBride",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Dragon Quest: Hand Of The Heavenly Bride (J)",
+  "target": "Fairy World",
+  "platform": "PlayStation 2",
+  "image_url": "https://vgmaps.com/Atlas/PS2/DragonQuestV-HandOfTheHeavenlyBride(J)-FairyWorld.png",
+  "view": "top",
+  "dims": [
+   1424,
+   1734
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PS2/index.htm#DragonQuestVHandOfTheHeavenlyBride",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Final Fantasy X",
+  "target": "World",
+  "platform": "PlayStation 2",
+  "image_url": "https://vgmaps.com/Atlas/PS2/FinalFantasyX-World.png",
+  "view": "top",
+  "dims": [
+   1920,
+   1080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PS2/index.htm#FinalFantasyX",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Mega Man X 7",
+  "target": "Area 3 (Part 1)",
+  "platform": "PlayStation 2",
+  "image_url": "https://vgmaps.com/Atlas/PS2/MegaManX7-IntroStage-Area3(Part1).png",
+  "view": "side",
+  "dims": [
+   4000,
+   3000
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PS2/index.htm#MegaManX7",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 1: Village Ruins",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage1-VillageRuins.png",
+  "view": "side",
+  "dims": [
+   4192,
+   960
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 3': Cemetery",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage3'-Cemetery.png",
+  "view": "side",
+  "dims": [
+   3616,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 4: Inner Halls Of Castlevania",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage4-InnerHallsOfCastlevania.png",
+  "view": "side",
+  "dims": [
+   5952,
+   1632
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 5: Ghost Ship",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage5-GhostShip.png",
+  "view": "side",
+  "dims": [
+   3024,
+   1760
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 6: Guardians",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage6-Guardians.png",
+  "view": "side",
+  "dims": [
+   1456,
+   368
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 7: Clock Tower",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage7-ClockTower.png",
+  "view": "side",
+  "dims": [
+   5920,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage 8: Count Dracula",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-Stage8-CountDracula.png",
+  "view": "side",
+  "dims": [
+   1056,
+   752
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Virtual Boy Wario Land",
+  "target": "Level 10",
+  "platform": "Virtual Boy",
+  "image_url": "https://vgmaps.com/Atlas/VirtualBoy/VirtualBoyWarioLand-Level10.png",
+  "view": "side",
+  "dims": [
+   4601,
+   1350
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/VirtualBoy/index.htm#VirtualBoyWarioLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Virtual Boy Wario Land",
+  "target": "Level 3",
+  "platform": "Virtual Boy",
+  "image_url": "https://vgmaps.com/Atlas/VirtualBoy/VirtualBoyWarioLand-Level3.png",
+  "view": "side",
+  "dims": [
+   3168,
+   1552
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/VirtualBoy/index.htm#VirtualBoyWarioLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Virtual Boy Wario Land",
+  "target": "Level 3 (Redscale)",
+  "platform": "Virtual Boy",
+  "image_url": "https://vgmaps.com/Atlas/VirtualBoy/VirtualBoyWarioLand-Level3(Redscale).png",
+  "view": "side",
+  "dims": [
+   3168,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/VirtualBoy/index.htm#VirtualBoyWarioLand",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure Rebirth",
+  "target": "Stage 3",
+  "platform": "Wii",
+  "image_url": "https://vgmaps.com/Atlas/Wii/Castlevania-AdventureRebirth-Stage3.png",
+  "view": "side",
+  "dims": [
+   5046,
+   1152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Wii/index.htm#CastlevaniaAdventureRebirth",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure Rebirth",
+  "target": "Stage 4",
+  "platform": "Wii",
+  "image_url": "https://vgmaps.com/Atlas/Wii/Castlevania-AdventureRebirth-Stage4.png",
+  "view": "side",
+  "dims": [
+   5413,
+   1018
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Wii/index.htm#CastlevaniaAdventureRebirth",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure Rebirth",
+  "target": "Stage 5",
+  "platform": "Wii",
+  "image_url": "https://vgmaps.com/Atlas/Wii/Castlevania-AdventureRebirth-Stage5.png",
+  "view": "side",
+  "dims": [
+   5200,
+   2778
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Wii/index.htm#CastlevaniaAdventureRebirth",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Makai Toushi SaGa (J) / The Final Fantasy Legend",
+  "target": "Hero's Town",
+  "platform": "WonderSwan",
+  "image_url": "https://vgmaps.com/Atlas/WS-WSC/MakaiToushiSaGa(J)-WorldOfContinent-Hero'sTown.png",
+  "view": "top",
+  "dims": [
+   1184,
+   848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/WS-WSC/index.htm#MakaiToushiSaGa",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Makai Toushi SaGa (J) / The Final Fantasy Legend",
+  "target": "Overworld",
+  "platform": "WonderSwan",
+  "image_url": "https://vgmaps.com/Atlas/WS-WSC/MakaiToushiSaGa(J)-WorldOfContinent-Overworld.png",
+  "view": "top",
+  "dims": [
+   1568,
+   1296
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/WS-WSC/index.htm#MakaiToushiSaGa",
+  "iconic": 5,
+  "detail": 5
+ },
+ {
+  "game": "Marvel Super Heroes Vs. Street Fighter",
+  "target": "Death Valley",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/MarvelSuperHeroesVsStreetFighter-DeathValley.png",
+  "view": "other",
+  "dims": [
+   768,
+   480
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#MarvelSuperHeroesVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Marvel Super Heroes Vs. Street Fighter",
+  "target": "Manhattan",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/MarvelSuperHeroesVsStreetFighter-Manhattan.png",
+  "view": "other",
+  "dims": [
+   768,
+   976
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#MarvelSuperHeroesVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Street Fighter II: The World Warrior",
+  "target": "Thailand (Sagat)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/StreetFighterII-WorldWarrior-Thailand(Sagat).png",
+  "view": "other",
+  "dims": [
+   853,
+   256
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#StreetFighterIIWorldWarrior",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Contra",
+  "target": "Stage 1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/SuperContra-Stage1.png",
+  "view": "side",
+  "dims": [
+   3528,
+   492
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#SuperContra",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Contra",
+  "target": "Stage 2",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/SuperContra-Stage2.png",
+  "view": "side",
+  "dims": [
+   256,
+   2880
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#SuperContra",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Super Contra",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/SuperContra-Stage3.png",
+  "view": "side",
+  "dims": [
+   3344,
+   432
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#SuperContra",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "X-Men Vs. Street Fighter",
+  "target": "Death Valley",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/X-MenVsStreetFighter-DeathValley.png",
+  "view": "other",
+  "dims": [
+   768,
+   480
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#XMenVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "X-Men Vs. Street Fighter",
+  "target": "Shadow In The Park",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/X-MenVsStreetFighter-ShadowInThePark.png",
+  "view": "other",
+  "dims": [
+   768,
+   512
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#XMenVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "X-Men Vs. Street Fighter",
+  "target": "The Cararact",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/X-MenVsStreetFighter-Cararact.png",
+  "view": "other",
+  "dims": [
+   768,
+   496
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#XMenVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "X-Men Vs. Street Fighter",
+  "target": "The Temple Of Fist",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/X-MenVsStreetFighter-TempleOfFist.png",
+  "view": "top",
+  "dims": [
+   768,
+   513
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#XMenVsStreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug",
+  "target": "Mission 3",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug-Mission3.png",
+  "view": "side",
+  "dims": [
+   1545,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 2",
+  "target": "Mission 2",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug2-Mission2.png",
+  "view": "side",
+  "dims": [
+   4264,
+   2648
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug2",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 2",
+  "target": "Mission 4",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug2-Mission4.png",
+  "view": "side",
+  "dims": [
+   5504,
+   656
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug2",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 3",
+  "target": "Final Mission (Part 1)",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug3-FinalMission(Part1).png",
+  "view": "side",
+  "dims": [
+   2400,
+   1472
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug3",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 3",
+  "target": "Mission 2",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug3-Mission2.png",
+  "view": "side",
+  "dims": [
+   5484,
+   2288
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug3",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 3",
+  "target": "Mission 3",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug3-Mission3.png",
+  "view": "side",
+  "dims": [
+   5712,
+   2504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug3",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Metal Slug 4",
+  "target": "Mission 4",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/MetalSlug4-Mission4.png",
+  "view": "side",
+  "dims": [
+   4980,
+   672
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#MetalSlug4",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "The King Of Fighters '94",
+  "target": "London, England - Windsor Great Park",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/KingOfFighters'94-London,England-WindsorGreatPark.png",
+  "view": "other",
+  "dims": [
+   768,
+   481
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#KingOfFighters94",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Mega Man X",
+  "target": "Stage 3",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/MegaManX-Sigma'sFortress-Stage3.png",
+  "view": "side",
+  "dims": [
+   5134,
+   767
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#MegaManX",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Street Fighter",
+  "target": "Streets",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/StreetFighter-Streets.png",
+  "view": "other",
+  "dims": [
+   664,
+   616
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#StreetFighter",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Castlevania: Rondo Of Blood / Akumaj\u014d Dracula X - Chi no Rondo (J) (PC Engine CD)",
+  "target": "Stage X",
+  "platform": "TurboGrafx-16",
+  "image_url": "https://vgmaps.com/Atlas/TG16/Castlevania-RondoOfBlood(J)-StageX.png",
+  "view": "side",
+  "dims": [
+   1328,
+   272
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/TG16/index.htm#CastlevaniaRondoOfBlood",
+  "iconic": 5,
+  "detail": 4
+ },
+ {
+  "game": "Another World (E)",
+  "target": "Part 1: Arrival",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/AnotherWorld(E)-Part1-Arrival.png",
+  "view": "side",
+  "dims": [
+   3200,
+   800
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#AnotherWorld",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level Previews",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-LevelPreviews.png",
+  "view": "other",
+  "dims": [
+   3333,
+   2600
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia (E)",
+  "target": "Level 02",
+  "platform": "Amstrad CPC",
+  "image_url": "https://vgmaps.com/Atlas/CPC/PrinceOfPersia(E)-Level02.png",
+  "view": "side",
+  "dims": [
+   4160,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/CPC/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia (E)",
+  "target": "Level 03",
+  "platform": "Amstrad CPC",
+  "image_url": "https://vgmaps.com/Atlas/CPC/PrinceOfPersia(E)-Level03.png",
+  "view": "side",
+  "dims": [
+   2880,
+   948
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/CPC/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia (E)",
+  "target": "Level 05",
+  "platform": "Amstrad CPC",
+  "image_url": "https://vgmaps.com/Atlas/CPC/PrinceOfPersia(E)-Level05.png",
+  "view": "side",
+  "dims": [
+   2880,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/CPC/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Alien Vs. Predator",
+  "target": "Round 1: City Of Despair",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/AlienVsPredator-Round1-CityOfDespair.png",
+  "view": "top",
+  "dims": [
+   2197,
+   448
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#AlienVsPredator",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 10: The Lighthouse Cape",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level10-LighthouseCape.png",
+  "view": "side",
+  "dims": [
+   2162,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 1: Bonk's Village",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level1-Bonk'sVillage.png",
+  "view": "side",
+  "dims": [
+   1536,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 2: The Primitive Volcano",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level2-PrimitiveVolcano.png",
+  "view": "side",
+  "dims": [
+   1968,
+   1147
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 3: The Splash Waterfall",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level3-SplashWaterfall.png",
+  "view": "side",
+  "dims": [
+   2208,
+   1469
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 4: The Tower Of Bones",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level4-TowerOfBones.png",
+  "view": "side",
+  "dims": [
+   1856,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 5: The Jungle Remains",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level5-JungleRemains.png",
+  "view": "side",
+  "dims": [
+   1280,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 6: The Amazon River",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level6-AmazonRiver.png",
+  "view": "side",
+  "dims": [
+   1840,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 7: The Gloomy Highlands",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level7-GloomyHighlands.png",
+  "view": "side",
+  "dims": [
+   1792,
+   808
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 8: The Log Road",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level8-LogRoad.png",
+  "view": "side",
+  "dims": [
+   2272,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bonk's Adventure: Arcade Version",
+  "target": "Level 9: The Freezing Iceberg",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Bonk'sAdventure-ArcadeVersion-Level9-FreezingIceberg.png",
+  "view": "side",
+  "dims": [
+   2688,
+   956
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BonksAdventureArcadeVersion",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Bubble Bobble II",
+  "target": "First Fork Road",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/BubbleBobbleII-FirstForkRoad.png",
+  "view": "other",
+  "dims": [
+   1926,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#BubbleBobbleII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cadillacs And Dinosaurs",
+  "target": "Episode 1: City In The Sea",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/CadillacsAndDinosaurs-Episode1-CityInTheSea.png",
+  "view": "top",
+  "dims": [
+   3747,
+   830
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#CadillacsAndDinosaurs",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage1.png",
+  "view": "other",
+  "dims": [
+   4596,
+   737
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage3.png",
+  "view": "other",
+  "dims": [
+   3397,
+   1278
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 4",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage4.png",
+  "view": "other",
+  "dims": [
+   3178,
+   1119
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage5.png",
+  "view": "other",
+  "dims": [
+   4265,
+   1184
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Cotton",
+  "target": "Stage 6 & End",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Cotton-Stage6&End.png",
+  "view": "other",
+  "dims": [
+   5361,
+   959
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Cotton",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Darius Gaiden",
+  "target": "Zones",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/DariusGaiden-Zones.png",
+  "view": "other",
+  "dims": [
+   908,
+   713
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#DariusGaiden",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Round 1: Slum",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round1-Slum.png",
+  "view": "other",
+  "dims": [
+   1296,
+   757
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#FinalFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Round 2: Subway Park",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round2-SubwayPark.png",
+  "view": "other",
+  "dims": [
+   2587,
+   783
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#FinalFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Final Fight",
+  "target": "Round 4: Industrial Area",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/FinalFight-Round4-IndustrialArea.png",
+  "view": "other",
+  "dims": [
+   3674,
+   3056
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#FinalFight",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage3.png",
+  "view": "other",
+  "dims": [
+   3600,
+   930
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage5.png",
+  "view": "other",
+  "dims": [
+   768,
+   1168
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghosts 'N Goblins",
+  "target": "Stage 6",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghosts'NGoblins-Stage6.png",
+  "view": "other",
+  "dims": [
+   512,
+   1200
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhostsNGoblins",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghouls 'N Ghosts",
+  "target": "Stage 1: The Execution Place & The Floating Island On The Lake",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghouls'NGhosts-Stage1-ExecutionPlace&FloatingIslandOnTheLake.png",
+  "view": "side",
+  "dims": [
+   5375,
+   542
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhoulsNGhosts",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghouls 'N Ghosts",
+  "target": "Stage 4: The Crystal Forest & Ice Slopes",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghouls'NGhosts-Stage4-CrystalForest&IceSlopes.png",
+  "view": "side",
+  "dims": [
+   4233,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhoulsNGhosts",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ghouls 'N Ghosts",
+  "target": "Stage 5: The Castle Of Evil Demons",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Ghouls'NGhosts-Stage5-CastleOfEvilDemons.png",
+  "view": "side",
+  "dims": [
+   3776,
+   1776
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#GhoulsNGhosts",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 1",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage1.png",
+  "view": "other",
+  "dims": [
+   1280,
+   2272
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 2",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage2.png",
+  "view": "other",
+  "dims": [
+   1536,
+   1760
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 3",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage3.png",
+  "view": "other",
+  "dims": [
+   1536,
+   2016
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 4",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage4.png",
+  "view": "other",
+  "dims": [
+   1792,
+   1504
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ikari III: The Rescue",
+  "target": "Stage 5",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/IkariIII-Rescue-Stage5.png",
+  "view": "other",
+  "dims": [
+   1280,
+   1248
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#IkariIIIRescue",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 10: Bubble Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World10-BubbleIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   2496
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 1: Insect Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World1-InsectIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   1277
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 2: Combat Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World2-CombatIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   1465
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 3: Monster Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World3-MonsterIsland.png",
+  "view": "other",
+  "dims": [
+   1289,
+   2261
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 4: Toy Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World4-ToyIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2302
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 5: Doh's Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World5-Doh'sIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   1995
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 6: Robot Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World6-RobotIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   1677
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 7: Dragon Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World7-DragonIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2460
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 8: Magical Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World8-MagicalIsland.png",
+  "view": "other",
+  "dims": [
+   1286,
+   2054
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rainbow Islands: The Story Of Bubble Bobble 2",
+  "target": "World 9: Darius Island",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/RainbowIslands-StoryOfBubbleBobble2-World9-DariusIsland.png",
+  "view": "other",
+  "dims": [
+   1285,
+   2254
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#RainbowIslandsStoryOfBubbleBobble2",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Castle (Round 1)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round1-Castle.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Castle (Round 2)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round2-Castle.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Castle (Round 3)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round3-Castle.png",
+  "view": "side",
+  "dims": [
+   1536,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Castle (Round 4)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round4-Castle.png",
+  "view": "side",
+  "dims": [
+   2560,
+   1025
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Cave (Round 5)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round5-Cave.png",
+  "view": "side",
+  "dims": [
+   2048,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Rastan",
+  "target": "Cave (Round 6)",
+  "platform": "Arcade",
+  "image_url": "https://vgmaps.com/Atlas/Arcade/Rastan-Round6-Cave.png",
+  "view": "side",
+  "dims": [
+   2560,
+   1024
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arcade/index.htm#Rastan",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Xevious",
+  "target": "World",
+  "platform": "Atari 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari7800/Xevious-World.png",
+  "view": "top",
+  "dims": [
+   1152,
+   1888
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari7800/index.htm#Xevious",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 02",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level02.png",
+  "view": "side",
+  "dims": [
+   4160,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 03",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level03.png",
+  "view": "side",
+  "dims": [
+   2880,
+   948
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 05",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level05.png",
+  "view": "side",
+  "dims": [
+   2880,
+   948
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 06",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level06.png",
+  "view": "side",
+  "dims": [
+   2240,
+   570
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 07",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level07.png",
+  "view": "side",
+  "dims": [
+   2880,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 08",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level08.png",
+  "view": "side",
+  "dims": [
+   3520,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 09",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level09.png",
+  "view": "side",
+  "dims": [
+   2560,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 10",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level10.png",
+  "view": "side",
+  "dims": [
+   2560,
+   570
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 11",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level11.png",
+  "view": "side",
+  "dims": [
+   2880,
+   759
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Prince Of Persia",
+  "target": "Level 12",
+  "platform": "Commodore 64",
+  "image_url": "https://vgmaps.com/Atlas/C64/PrinceOfPersia-Level12.png",
+  "view": "side",
+  "dims": [
+   2560,
+   1326
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/C64/index.htm#PrinceOfPersia",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys-II: Ancient Ys Vanished - The Final Chapter (J)",
+  "target": "Ice Ridge",
+  "platform": "MSX",
+  "image_url": "https://vgmaps.com/Atlas/MSX/Ys-II-AncientYsVanished-FinalChapter(J)-IceRidge.png",
+  "view": "top",
+  "dims": [
+   2688,
+   1128
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MSX/index.htm#YsIIAncientYsVanishedFinalChapter",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys-II: Ancient Ys Vanished - The Final Chapter (J)",
+  "target": "Lance Village",
+  "platform": "MSX",
+  "image_url": "https://vgmaps.com/Atlas/MSX/Ys-II-AncientYsVanished-FinalChapter(J)-LanceVillage.png",
+  "view": "top",
+  "dims": [
+   1368,
+   1208
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MSX/index.htm#YsIIAncientYsVanishedFinalChapter",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys-II: Ancient Ys Vanished - The Final Chapter (J)",
+  "target": "Mine 1",
+  "platform": "MSX",
+  "image_url": "https://vgmaps.com/Atlas/MSX/Ys-II-AncientYsVanished-FinalChapter(J)-Mine1.png",
+  "view": "top",
+  "dims": [
+   2200,
+   1848
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MSX/index.htm#YsIIAncientYsVanishedFinalChapter",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys-II: Ancient Ys Vanished - The Final Chapter (J)",
+  "target": "Mine 2",
+  "platform": "MSX",
+  "image_url": "https://vgmaps.com/Atlas/MSX/Ys-II-AncientYsVanished-FinalChapter(J)-Mine2.png",
+  "view": "top",
+  "dims": [
+   1288,
+   1392
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MSX/index.htm#YsIIAncientYsVanishedFinalChapter",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys-II: Ancient Ys Vanished - The Final Chapter (J)",
+  "target": "Ruins",
+  "platform": "MSX",
+  "image_url": "https://vgmaps.com/Atlas/MSX/Ys-II-AncientYsVanished-FinalChapter(J)-Ruins.png",
+  "view": "top",
+  "dims": [
+   1984,
+   1048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/MSX/index.htm#YsIIAncientYsVanishedFinalChapter",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Shinsetsu Samurai Spirits: Bushido Retsuden (J) / Samurai Shodown: Tales Of The Bushido",
+  "target": "Overworld",
+  "platform": "Neo Geo",
+  "image_url": "https://vgmaps.com/Atlas/Neo-Geo/ShinsetsuSamuraiSpirits-BushidoRetsuden(J)-Overworld.png",
+  "view": "top",
+  "dims": [
+   1957,
+   1493
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Neo-Geo/index.htm#ShinsetsuSamuraiSpiritsBushidoRetsuden",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 01",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level01.png",
+  "view": "top",
+  "dims": [
+   1187,
+   1187
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 02",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level02.png",
+  "view": "top",
+  "dims": [
+   1579,
+   1530
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 03",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level03.png",
+  "view": "top",
+  "dims": [
+   1579,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 04",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level04.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 05",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level05.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 06",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level06.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1628
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 07",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level07.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 08",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level08.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 09",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level09.png",
+  "view": "top",
+  "dims": [
+   1680,
+   1579
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Actraiser: Renaissance",
+  "target": "Level 10",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/AdvancedDungeons&Dragons-EyeOfTheBeholder-Level10.png",
+  "view": "top",
+  "dims": [
+   1694,
+   1187
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#ActraiserRenaissance",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 01",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level01.png",
+  "view": "other",
+  "dims": [
+   1728,
+   750
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 02",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level02.png",
+  "view": "other",
+  "dims": [
+   2272,
+   576
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 03",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level03.png",
+  "view": "other",
+  "dims": [
+   896,
+   1280
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 04",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level04.png",
+  "view": "other",
+  "dims": [
+   2576,
+   1216
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 05",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level05.png",
+  "view": "other",
+  "dims": [
+   1856,
+   1568
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 06",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level06.png",
+  "view": "other",
+  "dims": [
+   1216,
+   1920
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Commander Keen In \"Goodbye, Galaxy!\" - Secret Of The Oracle",
+  "target": "Level 07",
+  "platform": "PC",
+  "image_url": "https://vgmaps.com/Atlas/PC/CommanderKeenInGoodbye,Galaxy!-SecretOfTheOracle-Level07.png",
+  "view": "other",
+  "dims": [
+   2336,
+   640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC/index.htm#CommanderKeenInGoodbyeGalaxySecretOfTheOracle",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Mugen Senshi Valis II (J)",
+  "target": "Act 2",
+  "platform": "X68000",
+  "image_url": "https://vgmaps.com/Atlas/X68000/MugenSenshiValisII(J)-Act2.png",
+  "view": "side",
+  "dims": [
+   5120,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/X68000/index.htm#MugenSenshiValisII",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished (J)",
+  "target": "Field",
+  "platform": "X68000",
+  "image_url": "https://vgmaps.com/Atlas/X68000/Ys-AncientYsVanished(J)-Field.png",
+  "view": "top",
+  "dims": [
+   2232,
+   2472
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/X68000/index.htm#YsAncientYsVanished",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Ys: Ancient Ys Vanished (J)",
+  "target": "Minea Town",
+  "platform": "X68000",
+  "image_url": "https://vgmaps.com/Atlas/X68000/Ys-AncientYsVanished(J)-MineaTown.png",
+  "view": "top",
+  "dims": [
+   2872,
+   2736
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/X68000/index.htm#YsAncientYsVanished",
+  "iconic": 4,
+  "detail": 5
+ },
+ {
+  "game": "Castlevania: The Adventure",
+  "target": "Stage 02 (Unmarked)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/Castlevania-TheAdventure-Stage02(Unmarked).png",
+  "view": "side",
+  "dims": [
+   2525,
+   1789
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#CastlevaniaTheAdventure",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Golden Sun: The Lost Age",
+  "target": "Ankohl Ruins",
+  "platform": "Game Boy Advance",
+  "image_url": "https://vgmaps.com/Atlas/GBA/GoldenSun-LostAge-AnkohlRuins.png",
+  "view": "top",
+  "dims": [
+   4465,
+   4111
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GBA/index.htm#GoldenSunLostAge",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Mega Man X 7",
+  "target": "Area 1",
+  "platform": "PlayStation 2",
+  "image_url": "https://vgmaps.com/Atlas/PS2/MegaManX7-IntroStage-Area1.png",
+  "view": "side",
+  "dims": [
+   4000,
+   3000
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PS2/index.htm#MegaManX7",
+  "iconic": 5,
+  "detail": 3
+ },
+ {
+  "game": "Xevious",
+  "target": "Area 01",
+  "platform": "Atari 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari7800/Xevious-Area01.png",
+  "view": "top",
+  "dims": [
+   256,
+   1808
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari7800/index.htm#Xevious",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Xevious",
+  "target": "Area 02",
+  "platform": "Atari 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari7800/Xevious-Area02.png",
+  "view": "top",
+  "dims": [
+   256,
+   1808
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari7800/index.htm#Xevious",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Xevious",
+  "target": "Area 03",
+  "platform": "Atari 7800",
+  "image_url": "https://vgmaps.com/Atlas/Atari7800/Xevious-Area03.png",
+  "view": "top",
+  "dims": [
+   256,
+   1808
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari7800/index.htm#Xevious",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Double Dragon (E)",
+  "target": "Mission 2",
+  "platform": "ZX Spectrum",
+  "image_url": "https://vgmaps.com/Atlas/ZXSpectrum/DoubleDragon(E)-Mission2.png",
+  "view": "other",
+  "dims": [
+   1570,
+   434
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ZXSpectrum/index.htm#DoubleDragon",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Double Dragon (E)",
+  "target": "Mission 4",
+  "platform": "ZX Spectrum",
+  "image_url": "https://vgmaps.com/Atlas/ZXSpectrum/DoubleDragon(E)-Mission4.png",
+  "view": "other",
+  "dims": [
+   1138,
+   450
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ZXSpectrum/index.htm#DoubleDragon",
+  "iconic": 4,
+  "detail": 4
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Forest Scenario",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-Scenario-ForestScenario.png",
+  "view": "top",
+  "dims": [
+   1010,
+   144
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Dragon Warrior III",
+  "target": "Tower Scenario",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/DragonWarriorIII-Scenario-TowerScenario.png",
+  "view": "top",
+  "dims": [
+   263,
+   616
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#DragonWarriorIII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Forest",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-FinalWorld-Forest.png",
+  "view": "top",
+  "dims": [
+   544,
+   400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Guardian's Town (Ruins)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-Guardian'sWorld-Guardian'sTown(Ruins).png",
+  "view": "top",
+  "dims": [
+   976,
+   400
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Overworld (RaceWorld)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-RaceWorld-Overworld.png",
+  "view": "top",
+  "dims": [
+   624,
+   368
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Final Fantasy Legend II",
+  "target": "Shrine Of Isis",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegendII-FirstWorld-ShrineOfIsis.png",
+  "view": "top",
+  "dims": [
+   496,
+   640
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegendII",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "The Final Fantasy Legend",
+  "target": "Overworld (TortureSide World)",
+  "platform": "Game Boy",
+  "image_url": "https://vgmaps.com/Atlas/GB-GBC/FinalFantasyLegend-TortureSide-World-Overworld.png",
+  "view": "top",
+  "dims": [
+   544,
+   352
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/GB-GBC/index.htm#FinalFantasyLegend",
+  "iconic": 5,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 20: We Are Now At LEMCON ONE",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level20-WeAreNowAtLEMCONONE.png",
+  "view": "other",
+  "dims": [
+   1300,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Double Dragon (E)",
+  "target": "Mission 1",
+  "platform": "ZX Spectrum",
+  "image_url": "https://vgmaps.com/Atlas/ZXSpectrum/DoubleDragon(E)-Mission1.png",
+  "view": "other",
+  "dims": [
+   1922,
+   274
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ZXSpectrum/index.htm#DoubleDragon",
+  "iconic": 4,
+  "detail": 3
+ },
+ {
+  "game": "Gods",
+  "target": "The City (Unmarked) (A) (LevelOne)",
+  "platform": "Acorn Archimedes",
+  "image_url": "https://vgmaps.com/Atlas/Archimedes/Gods-LevelOne-City(Unmarked)(A).png",
+  "view": "top",
+  "dims": [
+   4096,
+   1040
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Archimedes/index.htm#Gods",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "The Abyssal Zone",
+  "target": "Abyssal Plains",
+  "platform": "Apple II",
+  "image_url": "https://vgmaps.com/Atlas/AppleII/AbyssalZone-AbyssalPlains.png",
+  "view": "other",
+  "dims": [
+   2821,
+   2800
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/AppleII/index.htm#AbyssalZone",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "The Abyssal Zone",
+  "target": "Coral Reef",
+  "platform": "Apple II",
+  "image_url": "https://vgmaps.com/Atlas/AppleII/AbyssalZone-CoralReef.png",
+  "view": "other",
+  "dims": [
+   2046,
+   2260
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/AppleII/index.htm#AbyssalZone",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "The Abyssal Zone",
+  "target": "Forest",
+  "platform": "Apple II",
+  "image_url": "https://vgmaps.com/Atlas/AppleII/AbyssalZone-Forest.png",
+  "view": "top",
+  "dims": [
+   3601,
+   1720
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/AppleII/index.htm#AbyssalZone",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 12",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level12.png",
+  "view": "other",
+  "dims": [
+   983,
+   1207
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 13",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level13.png",
+  "view": "other",
+  "dims": [
+   1136,
+   1207
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 15",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level15.png",
+  "view": "other",
+  "dims": [
+   983,
+   1461
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 7",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level7.png",
+  "view": "other",
+  "dims": [
+   371,
+   1461
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 8",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level8.png",
+  "view": "other",
+  "dims": [
+   677,
+   1461
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Adventure II",
+  "target": "Levels 1, 4 & 11",
+  "platform": "Atari 5200",
+  "image_url": "https://vgmaps.com/Atlas/Atari5200/AdventureII(Unlicensed)-Levels1,4&11.png",
+  "view": "other",
+  "dims": [
+   2950,
+   2122
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari5200/index.htm#AdventureII",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Adventure II",
+  "target": "Levels 2 & 6",
+  "platform": "Atari 5200",
+  "image_url": "https://vgmaps.com/Atlas/Atari5200/AdventureII(Unlicensed)-Levels2&6.png",
+  "view": "other",
+  "dims": [
+   2931,
+   3154
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari5200/index.htm#AdventureII",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Adventure II",
+  "target": "Levels 3 & 8",
+  "platform": "Atari 5200",
+  "image_url": "https://vgmaps.com/Atlas/Atari5200/AdventureII(Unlicensed)-Levels3&8.png",
+  "view": "other",
+  "dims": [
+   2932,
+   3377
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari5200/index.htm#AdventureII",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Storm (E)",
+  "target": "Dungeon",
+  "platform": "Atari 8-bit",
+  "image_url": "https://vgmaps.com/Atlas/Atari8-Bit/Storm(E)-Dungeon.png",
+  "view": "top",
+  "dims": [
+   5000,
+   2500
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari8-Bit/index.htm#Storm",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Bubble Ghost",
+  "target": "Castle",
+  "platform": "Atari ST",
+  "image_url": "https://vgmaps.com/Atlas/AtariST/BubbleGhost-Castle.png",
+  "view": "top",
+  "dims": [
+   2070,
+   1215
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/AtariST/index.htm#BubbleGhost",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Bubble+ (E)",
+  "target": "House",
+  "platform": "Atari ST",
+  "image_url": "https://vgmaps.com/Atlas/AtariST/BubblePlus(E)-House.png",
+  "view": "other",
+  "dims": [
+   2070,
+   1215
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/AtariST/index.htm#BubblePlus",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Super Action Soccer",
+  "target": "Soccer Field",
+  "platform": "ColecoVision",
+  "image_url": "https://vgmaps.com/Atlas/ColecoVision/SuperActionSoccer-SoccerField.png",
+  "view": "other",
+  "dims": [
+   2530,
+   1326
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ColecoVision/index.htm#SuperActionSoccer",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Attack Of The PETSCII Robots (Homebrew)",
+  "target": "Level 01: Research Lab",
+  "platform": "Commodore PET",
+  "image_url": "https://vgmaps.com/Atlas/PET/AttackOfThePETSCIIRobots(Homebrew)-Level01-ResearchLab.png",
+  "view": "other",
+  "dims": [
+   3136,
+   1616
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PET/index.htm#AttackOfThePETSCIIRobots",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Gods",
+  "target": "World One",
+  "platform": "PC-98",
+  "image_url": "https://vgmaps.com/Atlas/PC-98/Gods-LevelOne-City-WorldOne.png",
+  "view": "other",
+  "dims": [
+   840,
+   888
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC-98/index.htm#Gods",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "Miraculum: The Last Revelation (J)",
+  "target": "Demon World Abaddonia",
+  "platform": "PC-FX",
+  "image_url": "https://vgmaps.com/Atlas/PC-FX/Miraculum-LastRevelation(J)-DemonWorldAbaddonia.png",
+  "view": "other",
+  "dims": [
+   1536,
+   1536
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PC-FX/index.htm#MiraculumLastRevelation",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "PoPoLoCrois",
+  "target": "Pasela Port Town",
+  "platform": "PSP",
+  "image_url": "https://vgmaps.com/Atlas/PSP/PoPoLoCrois-PaselaPortTown.png",
+  "view": "top",
+  "dims": [
+   2496,
+   1071
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSP/index.htm#PoPoLoCrois",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "PoPoLoCrois",
+  "target": "PoPoLoCrois Castle",
+  "platform": "PSP",
+  "image_url": "https://vgmaps.com/Atlas/PSP/PoPoLoCrois-PoPoLoCroisCastle.png",
+  "view": "top",
+  "dims": [
+   2688,
+   1413
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSP/index.htm#PoPoLoCrois",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "PoPoLoCrois",
+  "target": "Takinen Village",
+  "platform": "PSP",
+  "image_url": "https://vgmaps.com/Atlas/PSP/PoPoLoCrois-TakinenVillage.png",
+  "view": "top",
+  "dims": [
+   2050,
+   749
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/PSP/index.htm#PoPoLoCrois",
+  "iconic": 2,
+  "detail": 5
+ },
+ {
+  "game": "King Of Fighters: R-1",
+  "target": "Kousien Stadium",
+  "platform": "Neo Geo Pocket Color",
+  "image_url": "https://vgmaps.com/Atlas/NGP-NGPC/KingOfFighters-R-1-Japan-KousienStadium.png",
+  "view": "other",
+  "dims": [
+   320,
+   152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NGP-NGPC/index.htm#KingOfFightersR1",
+  "iconic": 5,
+  "detail": 1
+ },
+ {
+  "game": "King Of Fighters: R-1",
+  "target": "Ruscass Corner",
+  "platform": "Neo Geo Pocket Color",
+  "image_url": "https://vgmaps.com/Atlas/NGP-NGPC/KingOfFighters-R-1-Monaco-RuscassCorner.png",
+  "view": "other",
+  "dims": [
+   320,
+   152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NGP-NGPC/index.htm#KingOfFightersR1",
+  "iconic": 5,
+  "detail": 1
+ },
+ {
+  "game": "King Of Fighters: R-1",
+  "target": "Tuban",
+  "platform": "Neo Geo Pocket Color",
+  "image_url": "https://vgmaps.com/Atlas/NGP-NGPC/KingOfFighters-R-1-Bali-Tuban.png",
+  "view": "other",
+  "dims": [
+   320,
+   152
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/NGP-NGPC/index.htm#KingOfFightersR1",
+  "iconic": 5,
+  "detail": 1
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 12: Bitter Lemming",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Tricky-Level12-BitterLemming.png",
+  "view": "other",
+  "dims": [
+   555,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 18: Let's Block And Blow",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level18-Let'sBlockAndBlow.png",
+  "view": "other",
+  "dims": [
+   543,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 22: A Beast Of A Level",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level22-BeastOfALevel.png",
+  "view": "other",
+  "dims": [
+   1000,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 24: Tightrope City",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Tricky-Level24-TightropeCity.png",
+  "view": "top",
+  "dims": [
+   600,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 26: Nightmare On Lem Street",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level26-NightmareOnLemStreet.png",
+  "view": "other",
+  "dims": [
+   1000,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 7: Builders Will Help You Here",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level7-BuildersWillHelpYouHere.png",
+  "view": "other",
+  "dims": [
+   1060,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Lemmings",
+  "target": "Level 9: As Long As You Try Your Best",
+  "platform": "Amiga",
+  "image_url": "https://vgmaps.com/Atlas/Amiga/Lemmings-Fun-Level9-AsLongAsYouTryYourBest.png",
+  "view": "other",
+  "dims": [
+   320,
+   160
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Amiga/index.htm#Lemmings",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Double Dragon",
+  "target": "Mission 2",
+  "platform": "Atari Lynx",
+  "image_url": "https://vgmaps.com/Atlas/Lynx/DoubleDragon-Mission2.png",
+  "view": "other",
+  "dims": [
+   1190,
+   240
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Lynx/index.htm#DoubleDragon",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "Double Dragon",
+  "target": "Practice",
+  "platform": "Atari Lynx",
+  "image_url": "https://vgmaps.com/Atlas/Lynx/DoubleDragon-Practice.png",
+  "view": "other",
+  "dims": [
+   305,
+   240
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Lynx/index.htm#DoubleDragon",
+  "iconic": 4,
+  "detail": 2
+ },
+ {
+  "game": "FrontLine",
+  "target": "Map 1",
+  "platform": "ColecoVision",
+  "image_url": "https://vgmaps.com/Atlas/ColecoVision/FrontLine-Map1.png",
+  "view": "other",
+  "dims": [
+   704,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ColecoVision/index.htm#FrontLine",
+  "iconic": 2,
+  "detail": 4
+ },
+ {
+  "game": "FrontLine",
+  "target": "Map 2",
+  "platform": "ColecoVision",
+  "image_url": "https://vgmaps.com/Atlas/ColecoVision/FrontLine-Map2.png",
+  "view": "other",
+  "dims": [
+   704,
+   2048
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ColecoVision/index.htm#FrontLine",
+  "iconic": 2,
+  "detail": 4
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 10",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level10.png",
+  "view": "other",
+  "dims": [
+   983,
+   1459
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 11",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level11.png",
+  "view": "other",
+  "dims": [
+   983,
+   1459
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 14",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level14.png",
+  "view": "other",
+  "dims": [
+   1289,
+   1080
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 16",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level16.png",
+  "view": "other",
+  "dims": [
+   1136,
+   1331
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "H.E.R.O.",
+  "target": "Level 9",
+  "platform": "Atari 2600",
+  "image_url": "https://vgmaps.com/Atlas/Atari2600/HERO-Level9.png",
+  "view": "other",
+  "dims": [
+   983,
+   1457
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Atari2600/index.htm#HERO",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Kool-Aid Man",
+  "target": "Map",
+  "platform": "Intellivision",
+  "image_url": "https://vgmaps.com/Atlas/Intellivision/Kool-AidMan-Map.png",
+  "view": "other",
+  "dims": [
+   907,
+   452
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Intellivision/index.htm#KoolAidMan",
+  "iconic": 2,
+  "detail": 3
+ },
+ {
+  "game": "Mystic Balloon",
+  "target": "Level 1",
+  "platform": "Arduboy",
+  "image_url": "https://vgmaps.com/Atlas/Arduboy/MysticBalloon-Level1.png",
+  "view": "other",
+  "dims": [
+   384,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arduboy/index.htm#MysticBalloon",
+  "iconic": 2,
+  "detail": 2
+ },
+ {
+  "game": "Mystic Balloon",
+  "target": "Level 2",
+  "platform": "Arduboy",
+  "image_url": "https://vgmaps.com/Atlas/Arduboy/MysticBalloon-Level2.png",
+  "view": "other",
+  "dims": [
+   384,
+   384
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/Arduboy/index.htm#MysticBalloon",
+  "iconic": 2,
+  "detail": 2
+ },
+ {
+  "game": "Centipede",
+  "target": "Waves",
+  "platform": "ColecoVision",
+  "image_url": "https://vgmaps.com/Atlas/ColecoVision/Centipede-Waves.png",
+  "view": "other",
+  "dims": [
+   1144,
+   678
+  ],
+  "source": "VGMaps",
+  "source_page": "https://vgmaps.com/Atlas/ColecoVision/index.htm#Centipede",
+  "iconic": 2,
+  "detail": 2
+ }
+]
